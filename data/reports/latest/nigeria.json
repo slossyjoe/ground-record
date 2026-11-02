@@ -1,0 +1,112 @@
+{
+  "conflictId": "nigeria",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Boko Haram insurgency",
+    "description": "Insurgency in Sub-Saharan Africa",
+    "extract": "The Boko Haram insurgency began in July 2009, when the militant Islamist and jihadist rebel group Boko Haram started an armed rebellion against the government of Nigeria. Boko Haram targets both Muslims and Christians. Attacks are often directed at individuals perceived as supporting the Nigerian government or Islamic State after the split between them, including civil servants, local defense groups, Muslim leaders who oppose the group and other rebels like al-Qaeda and Islamic State. Most attacks are not based on the religion of the victims.",
+    "url": "https://en.wikipedia.org/wiki/Boko_Haram_insurgency",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T13:22:57.234Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [],
+  "outletCounts": [],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "No sample movement was written. A card appears here only when a headline describes movement.",
+      "casualties": "No sample casualty range was written. Figures appear only when a headline or a Wikipedia infobox states them.",
+      "units": "No fictional unit was written. A name appears only if a headline or a Wikipedia base entry states it.",
+      "territory": "No sample territory change was written.",
+      "weapons": "No sample weapon was written. A weapon line appears only when a headline names one."
+    },
+    "movements": [],
+    "casualtyGroups": [],
+    "units": [],
+    "territory": [],
+    "weapons": [],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "ref-nigeria-Maiduguri",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 11.83722222,
+        "lng": 13.15416667,
+        "title": "Maiduguri",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Maiduguri",
+            "url": "https://en.wikipedia.org/wiki/Maiduguri",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-nigeria-Abuja",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 9.06666667,
+        "lng": 7.48333333,
+        "title": "Abuja",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Abuja",
+            "url": "https://en.wikipedia.org/wiki/Abuja",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-nigeria-Zamfara",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 12.16666667,
+        "lng": 6.25,
+        "title": "Zamfara",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Zamfara",
+            "url": "https://en.wikipedia.org/wiki/Zamfara_State",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": []
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 0,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "ok",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 0 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

@@ -1,0 +1,613 @@
+{
+  "notes": {
+    "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+    "casualties": "Sample illustration. The ranges were invented so two competing claims can sit side by side. This page does not adopt either number.",
+    "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+    "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+    "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+  },
+  "movements": [
+    {
+      "id": "sd-mv-1",
+      "text": "Sample statement: a column shifted toward the illustrated El Fasher box during the layout day.",
+      "claimedBy": "Sample: Sudanese Armed Forces",
+      "partyId": "saf",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated North Darfur"
+    },
+    {
+      "id": "sd-mv-2",
+      "text": "Sample statement: a column shifted along the illustrated Khartoum approach during the layout day.",
+      "claimedBy": "Sample: Rapid Support Forces",
+      "partyId": "rsf",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated Khartoum approach"
+    }
+  ],
+  "casualtyGroups": [
+    {
+      "id": "sd-cas-1",
+      "topic": "Deaths in the illustrated day, two versions",
+      "summary": "One sample statement gives a higher civilian toll. The other gives a lower military toll. They are not the same count, and neither is adopted.",
+      "claims": [
+        {
+          "id": "sd-cas-a",
+          "text": "Deaths in the illustrated North Darfur box, including civilians.",
+          "claimedBy": "Sample: local medical statement",
+          "partyId": "saf",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 80,
+          "high": 140,
+          "unit": "people",
+          "area": null
+        },
+        {
+          "id": "sd-cas-b",
+          "text": "Deaths described as opposing fighters only, in a different illustrated box.",
+          "claimedBy": "Sample: Rapid Support Forces statement",
+          "partyId": "rsf",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 15,
+          "high": 30,
+          "unit": "fighters",
+          "area": null
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "sd-u-1",
+      "name": "Sample unit S-1",
+      "partyId": "saf",
+      "area": "Illustrated North Darfur box",
+      "text": "Fictional unit. The pin is near El Fasher so the map reads as Sudan.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sd-u-2",
+      "name": "Sample unit S-2",
+      "partyId": "rsf",
+      "area": "Illustrated Khartoum approach",
+      "text": "Fictional unit. The pin does not say who holds Khartoum.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "territory": [
+    {
+      "id": "sd-ter-1",
+      "topic": "Illustrated neighborhood",
+      "summary": "Held, according to one sample statement. Contested, according to the other.",
+      "claims": [
+        {
+          "id": "sd-ter-a",
+          "text": "The illustrated neighborhood is described as held.",
+          "claimedBy": "Sample: Sudanese Armed Forces",
+          "partyId": "saf",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        },
+        {
+          "id": "sd-ter-b",
+          "text": "The same neighborhood is described as contested.",
+          "claimedBy": "Sample: Rapid Support Forces",
+          "partyId": "rsf",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "id": "sd-w-1",
+      "weaponType": "artillery",
+      "name": "Sample artillery mention",
+      "partyId": "saf",
+      "area": "Illustrated North Darfur",
+      "text": "Fictional artillery card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sd-w-2",
+      "weaponType": "drone",
+      "name": "Sample drone mention",
+      "partyId": "rsf",
+      "area": "Illustrated Khartoum approach",
+      "text": "Fictional drone card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sd-w-3",
+      "weaponType": "small-arms",
+      "name": "Sample small-arms mention",
+      "partyId": "saf",
+      "area": "Illustrated neighborhood",
+      "text": "Fictional small-arms card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "casualtyTrend": {
+    "origin": "sample",
+    "unit": "people, claimed range",
+    "caption": "Illustrative ranges. The two series are not counting the same thing. Do not add them together.",
+    "points": [
+      {
+        "date": "2026-10-27",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "saf",
+            "low": 40,
+            "high": 90
+          },
+          {
+            "id": "by-rsf",
+            "label": "Sample RSF statement, opposing fighters",
+            "partyId": "rsf",
+            "low": 10,
+            "high": 25
+          }
+        ]
+      },
+      {
+        "date": "2026-10-28",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "saf",
+            "low": 60,
+            "high": 110
+          },
+          {
+            "id": "by-rsf",
+            "label": "Sample RSF statement, opposing fighters",
+            "partyId": "rsf",
+            "low": 12,
+            "high": 28
+          }
+        ]
+      },
+      {
+        "date": "2026-10-29",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "saf",
+            "low": 30,
+            "high": 70
+          },
+          {
+            "id": "by-rsf",
+            "label": "Sample RSF statement, opposing fighters",
+            "partyId": "rsf",
+            "low": 8,
+            "high": 20
+          }
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "saf",
+            "low": 70,
+            "high": 120
+          },
+          {
+            "id": "by-rsf",
+            "label": "Sample RSF statement, opposing fighters",
+            "partyId": "rsf",
+            "low": 14,
+            "high": 32
+          }
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "saf",
+            "low": 80,
+            "high": 140
+          },
+          {
+            "id": "by-rsf",
+            "label": "Sample RSF statement, opposing fighters",
+            "partyId": "rsf",
+            "low": 15,
+            "high": 30
+          }
+        ]
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "sd-ref-krt",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 15.5,
+      "lng": 32.56,
+      "title": "Khartoum",
+      "detail": "City marker for orientation. Not a statement of who holds the city.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "sd-ref-ef",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 13.63,
+      "lng": 25.35,
+      "title": "El Fasher",
+      "detail": "City marker for orientation. Not a siege assessment.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "sd-ref-ps",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 19.62,
+      "lng": 37.22,
+      "title": "Port Sudan",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "sd-unit-s",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 13.7,
+      "lng": 25.55,
+      "title": "SAMPLE — unit S-1",
+      "detail": "Fictional unit near El Fasher.",
+      "partyId": "saf",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sd-unit-r",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 15.4,
+      "lng": 32.3,
+      "title": "SAMPLE — unit S-2",
+      "detail": "Fictional unit on the Khartoum approach. Not a control claim.",
+      "partyId": "rsf",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sd-clash",
+      "kind": "clash",
+      "origin": "sample",
+      "lat": 13.62,
+      "lng": 25.4,
+      "title": "SAMPLE — clash",
+      "detail": "Fictional clash marker.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sd-strike",
+      "kind": "strike",
+      "origin": "sample",
+      "lat": 13.8,
+      "lng": 25.2,
+      "title": "SAMPLE — strike",
+      "detail": "Fictional strike marker, not on the city center.",
+      "partyId": "rsf",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sd-weapon",
+      "kind": "weapon",
+      "origin": "sample",
+      "lat": 15.55,
+      "lng": 32.7,
+      "title": "SAMPLE — drone",
+      "detail": "Fictional weapon marker.",
+      "partyId": "rsf",
+      "weaponType": "drone",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "shapes": [
+    {
+      "id": "sd-ctrl-a",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "saf",
+      "title": "SAMPLE — illustrated area, North Darfur",
+      "detail": "Small sample polygon. Not a map of who holds North Darfur.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          25.2,
+          13.5
+        ],
+        [
+          25.7,
+          13.5
+        ],
+        [
+          25.7,
+          13.9
+        ],
+        [
+          25.2,
+          13.9
+        ],
+        [
+          25.2,
+          13.5
+        ]
+      ]
+    },
+    {
+      "id": "sd-ctrl-b",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "rsf",
+      "title": "SAMPLE — illustrated area, Khartoum approach",
+      "detail": "Small sample polygon. Not a map of the capital.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          32.2,
+          15.3
+        ],
+        [
+          32.7,
+          15.3
+        ],
+        [
+          32.7,
+          15.65
+        ],
+        [
+          32.2,
+          15.65
+        ],
+        [
+          32.2,
+          15.3
+        ]
+      ]
+    },
+    {
+      "id": "sd-front",
+      "kind": "front",
+      "origin": "sample",
+      "partyId": null,
+      "title": "SAMPLE — illustrated front",
+      "detail": "Short sample line. Not a real front.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          25.45,
+          13.5
+        ],
+        [
+          25.5,
+          13.7
+        ],
+        [
+          25.4,
+          13.9
+        ]
+      ]
+    }
+  ]
+}

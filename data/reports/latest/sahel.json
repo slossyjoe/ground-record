@@ -1,0 +1,492 @@
+{
+  "conflictId": "sahel",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "War in the Sahel",
+    "description": "War in West Africa",
+    "extract": "The War in the Sahel, also known synonymously as the Sahel War is a multi-sided armed conflict that has been ongoing since 2012. In particular, the intensive conflict mainly takes place in the three countries of Mali, Niger and Burkina Faso.",
+    "url": "https://en.wikipedia.org/wiki/War_in_the_Sahel",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:13:03.953Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "Mali : The Palace Guard Against the Trenches - What the Mutiny in Niamey Revealed",
+      "url": "https://allafrica.com/stories/202610220013.html",
+      "publishedAt": "2026-10-22T05:30:00.000Z",
+      "excerpt": "",
+      "outlet": "allafrica.com",
+      "outletType": "Web source via GDELT",
+      "country": "Nigeria",
+      "via": "GDELT",
+      "tokenSet": {},
+      "place": "Niamey",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h839f06ed"
+    },
+    {
+      "title": "Attack by Islamic State - affiliated group in Mali kills 48 people , official says",
+      "url": "https://panow.com/2026/10/20/attack-by-islamic-state-affiliated-group-in-mali-kills-48-people-official-says/",
+      "publishedAt": "2026-10-20T21:00:00.000Z",
+      "excerpt": "",
+      "outlet": "panow.com",
+      "outletType": "Web source via GDELT",
+      "country": "Canada",
+      "via": "GDELT",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h87362e82"
+    },
+    {
+      "title": "Africa Gold Resources are Tempting Targets for Jihadists",
+      "url": "https://ict.org.il/gold-resources-tempting-for-jihadists/",
+      "publishedAt": "2026-10-20T14:00:00.000Z",
+      "excerpt": "",
+      "outlet": "ict.org.il",
+      "outletType": "Web source via GDELT",
+      "country": "Israel",
+      "via": "GDELT",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h70adc72c"
+    },
+    {
+      "title": "The Situation in the Sahel",
+      "url": "https://ict.org.il/the-situation-in-the-sahel/",
+      "publishedAt": "2026-10-20T14:00:00.000Z",
+      "excerpt": "",
+      "outlet": "ict.org.il",
+      "outletType": "Web source via GDELT",
+      "country": "Israel",
+      "via": "GDELT",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h7e23f9bc"
+    },
+    {
+      "title": "Islamic State - linked militants kill at least 48 civilians in eastern Mali , sources say",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/islamic-state-linked-militants-kill-at-least-48-civilians-in-eastern-mali-sources-say",
+      "publishedAt": "2026-10-20T12:00:00.000Z",
+      "excerpt": "",
+      "outlet": "internazionale.it",
+      "outletType": "Web source via GDELT",
+      "country": "Italy",
+      "via": "GDELT",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hb80866ce"
+    },
+    {
+      "title": "Sahel Crisis : Mali Counteroffensive , Russian Support , and the Islamist Threat – Modern Tokyo Times",
+      "url": "https://moderntokyotimes.com/sahel-crisis-malis-counteroffensive-russian-support-and-the-islamist-threat/",
+      "publishedAt": "2026-10-18T15:15:00.000Z",
+      "excerpt": "",
+      "outlet": "moderntokyotimes.com",
+      "outletType": "Web source via GDELT",
+      "country": "Japan",
+      "via": "GDELT",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h67f68aef"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "ict.org.il",
+      "outletType": "Web source via GDELT",
+      "count": 2
+    },
+    {
+      "name": "allafrica.com",
+      "outletType": "Web source via GDELT",
+      "count": 1
+    },
+    {
+      "name": "panow.com",
+      "outletType": "Web source via GDELT",
+      "count": 1
+    },
+    {
+      "name": "internazionale.it",
+      "outletType": "Web source via GDELT",
+      "count": 1
+    },
+    {
+      "name": "moderntokyotimes.com",
+      "outletType": "Web source via GDELT",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+      "casualties": "Reference lines are quoted from a Wikipedia infobox. Live lines are headlines. A number is shown only when that source wrote it. Sample ranges are left off this page because a sourced line was found.",
+      "units": "Named units are names that appear in a headline or, when marked Reference, encyclopedia entries for a base. A base pin is not a report that the unit moved.",
+      "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+      "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+    },
+    "movements": [
+      {
+        "id": "sa-mv-1",
+        "text": "Sample statement: a convoy moved toward the illustrated tri-border box.",
+        "claimedBy": "Sample: state-forces statement",
+        "partyId": "states",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated tri-border box"
+      },
+      {
+        "id": "sa-mv-2",
+        "text": "Sample statement: a group left a camp in the same illustrated box.",
+        "claimedBy": "Sample: JNIM statement",
+        "partyId": "jnim",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated tri-border box"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "grp-0-place not named",
+        "topic": "Figures written in headlines: place not named",
+        "summary": "Each line is a headline from this pull. The figure, if shown, is a number written in that headline.",
+        "claims": [
+          {
+            "id": "live-sahel-1",
+            "text": "“Attack by Islamic State - affiliated group in Mali kills 48 people , official says”",
+            "claimedBy": "panow.com",
+            "partyId": "issp",
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "panow.com",
+                "url": "https://panow.com/2026/10/20/attack-by-islamic-state-affiliated-group-in-mali-kills-48-people-official-says/",
+                "publishedAt": "2026-10-20T21:00:00.000Z",
+                "note": "Web source via GDELT",
+                "kind": "article"
+              }
+            ],
+            "area": null,
+            "low": 48,
+            "high": 48,
+            "unit": "people; as written in the headline"
+          },
+          {
+            "id": "live-sahel-4",
+            "text": "“Islamic State - linked militants kill at least 48 civilians in eastern Mali , sources say”",
+            "claimedBy": "sources",
+            "partyId": "issp",
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "internazionale.it",
+                "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/20/islamic-state-linked-militants-kill-at-least-48-civilians-in-eastern-mali-sources-say",
+                "publishedAt": "2026-10-20T12:00:00.000Z",
+                "note": "Web source via GDELT",
+                "kind": "article"
+              }
+            ],
+            "area": null,
+            "low": 48,
+            "high": 48,
+            "unit": "people; the headline says at least this"
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "wiki-unit-sahel-strength1",
+        "name": "Wikipedia infobox strength1",
+        "partyId": null,
+        "area": "Not a mapped location",
+        "text": "Total armed forces: Mali: 7,350 AFISMA: 2,900",
+        "claimedBy": "Wikipedia infobox, field strength1",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: War in the Sahel",
+            "url": "https://en.wikipedia.org/wiki/War_in_the_Sahel",
+            "note": "Quoted from the infobox. Not a sighting from this pull.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "wiki-unit-sahel-strength2",
+        "name": "Wikipedia infobox strength2",
+        "partyId": null,
+        "area": "Not a mapped location",
+        "text": "plainlist * ISIS JNIM: 10.000 * MUJAO: ~500 * 22px Al-Mourabitoun: Fewer than 100 * 22px Ansar Dine: 300 –10.000 ---- * Islamic State 2.000–3.000 endplainlist",
+        "claimedBy": "Wikipedia infobox, field strength2",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: War in the Sahel",
+            "url": "https://en.wikipedia.org/wiki/War_in_the_Sahel",
+            "note": "Quoted from the infobox. Not a sighting from this pull.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "wiki-unit-sahel-strength3",
+        "name": "Wikipedia infobox strength3",
+        "partyId": null,
+        "area": "Not a mapped location",
+        "text": "Unknown }} Campaignbox Insurgency in the Maghreb The War in the Sahel, also known synonymously as the Sahel War is a multi-sided armed conflict that has been ongoing since 2012. In particular, the intensive conflict mainly takes place in the three countries of Mali, Niger and Burkina Faso. The conflict is generally seen to have begun during the early stages of the Mali War, which itself was seen a…",
+        "claimedBy": "Wikipedia infobox, field strength3",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: War in the Sahel",
+            "url": "https://en.wikipedia.org/wiki/War_in_the_Sahel",
+            "note": "Quoted from the infobox. Not a sighting from this pull.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "sa-ter-1",
+        "topic": "Illustrated road junction",
+        "summary": "Cleared, in one sample. Still used by the other side, in the other sample.",
+        "claims": [
+          {
+            "id": "sa-ter-a",
+            "text": "The illustrated junction is described as cleared.",
+            "claimedBy": "Sample: state-forces statement",
+            "partyId": "states",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          },
+          {
+            "id": "sa-ter-b",
+            "text": "The same junction is described as still used.",
+            "claimedBy": "Sample: JNIM statement",
+            "partyId": "jnim",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "sa-w-1",
+        "weaponType": "armor",
+        "name": "Sample armored-vehicle mention",
+        "partyId": "states",
+        "area": "Illustrated tri-border box",
+        "text": "Fictional vehicle card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "sa-w-2",
+        "weaponType": "drone",
+        "name": "Sample drone mention",
+        "partyId": "states",
+        "area": "Illustrated tri-border box",
+        "text": "Fictional drone card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "sa-w-3",
+        "weaponType": "small-arms",
+        "name": "Sample small-arms mention",
+        "partyId": "jnim",
+        "area": "Illustrated tri-border box",
+        "text": "Fictional small-arms card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "ref-sahel-Niamey",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 13.51361111,
+        "lng": 2.10888889,
+        "title": "Niamey",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Niamey",
+            "url": "https://en.wikipedia.org/wiki/Niamey",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "sa-ref-bamako",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 12.64,
+        "lng": -8,
+        "title": "Bamako",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "sa-ref-oua",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 12.37,
+        "lng": -1.52,
+        "title": "Ouagadougou",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": []
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 6,
+    "gdelt": "ok, 10 kept",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 1 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

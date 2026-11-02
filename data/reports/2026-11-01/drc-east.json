@@ -1,0 +1,631 @@
+{
+  "conflictId": "drc-east",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "M23 campaign (2022–present)",
+    "description": "M23 rebel offensive in the DR Congo",
+    "extract": "The M23 campaign is an ongoing series of military offensives launched by the March 23 Movement (M23), a Rwandan-backed rebel paramilitary group in the Democratic Republic of the Congo, since March 2022. In November 2021, M23 first launched attacks against the Congolese military (FARDC) and MONUSCO, seizing military positions in Ndiza, Cyanzu, and Runyoni in North Kivu Province. This coincided with the deployment of Uganda People's Defence Force (UPDF) to the region to combat the Allied Democratic Forces (ADF), a Ugandan rebel group operating in the Congo's North Kivu and Ituri provinces.",
+    "url": "https://en.wikipedia.org/wiki/M23_campaign_(2022%E2%80%93present)",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:13:41.113Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "DRC: US sanctions on Rwanda draw mixed reactions in Goma",
+      "url": "http://www.africanews.com/2026/10/29/drc-us-sanctions-on-rwanda-draw-mixed-reactions-in-goma/",
+      "publishedAt": "2026-10-30T09:06:45.000Z",
+      "excerpt": "In Goma, some residents want to believe that this additional pressure could help break the deadlock. Michel Kamango hopes the sanctions will affect the parties concerned and help bring about a return to peace.",
+      "outlet": "Africanews",
+      "outletType": "Private broadcaster",
+      "country": "Pan-African",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Goma",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hf818b3a7"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "Africanews",
+      "outletType": "Private broadcaster",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+      "casualties": "Sample illustration. The ranges were invented so two competing claims can sit side by side. This page does not adopt either number.",
+      "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+      "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+      "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+    },
+    "movements": [
+      {
+        "id": "cd-mv-1",
+        "text": "Sample statement: a unit moved along the illustrated north road.",
+        "claimedBy": "Sample: Congolese military statement",
+        "partyId": "fardc",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated North Kivu box"
+      },
+      {
+        "id": "cd-mv-2",
+        "text": "Sample statement: a unit moved toward the same illustrated road.",
+        "claimedBy": "Sample: M23 statement",
+        "partyId": "m23",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated North Kivu box"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "cd-cas-1",
+        "topic": "Deaths for the illustrated day",
+        "summary": "Two sample statements, different categories.",
+        "claims": [
+          {
+            "id": "cd-cas-a",
+            "text": "Deaths described as civilians.",
+            "claimedBy": "Sample: local medical statement",
+            "partyId": "fardc",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": 12,
+            "high": 30,
+            "unit": "civilians",
+            "area": null
+          },
+          {
+            "id": "cd-cas-b",
+            "text": "Deaths described as opposing fighters.",
+            "claimedBy": "Sample: M23 statement",
+            "partyId": "m23",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": 4,
+            "high": 10,
+            "unit": "fighters",
+            "area": null
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "cd-u-1",
+        "name": "Sample unit C-1",
+        "partyId": "fardc",
+        "area": "Illustrated North Kivu box",
+        "text": "Fictional unit. Not a real brigade.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "cd-u-2",
+        "name": "Sample unit C-2",
+        "partyId": "m23",
+        "area": "Illustrated North Kivu box",
+        "text": "Fictional unit.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "cd-ter-1",
+        "topic": "Illustrated ridge",
+        "summary": "Held, in one sample. Not held, in the other.",
+        "claims": [
+          {
+            "id": "cd-ter-a",
+            "text": "The illustrated ridge is described as held.",
+            "claimedBy": "Sample: M23 statement",
+            "partyId": "m23",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          },
+          {
+            "id": "cd-ter-b",
+            "text": "The same ridge is described as not held by that force.",
+            "claimedBy": "Sample: Congolese military statement",
+            "partyId": "fardc",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "cd-w-1",
+        "weaponType": "artillery",
+        "name": "Sample artillery mention",
+        "partyId": "m23",
+        "area": "Illustrated ridge",
+        "text": "Fictional artillery card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "cd-w-2",
+        "weaponType": "armor",
+        "name": "Sample armored-vehicle mention",
+        "partyId": "fardc",
+        "area": "Illustrated north road",
+        "text": "Fictional vehicle card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "cd-w-3",
+        "weaponType": "small-arms",
+        "name": "Sample small-arms mention",
+        "partyId": "m23",
+        "area": "Illustrated ridge",
+        "text": "Fictional small-arms card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "casualtyTrend": {
+      "origin": "sample",
+      "unit": "people, claimed range",
+      "caption": "Illustrative ranges. Civilian and fighter counts are different claims.",
+      "points": [
+        {
+          "date": "2026-10-29",
+          "values": [
+            {
+              "id": "by-med",
+              "label": "Sample medical statement, civilians",
+              "partyId": "fardc",
+              "low": 8,
+              "high": 20
+            },
+            {
+              "id": "by-m23",
+              "label": "Sample M23 statement, opposing fighters",
+              "partyId": "m23",
+              "low": 3,
+              "high": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-10-30",
+          "values": [
+            {
+              "id": "by-med",
+              "label": "Sample medical statement, civilians",
+              "partyId": "fardc",
+              "low": 10,
+              "high": 24
+            },
+            {
+              "id": "by-m23",
+              "label": "Sample M23 statement, opposing fighters",
+              "partyId": "m23",
+              "low": 4,
+              "high": 9
+            }
+          ]
+        },
+        {
+          "date": "2026-10-31",
+          "values": [
+            {
+              "id": "by-med",
+              "label": "Sample medical statement, civilians",
+              "partyId": "fardc",
+              "low": 12,
+              "high": 30
+            },
+            {
+              "id": "by-m23",
+              "label": "Sample M23 statement, opposing fighters",
+              "partyId": "m23",
+              "low": 4,
+              "high": 10
+            }
+          ]
+        }
+      ]
+    },
+    "markers": [
+      {
+        "id": "ref-drc-east-Goma",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": -1.67944444,
+        "lng": 29.23361111,
+        "title": "Goma",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Goma",
+            "url": "https://en.wikipedia.org/wiki/Goma",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "cd-unit-a",
+        "kind": "unit",
+        "origin": "sample",
+        "lat": -1.35,
+        "lng": 29.35,
+        "title": "SAMPLE — unit C-1",
+        "detail": "Fictional unit north of Goma.",
+        "partyId": "fardc",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "cd-unit-b",
+        "kind": "unit",
+        "origin": "sample",
+        "lat": -1.2,
+        "lng": 29.55,
+        "title": "SAMPLE — unit C-2",
+        "detail": "Fictional unit. Not a real M23 position.",
+        "partyId": "m23",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "cd-clash",
+        "kind": "clash",
+        "origin": "sample",
+        "lat": -1.28,
+        "lng": 29.45,
+        "title": "SAMPLE — clash",
+        "detail": "Fictional clash marker.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "cd-strike",
+        "kind": "strike",
+        "origin": "sample",
+        "lat": -1.1,
+        "lng": 29.3,
+        "title": "SAMPLE — strike",
+        "detail": "Fictional strike marker.",
+        "partyId": "fardc",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "cd-weapon",
+        "kind": "weapon",
+        "origin": "sample",
+        "lat": -1.4,
+        "lng": 29.6,
+        "title": "SAMPLE — artillery",
+        "detail": "Fictional weapon marker.",
+        "partyId": "m23",
+        "weaponType": "artillery",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "cd-ref-bukavu",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": -2.51,
+        "lng": 28.86,
+        "title": "Bukavu",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "cd-ref-beni",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 0.49,
+        "lng": 29.47,
+        "title": "Beni",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "id": "cd-ctrl-a",
+        "kind": "control",
+        "origin": "sample",
+        "partyId": "fardc",
+        "title": "SAMPLE — illustrated box, west",
+        "detail": "Small sample polygon. Not a map of North Kivu.",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "coordinates": [
+          [
+            29.25,
+            -1.45
+          ],
+          [
+            29.55,
+            -1.45
+          ],
+          [
+            29.55,
+            -1.15
+          ],
+          [
+            29.25,
+            -1.15
+          ],
+          [
+            29.25,
+            -1.45
+          ]
+        ]
+      },
+      {
+        "id": "cd-ctrl-b",
+        "kind": "control",
+        "origin": "sample",
+        "partyId": "m23",
+        "title": "SAMPLE — illustrated box, east",
+        "detail": "Small sample polygon.",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "coordinates": [
+          [
+            29.55,
+            -1.45
+          ],
+          [
+            29.85,
+            -1.45
+          ],
+          [
+            29.85,
+            -1.15
+          ],
+          [
+            29.55,
+            -1.15
+          ],
+          [
+            29.55,
+            -1.45
+          ]
+        ]
+      },
+      {
+        "id": "cd-front",
+        "kind": "front",
+        "origin": "sample",
+        "partyId": null,
+        "title": "SAMPLE — illustrated line",
+        "detail": "Short sample line between the boxes.",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "coordinates": [
+          [
+            29.55,
+            -1.45
+          ],
+          [
+            29.55,
+            -1.3
+          ],
+          [
+            29.55,
+            -1.15
+          ]
+        ]
+      }
+    ]
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 1,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 0 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

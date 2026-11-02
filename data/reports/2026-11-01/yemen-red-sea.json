@@ -1,0 +1,530 @@
+{
+  "conflictId": "yemen-red-sea",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Yemeni civil war (2014–present)",
+    "description": "Armed conflict in the Middle East",
+    "extract": "The Yemeni civil war is an ongoing multilateral civil war that began in late 2014 mainly between the Rashad al-Alimi-led Presidential Leadership Council and the Mahdi al-Mashat-led Supreme Political Council, along with their respective supporters and allies. Both sides claim to constitute the official government of Yemen while the Presidential Leadership Council is recognized by the United Nations as the official government.",
+    "url": "https://en.wikipedia.org/wiki/Yemeni_civil_war_(2014%E2%80%93present)",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:14:39.373Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "Yemeni government forces seize strategic positions in al-Jawf",
+      "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
+      "publishedAt": "2026-11-01T10:08:55.000Z",
+      "excerpt": "Weapons and ammunition depots are seized after a counteroffensive.",
+      "outlet": "Al Jazeera English",
+      "outletType": "State-funded broadcaster",
+      "country": "Qatar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "al-Jawf",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h3ef4f46f"
+    },
+    {
+      "title": "Three civilians injured in Saudi-coalition air raids on Hodeidah, Houthis say",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-civilians-injured-saudi-coalition-air-raids-hodeidah-houthis-say",
+      "publishedAt": "2026-11-01T05:06:37.000Z",
+      "excerpt": "Three civilians injured in Saudi-coalition air raids on Hodeidah, Houthis say At least three civilians were wounded in two air raids by Saudi-led coalition forces on an oil facility in Bajil district in western Hodeidah governorate of Yemen, according…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Hodeidah",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h25239c05"
+    },
+    {
+      "title": "Guterres condemns death of UN staff member in Houthi custody",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/guterres-condemns-death-un-staff-member-houthi-custody",
+      "publishedAt": "2026-11-01T01:53:23.000Z",
+      "excerpt": "Guterres condemns death of UN staff member in Houthi custody United Nations Secretary General Antonio Guterres says he is “appalled” by the death of UN staff member Mohammad el-Shami in Houthi custody in Yemen. A spokesperson for Guterres said the UN chief condemns the death of…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hc1c1dbb4"
+    },
+    {
+      "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "excerpt": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hf12cda50"
+    },
+    {
+      "title": "Yemen war makes reaching assistance too dangerous for many",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "excerpt": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h8055188f"
+    },
+    {
+      "title": "Houthis sending Taiz ‘back to the stone age’, governor of besieged Yemen city says",
+      "url": "https://www.theguardian.com/world/2026/oct/30/houthis-taiz-stone-age-yemen-city-siege",
+      "publishedAt": "2026-10-30T09:00:50.000Z",
+      "excerpt": "Oxygen, food and water supplies running low and massacres taking place, says Nabil Shamsan The Houthis are trying to send the city of Taiz back to the stone age, the city’s governor said in a briefing designed to urge the international community to do more to lift the month-long…",
+      "outlet": "The Guardian",
+      "outletType": "Private newspaper",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Taiz",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "haa1bbe31"
+    },
+    {
+      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "excerpt": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hc79de109"
+    },
+    {
+      "title": "The Yemen War, Saudi-Iran relations and Another Escalation in the Gulf",
+      "url": "https://www.crisisgroup.org/pod/middle-east-north-africa/yemen/yemen-war-saudi-iran-relations-and-another-escalation-gulf",
+      "publishedAt": "2026-10-16T17:18:20.000Z",
+      "excerpt": "The Yemen War, Saudi-Iran relations and Another Escalation in the Gulf hschaub Fri, 10/16/2026 - 19:18 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Middle East…",
+      "outlet": "International Crisis Group",
+      "outletType": "Research organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h9b274d9b"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "UN News",
+      "outletType": "International organization",
+      "count": 3
+    },
+    {
+      "name": "Middle East Eye",
+      "outletType": "Private news site",
+      "count": 2
+    },
+    {
+      "name": "Al Jazeera English",
+      "outletType": "State-funded broadcaster",
+      "count": 1
+    },
+    {
+      "name": "The Guardian",
+      "outletType": "Private newspaper",
+      "count": 1
+    },
+    {
+      "name": "International Crisis Group",
+      "outletType": "Research organization",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+      "casualties": "Reference lines are quoted from a Wikipedia infobox. Live lines are headlines. A number is shown only when that source wrote it. Sample ranges are left off this page because a sourced line was found.",
+      "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+      "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+      "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+    },
+    "movements": [
+      {
+        "id": "ye-mv-1",
+        "text": "Sample statement: a unit shifted inside the illustrated highland box.",
+        "claimedBy": "Sample: Houthi statement",
+        "partyId": "houthis",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated highland box"
+      },
+      {
+        "id": "ye-mv-2",
+        "text": "Sample statement: a patrol shifted along the illustrated southern coast.",
+        "claimedBy": "Sample: government-aligned statement",
+        "partyId": "gov",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated southern coast"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "grp-0-Hodeidah",
+        "topic": "Figures written in headlines: Hodeidah",
+        "summary": "Each line is a headline from this pull. The figure, if shown, is a number written in that headline.",
+        "claims": [
+          {
+            "id": "live-yemen-red-sea-1",
+            "text": "“Three civilians injured in Saudi-coalition air raids on Hodeidah, Houthis say”",
+            "claimedBy": "Houthis",
+            "partyId": "houthis",
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "Middle East Eye",
+                "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-civilians-injured-saudi-coalition-air-raids-hodeidah-houthis-say",
+                "publishedAt": "2026-11-01T05:06:37.000Z",
+                "note": "Private news site",
+                "kind": "article"
+              }
+            ],
+            "area": "Hodeidah",
+            "low": 3,
+            "high": 3,
+            "unit": "people; as written in the headline"
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "ye-u-1",
+        "name": "Sample unit Y-1",
+        "partyId": "houthis",
+        "area": "Illustrated highland box",
+        "text": "Fictional unit.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ye-u-2",
+        "name": "Sample unit Y-2",
+        "partyId": "gov",
+        "area": "Illustrated southern coast",
+        "text": "Fictional unit.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "ye-ter-1",
+        "topic": "Illustrated coastal post",
+        "summary": "Taken, in one sample. Never lost, in the other.",
+        "claims": [
+          {
+            "id": "ye-ter-a",
+            "text": "The illustrated post is described as taken.",
+            "claimedBy": "Sample: government-aligned statement",
+            "partyId": "gov",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          },
+          {
+            "id": "ye-ter-b",
+            "text": "The same post is described as never lost.",
+            "claimedBy": "Sample: Houthi statement",
+            "partyId": "houthis",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "ye-w-1",
+        "weaponType": "missile",
+        "name": "Sample missile mention",
+        "partyId": "houthis",
+        "area": "Illustrated Red Sea lane",
+        "text": "Fictional anti-ship missile card. Not a real attack.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ye-w-2",
+        "weaponType": "drone",
+        "name": "Sample drone mention",
+        "partyId": "houthis",
+        "area": "Illustrated highland box",
+        "text": "Fictional drone card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ye-w-3",
+        "weaponType": "air",
+        "name": "Sample aircraft mention",
+        "partyId": "gov",
+        "area": "Illustrated southern coast",
+        "text": "Fictional aircraft card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "pin-yemen-red-sea-1",
+        "kind": "event",
+        "origin": "live",
+        "lat": 14.80222222,
+        "lng": 42.95111111,
+        "title": "Hodeidah",
+        "detail": "Three civilians injured in Saudi-coalition air raids on Hodeidah, Houthis say",
+        "partyId": "houthis",
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Houthis",
+        "sources": [
+          {
+            "name": "Middle East Eye",
+            "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-civilians-injured-saudi-coalition-air-raids-hodeidah-houthis-say",
+            "publishedAt": "2026-11-01T05:06:37.000Z",
+            "note": "Private news site",
+            "kind": "article"
+          }
+        ]
+      },
+      {
+        "id": "ref-yemen-red-sea-Hodeidah",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 14.80222222,
+        "lng": 42.95111111,
+        "title": "Hodeidah",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Hodeidah",
+            "url": "https://en.wikipedia.org/wiki/Al_Hudaydah",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-yemen-red-sea-al-Jawf",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 16.78333333,
+        "lng": 45.51666667,
+        "title": "al-Jawf",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: al-Jawf",
+            "url": "https://en.wikipedia.org/wiki/Al_Jawf_Governorate",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ye-ref-sanaa",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 15.37,
+        "lng": 44.19,
+        "title": "Sanaa",
+        "detail": "City marker for orientation. Not a control assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ye-ref-aden",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 12.79,
+        "lng": 45.02,
+        "title": "Aden",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": []
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 8,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 1 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 1 mapped places."
+    ]
+  }
+}

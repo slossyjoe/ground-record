@@ -1,0 +1,536 @@
+{
+  "notes": {
+    "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+    "casualties": "Sample illustration. The ranges were invented so two competing claims can sit side by side. This page does not adopt either number.",
+    "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+    "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+    "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+  },
+  "movements": [
+    {
+      "id": "ye-mv-1",
+      "text": "Sample statement: a unit shifted inside the illustrated highland box.",
+      "claimedBy": "Sample: Houthi statement",
+      "partyId": "houthis",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated highland box"
+    },
+    {
+      "id": "ye-mv-2",
+      "text": "Sample statement: a patrol shifted along the illustrated southern coast.",
+      "claimedBy": "Sample: government-aligned statement",
+      "partyId": "gov",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated southern coast"
+    }
+  ],
+  "casualtyGroups": [
+    {
+      "id": "ye-cas-1",
+      "topic": "Deaths for the illustrated day",
+      "summary": "Two sample statements about different places. Not one national total.",
+      "claims": [
+        {
+          "id": "ye-cas-a",
+          "text": "Deaths in the illustrated highland box.",
+          "claimedBy": "Sample: medical statement",
+          "partyId": "gov",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 10,
+          "high": 25,
+          "unit": "people",
+          "area": null
+        },
+        {
+          "id": "ye-cas-b",
+          "text": "Deaths described as opposing fighters on the coast.",
+          "claimedBy": "Sample: Houthi statement",
+          "partyId": "houthis",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 3,
+          "high": 8,
+          "unit": "fighters",
+          "area": null
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "ye-u-1",
+      "name": "Sample unit Y-1",
+      "partyId": "houthis",
+      "area": "Illustrated highland box",
+      "text": "Fictional unit.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ye-u-2",
+      "name": "Sample unit Y-2",
+      "partyId": "gov",
+      "area": "Illustrated southern coast",
+      "text": "Fictional unit.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "territory": [
+    {
+      "id": "ye-ter-1",
+      "topic": "Illustrated coastal post",
+      "summary": "Taken, in one sample. Never lost, in the other.",
+      "claims": [
+        {
+          "id": "ye-ter-a",
+          "text": "The illustrated post is described as taken.",
+          "claimedBy": "Sample: government-aligned statement",
+          "partyId": "gov",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        },
+        {
+          "id": "ye-ter-b",
+          "text": "The same post is described as never lost.",
+          "claimedBy": "Sample: Houthi statement",
+          "partyId": "houthis",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "id": "ye-w-1",
+      "weaponType": "missile",
+      "name": "Sample missile mention",
+      "partyId": "houthis",
+      "area": "Illustrated Red Sea lane",
+      "text": "Fictional anti-ship missile card. Not a real attack.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ye-w-2",
+      "weaponType": "drone",
+      "name": "Sample drone mention",
+      "partyId": "houthis",
+      "area": "Illustrated highland box",
+      "text": "Fictional drone card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ye-w-3",
+      "weaponType": "air",
+      "name": "Sample aircraft mention",
+      "partyId": "gov",
+      "area": "Illustrated southern coast",
+      "text": "Fictional aircraft card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "casualtyTrend": {
+    "origin": "sample",
+    "unit": "people, claimed range",
+    "caption": "Illustrative ranges. Not a Yemen death toll.",
+    "points": [
+      {
+        "date": "2026-10-29",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "gov",
+            "low": 6,
+            "high": 16
+          },
+          {
+            "id": "by-h",
+            "label": "Sample Houthi statement, opposing fighters",
+            "partyId": "houthis",
+            "low": 2,
+            "high": 6
+          }
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "gov",
+            "low": 8,
+            "high": 20
+          },
+          {
+            "id": "by-h",
+            "label": "Sample Houthi statement, opposing fighters",
+            "partyId": "houthis",
+            "low": 3,
+            "high": 7
+          }
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "gov",
+            "low": 10,
+            "high": 25
+          },
+          {
+            "id": "by-h",
+            "label": "Sample Houthi statement, opposing fighters",
+            "partyId": "houthis",
+            "low": 3,
+            "high": 8
+          }
+        ]
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "ye-ref-sanaa",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 15.37,
+      "lng": 44.19,
+      "title": "Sanaa",
+      "detail": "City marker for orientation. Not a control assessment.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "ye-ref-aden",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 12.79,
+      "lng": 45.02,
+      "title": "Aden",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "ye-ref-hodeidah",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 14.8,
+      "lng": 42.95,
+      "title": "Al Hudaydah",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "ye-unit-h",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 15.6,
+      "lng": 44.6,
+      "title": "SAMPLE — unit Y-1",
+      "detail": "Fictional highland unit.",
+      "partyId": "houthis",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ye-unit-g",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 13.2,
+      "lng": 45.3,
+      "title": "SAMPLE — unit Y-2",
+      "detail": "Fictional coastal unit.",
+      "partyId": "gov",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ye-clash",
+      "kind": "clash",
+      "origin": "sample",
+      "lat": 15.5,
+      "lng": 44.4,
+      "title": "SAMPLE — clash",
+      "detail": "Fictional clash marker.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ye-strike",
+      "kind": "strike",
+      "origin": "sample",
+      "lat": 13.9,
+      "lng": 43.2,
+      "title": "SAMPLE — strike",
+      "detail": "Fictional strike marker on the coast, not on a named port center.",
+      "partyId": "gov",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ye-weapon",
+      "kind": "weapon",
+      "origin": "sample",
+      "lat": 14.2,
+      "lng": 42.4,
+      "title": "SAMPLE — missile",
+      "detail": "Fictional weapon marker in the Red Sea.",
+      "partyId": "houthis",
+      "weaponType": "missile",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "shapes": [
+    {
+      "id": "ye-ctrl",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "houthis",
+      "title": "SAMPLE — illustrated highland box",
+      "detail": "Small sample polygon. Not a control map of Yemen.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          44.3,
+          15.3
+        ],
+        [
+          44.9,
+          15.3
+        ],
+        [
+          44.9,
+          15.8
+        ],
+        [
+          44.3,
+          15.8
+        ],
+        [
+          44.3,
+          15.3
+        ]
+      ]
+    },
+    {
+      "id": "ye-line",
+      "kind": "line",
+      "origin": "sample",
+      "partyId": null,
+      "title": "SAMPLE — illustrated sea lane",
+      "detail": "Short sample line in the water. Not a real attack track.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          42.6,
+          13.6
+        ],
+        [
+          42.9,
+          14.2
+        ],
+        [
+          43.2,
+          14.8
+        ]
+      ]
+    }
+  ]
+}

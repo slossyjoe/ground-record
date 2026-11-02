@@ -1,0 +1,17 @@
+{
+  "notes": {
+    "movements": "No sample movement was written. A card appears here only when a headline describes movement.",
+    "casualties": "No sample casualty range was written. Figures appear only when a headline or a Wikipedia infobox states them.",
+    "units": "No fictional unit was written. A name appears only if a headline or a Wikipedia base entry states it.",
+    "territory": "No sample territory change was written.",
+    "weapons": "No sample weapon was written. A weapon line appears only when a headline names one."
+  },
+  "movements": [],
+  "casualtyGroups": [],
+  "units": [],
+  "territory": [],
+  "weapons": [],
+  "casualtyTrend": null,
+  "markers": [],
+  "shapes": []
+}

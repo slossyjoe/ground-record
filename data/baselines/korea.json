@@ -1,0 +1,222 @@
+{
+  "notes": {
+    "movements": "No movement is reported here. The Korean War has been under an armistice since 27 July 1953. The card below is a layout example with no unit and no event.",
+    "casualties": "No daily casualty figure is included. Inventing a body count would look like fighting that this file does not have.",
+    "units": "Background only: the two Koreas keep large forces on either side of the Demilitarized Zone. This is not a new deployment.",
+    "territory": "No territory change is included. The armistice line is shown as reference geography, not as a front that moved.",
+    "weapons": "Background only, from public encyclopedic descriptions. Not a list of weapons used today."
+  },
+  "movements": [
+    {
+      "id": "kr-mv-example",
+      "text": "Layout example only. This card is here so you can see where a movement report would sit. It names no unit and describes no movement.",
+      "claimedBy": "Sample dataset — layout example, not an event",
+      "partyId": null,
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Not a place"
+    }
+  ],
+  "casualtyGroups": [],
+  "units": [
+    {
+      "id": "kr-u-1",
+      "name": "Forces north of the armistice line",
+      "partyId": "dprk",
+      "area": "North of the Demilitarized Zone",
+      "text": "North Korean forces are publicly described as deployed north of the Demilitarized Zone. This is background, not a report that they moved.",
+      "claimedBy": "Wikipedia summary, background",
+      "verification": "single-source",
+      "origin": "reference",
+      "sources": [
+        {
+          "name": "Wikipedia: Korean Demilitarized Zone",
+          "url": "https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone",
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "kr-u-2",
+      "name": "Forces south of the armistice line",
+      "partyId": "rok",
+      "area": "South of the Demilitarized Zone",
+      "text": "South Korean and United States forces are publicly described as deployed south of the Demilitarized Zone. This is background, not a report that they moved.",
+      "claimedBy": "Wikipedia summary, background",
+      "verification": "single-source",
+      "origin": "reference",
+      "sources": [
+        {
+          "name": "Wikipedia: Korean Demilitarized Zone",
+          "url": "https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone",
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    }
+  ],
+  "territory": [],
+  "weapons": [
+    {
+      "id": "kr-w-1",
+      "weaponType": "artillery",
+      "name": "Artillery, background",
+      "partyId": null,
+      "area": "Both sides of the Demilitarized Zone",
+      "text": "Public summaries describe large artillery forces on both sides of the zone. This is not a claim that artillery was fired on this date.",
+      "claimedBy": "Wikipedia summary, background",
+      "verification": "single-source",
+      "origin": "reference",
+      "sources": [
+        {
+          "name": "Wikipedia: Korean War",
+          "url": "https://en.wikipedia.org/wiki/Korean_War",
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "kr-w-2",
+      "weaponType": "missile",
+      "name": "Missiles, background",
+      "partyId": "dprk",
+      "area": "North Korea, general",
+      "text": "Public summaries describe a North Korean missile program. A headline about a test, if one was published, appears in the open-source list above. This card is not itself a test report.",
+      "claimedBy": "Wikipedia summary, background",
+      "verification": "single-source",
+      "origin": "reference",
+      "sources": [
+        {
+          "name": "Wikipedia: Korean War",
+          "url": "https://en.wikipedia.org/wiki/Korean_War",
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    }
+  ],
+  "casualtyTrend": null,
+  "markers": [
+    {
+      "id": "kr-ref-seoul",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 37.57,
+      "lng": 126.98,
+      "title": "Seoul",
+      "detail": "City marker for orientation. Not a threat assessment.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "kr-ref-pyongyang",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 39.03,
+      "lng": 125.75,
+      "title": "Pyongyang",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "kr-ref-panmunjom",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 37.96,
+      "lng": 126.68,
+      "title": "Panmunjom area",
+      "detail": "Orientation point near the Joint Security Area. Not a clash report.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    }
+  ],
+  "shapes": [
+    {
+      "id": "dmz-line",
+      "kind": "line",
+      "origin": "reference",
+      "partyId": null,
+      "title": "Approximate Demilitarized Zone",
+      "detail": "A simplified sketch of the armistice line for orientation. It is not a surveyed boundary and it did not move on this date.",
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Wikipedia: Korean Demilitarized Zone",
+          "url": "https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone",
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ],
+      "coordinates": [
+        [
+          126.62,
+          37.9
+        ],
+        [
+          126.68,
+          37.96
+        ],
+        [
+          127.05,
+          38.05
+        ],
+        [
+          127.4,
+          38.2
+        ],
+        [
+          127.9,
+          38.33
+        ],
+        [
+          128.37,
+          38.61
+        ]
+      ]
+    }
+  ]
+}

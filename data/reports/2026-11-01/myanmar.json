@@ -1,0 +1,593 @@
+{
+  "conflictId": "myanmar",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Myanmar civil war (2021–present)",
+    "description": "Ongoing armed conflict in Southeast Asia",
+    "extract": "The Myanmar civil war began following the military coup on 1 February 2021. The seizure of power triggered mass anti-coup demonstrations and a violent crackdown by the Tatmadaw, which significantly escalated the country's longstanding insurgencies.",
+    "url": "https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present)",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:12:11.605Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "Rakhine Civil Society Urges UN No-Fly Zone as Civilian Deaths Soar",
+      "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/rakhine-civil-society-urges-un-no-fly-zone-as-civilian-deaths-soar.html",
+      "publishedAt": "2026-10-30T12:21:15.000Z",
+      "excerpt": "Humanitarian and civil network in western Myanmar demands international intervention after regime airstrikes claim 62 lives in September alone.",
+      "outlet": "The Irrawaddy",
+      "outletType": "Private newspaper",
+      "country": "Myanmar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Rakhine",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h5b1c94b8"
+    },
+    {
+      "title": "Big Brother Defends Myanmar Regime at UN, Chinese Aid Shortfall, and More",
+      "url": "https://www.irrawaddy.com/news/china-briefing/big-brother-defends-myanmar-regime-at-un-chinese-aid-shortfall-and-more.html",
+      "publishedAt": "2026-10-30T10:19:30.000Z",
+      "excerpt": "Also this week, the Myanmar–China oil pipeline reached a new milestone, and Shan representatives protested against “Sinicization” along the border.",
+      "outlet": "The Irrawaddy",
+      "outletType": "Private newspaper",
+      "country": "Myanmar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h90e6e4f0"
+    },
+    {
+      "title": "Myanmar Regime Hosts Russian Mining Billionaire After Approving Gold Ventures",
+      "url": "https://www.irrawaddy.com/business/myanmar-regime-hosts-russian-mining-billionaire-after-approving-gold-ventures.html",
+      "publishedAt": "2026-10-30T10:04:29.000Z",
+      "excerpt": "Meeting between Min Aung Hlaing and Areal CEO Vladislav Sviblov sparks speculation Moscow may be seeking a slice of Myanmar’s rare earth bounty.",
+      "outlet": "The Irrawaddy",
+      "outletType": "Private newspaper",
+      "country": "Myanmar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hc8c0ecee"
+    },
+    {
+      "title": "ASEAN Envoy Ends Myanmar Trip With No Public Aung San Suu Kyi Meeting",
+      "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/asean-envoy-ends-myanmar-trip-with-no-public-aung-san-suu-kyi-meeting.html",
+      "publishedAt": "2026-10-30T04:05:40.000Z",
+      "excerpt": "Despite repeated ASEAN requests for access, Philippine Foreign Secretary Lazaro ended her Myanmar visit without a confirmed meeting with Aung San Suu Kyi.",
+      "outlet": "The Irrawaddy",
+      "outletType": "Private newspaper",
+      "country": "Myanmar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hed243986"
+    },
+    {
+      "title": "Cartoon Campaign Boosts Myanmar Regime’s Hydropower Dreams",
+      "url": "https://www.irrawaddy.com/news/burma/cartoon-campaign-boosts-myanmar-regimes-hydropower-dreams.html",
+      "publishedAt": "2026-10-29T12:25:05.000Z",
+      "excerpt": "In trying to revive the controversial Myitsone Dam project, the military regime is resorting to the oldest propaganda tools in the book.",
+      "outlet": "The Irrawaddy",
+      "outletType": "Private newspaper",
+      "country": "Myanmar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h147423ff"
+    },
+    {
+      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "excerpt": "Myanmar’s human rights situation is “catastrophic”, the&nbsp;UN independent expert on the country warned at a press briefing Thursday, as the war spirals with no end in sight.&nbsp;",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h3e3e2cf0"
+    },
+    {
+      "title": "Myanmar Regime Begins Releasing Rakhine Deportees After Malaysia Pressure",
+      "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/myanmar-regime-begins-releasing-rakhine-deportees-after-malaysia-pressure.html",
+      "publishedAt": "2026-10-29T11:34:26.000Z",
+      "excerpt": "Over 400 ethnic residents from war-torn state faced weeks of interrogation in detention centers after being sent back ‘voluntarily’ from Malaysia.",
+      "outlet": "The Irrawaddy",
+      "outletType": "Private newspaper",
+      "country": "Myanmar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Rakhine",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h739feac6"
+    },
+    {
+      "title": "Myanmar Navy Loses 3 More Ships as Arakan Army Tightens Sittwe Noose",
+      "url": "https://www.irrawaddy.com/news/war-against-the-junta/myanmar-navy-loses-3-more-ships-as-arakan-army-tightens-sittwe-noose.html",
+      "publishedAt": "2026-10-29T09:20:11.000Z",
+      "excerpt": "Regime counteroffensive crumbles as ethnic army reports gains in battle for regime’s final strongholds in Rakhine State.",
+      "outlet": "The Irrawaddy",
+      "outletType": "Private newspaper",
+      "country": "Myanmar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Sittwe",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h6286781d"
+    },
+    {
+      "title": "Myanmar Regime Seizes Historic Nawnghio Mosque Over Rebel Links",
+      "url": "https://www.irrawaddy.com/news/burma/myanmar-regime-seizes-historic-nawnghio-mosque-over-rebel-links.html",
+      "publishedAt": "2026-10-29T07:47:41.000Z",
+      "excerpt": "Regime officials are denying Nawnghkio’s Muslim community a place of worship as part of a vendetta against anyone they suspect of aiding Ta’ang rebels when they ruled the town.",
+      "outlet": "The Irrawaddy",
+      "outletType": "Private newspaper",
+      "country": "Myanmar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Nawnghio",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hd6154584"
+    },
+    {
+      "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
+      "url": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
+      "publishedAt": "2026-10-25T02:00:49.000Z",
+      "excerpt": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has…",
+      "outlet": "The Guardian",
+      "outletType": "Private newspaper",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h7d445537"
+    },
+    {
+      "title": "Aung San Suu Kyi’s son speaks to detained former Myanmar leader for first time in five years",
+      "url": "https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader",
+      "publishedAt": "2026-10-22T10:38:10.000Z",
+      "excerpt": "Kim Aris says ‘hearing her voice again means more than words can express’ amid loosening of detention restrictions The son of Myanmar’s Aung San Suu Kyi has been allowed to speak to the detained former democratic leader for the first time in more than five years. “Today, I was…",
+      "outlet": "The Guardian",
+      "outletType": "Private newspaper",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h9a8cd56a"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "The Irrawaddy",
+      "outletType": "Private newspaper",
+      "count": 8
+    },
+    {
+      "name": "The Guardian",
+      "outletType": "Private newspaper",
+      "count": 2
+    },
+    {
+      "name": "UN News",
+      "outletType": "International organization",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+      "casualties": "Reference lines are quoted from a Wikipedia infobox. Live lines are headlines. A number is shown only when that source wrote it. Sample ranges are left off this page because a sourced line was found.",
+      "units": "Named units are names that appear in a headline or, when marked Reference, encyclopedia entries for a base. A base pin is not a report that the unit moved.",
+      "territory": "Headlines that use words such as seized, captured, or control. The headline is the claim.",
+      "weapons": "Weapon counts are numbers written next to a weapon word in a headline. Nothing was added."
+    },
+    "movements": [
+      {
+        "id": "mm-mv-1",
+        "text": "Sample statement: a column moved along the illustrated central corridor.",
+        "claimedBy": "Sample: military statement",
+        "partyId": "sac",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated central corridor"
+      },
+      {
+        "id": "mm-mv-2",
+        "text": "Sample statement: a local force moved into the illustrated western box.",
+        "claimedBy": "Sample: resistance statement",
+        "partyId": "resistance",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated western box"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "grp-0-Rakhine",
+        "topic": "Figures written in headlines: Rakhine",
+        "summary": "Each line is a headline from this pull. The figure, if shown, is a number written in that headline.",
+        "claims": [
+          {
+            "id": "live-myanmar-0",
+            "text": "“Rakhine Civil Society Urges UN No-Fly Zone as Civilian Deaths Soar”",
+            "claimedBy": "The Irrawaddy",
+            "partyId": null,
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "The Irrawaddy",
+                "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/rakhine-civil-society-urges-un-no-fly-zone-as-civilian-deaths-soar.html",
+                "publishedAt": "2026-10-30T12:21:15.000Z",
+                "note": "Private newspaper",
+                "kind": "article"
+              }
+            ],
+            "area": "Rakhine",
+            "low": null,
+            "high": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "unit-myanmar-7",
+        "name": "Arakan Army",
+        "partyId": "sac",
+        "area": "Sittwe",
+        "text": "The name appears in this headline: “Myanmar Navy Loses 3 More Ships as Arakan Army Tightens Sittwe Noose”",
+        "claimedBy": "The Irrawaddy",
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "The Irrawaddy",
+            "url": "https://www.irrawaddy.com/news/war-against-the-junta/myanmar-navy-loses-3-more-ships-as-arakan-army-tightens-sittwe-noose.html",
+            "publishedAt": "2026-10-29T09:20:11.000Z",
+            "note": "Private newspaper",
+            "kind": "article"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "grp-0-Nawnghio",
+        "topic": "Territory language in headlines: Nawnghio",
+        "summary": "Each line is a headline from this pull. The figure, if shown, is a number written in that headline.",
+        "claims": [
+          {
+            "id": "live-myanmar-8",
+            "text": "“Myanmar Regime Seizes Historic Nawnghio Mosque Over Rebel Links”",
+            "claimedBy": "The Irrawaddy",
+            "partyId": "sac",
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "The Irrawaddy",
+                "url": "https://www.irrawaddy.com/news/burma/myanmar-regime-seizes-historic-nawnghio-mosque-over-rebel-links.html",
+                "publishedAt": "2026-10-29T07:47:41.000Z",
+                "note": "Private newspaper",
+                "kind": "article"
+              }
+            ],
+            "area": "Nawnghio"
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "live-myanmar-7",
+        "text": "“Myanmar Navy Loses 3 More Ships as Arakan Army Tightens Sittwe Noose”",
+        "claimedBy": "The Irrawaddy",
+        "partyId": "sac",
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "The Irrawaddy",
+            "url": "https://www.irrawaddy.com/news/war-against-the-junta/myanmar-navy-loses-3-more-ships-as-arakan-army-tightens-sittwe-noose.html",
+            "publishedAt": "2026-10-29T09:20:11.000Z",
+            "note": "Private newspaper",
+            "kind": "article"
+          }
+        ],
+        "area": "Sittwe",
+        "weaponType": "naval",
+        "name": "3 ships written in the headline",
+        "low": 3,
+        "high": 3
+      }
+    ],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "pin-myanmar-0",
+        "kind": "event",
+        "origin": "live",
+        "lat": 19.5,
+        "lng": 94,
+        "title": "Rakhine",
+        "detail": "Rakhine Civil Society Urges UN No-Fly Zone as Civilian Deaths Soar",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "The Irrawaddy",
+        "sources": [
+          {
+            "name": "The Irrawaddy",
+            "url": "https://www.irrawaddy.com/news/myanmars-crisis-the-world/rakhine-civil-society-urges-un-no-fly-zone-as-civilian-deaths-soar.html",
+            "publishedAt": "2026-10-30T12:21:15.000Z",
+            "note": "Private newspaper",
+            "kind": "article"
+          }
+        ]
+      },
+      {
+        "id": "pin-myanmar-7",
+        "kind": "weapon",
+        "origin": "live",
+        "lat": 20.137,
+        "lng": 92.885,
+        "title": "Sittwe",
+        "detail": "Myanmar Navy Loses 3 More Ships as Arakan Army Tightens Sittwe Noose",
+        "partyId": "sac",
+        "weaponType": "naval",
+        "verification": "single-source",
+        "claimedBy": "The Irrawaddy",
+        "sources": [
+          {
+            "name": "The Irrawaddy",
+            "url": "https://www.irrawaddy.com/news/war-against-the-junta/myanmar-navy-loses-3-more-ships-as-arakan-army-tightens-sittwe-noose.html",
+            "publishedAt": "2026-10-29T09:20:11.000Z",
+            "note": "Private newspaper",
+            "kind": "article"
+          }
+        ]
+      },
+      {
+        "id": "pin-myanmar-8",
+        "kind": "clash",
+        "origin": "live",
+        "lat": 22.31666667,
+        "lng": 96.8,
+        "title": "Nawnghio",
+        "detail": "Myanmar Regime Seizes Historic Nawnghio Mosque Over Rebel Links",
+        "partyId": "sac",
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "The Irrawaddy",
+        "sources": [
+          {
+            "name": "The Irrawaddy",
+            "url": "https://www.irrawaddy.com/news/burma/myanmar-regime-seizes-historic-nawnghio-mosque-over-rebel-links.html",
+            "publishedAt": "2026-10-29T07:47:41.000Z",
+            "note": "Private newspaper",
+            "kind": "article"
+          }
+        ]
+      },
+      {
+        "id": "ref-myanmar-Sittwe",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 20.137,
+        "lng": 92.885,
+        "title": "Sittwe",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Sittwe",
+            "url": "https://en.wikipedia.org/wiki/Sittwe",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-myanmar-Rakhine",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 19.5,
+        "lng": 94,
+        "title": "Rakhine",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Rakhine",
+            "url": "https://en.wikipedia.org/wiki/Rakhine_State",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-myanmar-Nawnghio",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 22.31666667,
+        "lng": 96.8,
+        "title": "Nawnghio",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Nawnghio",
+            "url": "https://en.wikipedia.org/wiki/Nawnghkio",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "mm-ref-yangon",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 16.87,
+        "lng": 96.2,
+        "title": "Yangon",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "mm-ref-mandalay",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 21.97,
+        "lng": 96.08,
+        "title": "Mandalay",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "mm-ref-npd",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 19.76,
+        "lng": 96.07,
+        "title": "Naypyidaw",
+        "detail": "City marker for orientation. Not a security assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": []
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 11,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 1 casualty groups, 1 weapon lines, 1 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "conflictId": "korea",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Korean War",
+    "description": "1950–1953 conflict on the Korean Peninsula",
+    "extract": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC).",
+    "url": "https://en.wikipedia.org/wiki/Korean_War",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:15:14.001Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+      "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-11-01T07:33:00.000Z",
+      "excerpt": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
+      "outlet": "Deutsche Welle",
+      "outletType": "Public broadcaster",
+      "country": "Germany",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h55b27dbf"
+    },
+    {
+      "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
+      "publishedAt": "2026-10-31T23:49:22.000Z",
+      "excerpt": "The theft of billions of dollars from Binance within a matter of minutes, the biggest cryptocurrency heist in history, was orchestrated by North Korean hackers, the FBI said on Saturday. The Federal Bureau of Investigation said in a statement that this week’s attack was tied to…",
+      "outlet": "South China Morning Post",
+      "outletType": "Private newspaper",
+      "country": "Hong Kong",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h3fc9476e"
+    },
+    {
+      "title": "North Korea held test to assess weapon system yield",
+      "url": "https://tass.com/world/2211447",
+      "publishedAt": "2026-10-31T23:43:01.000Z",
+      "excerpt": "According to the news agency, the standard cluster warhead is capable of destroying a target - an area of 12 to 13 hectares",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hc2f08453"
+    },
+    {
+      "title": "N. Korea slams multination statement backing anti-Pyongyang sanctions as 'strategic failure'",
+      "url": "https://en.yna.co.kr/view/AEN20261031001300315",
+      "publishedAt": "2026-10-31T01:38:40.000Z",
+      "excerpt": "SEOUL, Oct. 31 (Yonhap) -- North Korea blasted Saturday a joint statement recent...",
+      "outlet": "Yonhap News Agency",
+      "outletType": "News agency",
+      "country": "South Korea",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Pyongyang",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h4139fb0b"
+    },
+    {
+      "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
+      "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+      "publishedAt": "2026-10-30T17:37:46.000Z",
+      "excerpt": "Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings…",
+      "outlet": "The Guardian",
+      "outletType": "Private newspaper",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h47f2ad45"
+    },
+    {
+      "title": "Seoul fears being sidelined as US reaches out to North Korea",
+      "url": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-world-4025-rdf",
+      "publishedAt": "2026-10-30T14:08:00.000Z",
+      "excerpt": "With ties between South Korea and the Trump administration strained, the South Korean government worries that Donald Trump's pursuit of a diplomatic breakthrough with Kim Jong Un may come at Seoul's expense.",
+      "outlet": "Deutsche Welle",
+      "outletType": "Public broadcaster",
+      "country": "Germany",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Seoul",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hde5f4c35"
+    },
+    {
+      "title": "Swiss FM briefs Seoul on Pyongyang trip after reopening diplomatic office",
+      "url": "https://en.yna.co.kr/view/AEN20261030013300315",
+      "publishedAt": "2026-10-30T14:06:05.000Z",
+      "excerpt": "SEOUL, Oct. 30 (Yonhap) -- Swiss Foreign Minister Ignazio Cassis on Friday share...",
+      "outlet": "Yonhap News Agency",
+      "outletType": "News agency",
+      "country": "South Korea",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Pyongyang",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h861ed5e0"
+    },
+    {
+      "title": "Key developments on North Korea this week",
+      "url": "https://en.yna.co.kr/view/AEN20261030011600315",
+      "publishedAt": "2026-10-30T07:32:56.000Z",
+      "excerpt": "SEOUL, Oct. 30 (Yonhap) -- The following are key developments regarding North Ko...",
+      "outlet": "Yonhap News Agency",
+      "outletType": "News agency",
+      "country": "South Korea",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hca538c24"
+    },
+    {
+      "title": "Summary of domestic news in North Korea this week",
+      "url": "https://en.yna.co.kr/view/AEN20261030011700315",
+      "publishedAt": "2026-10-30T07:32:36.000Z",
+      "excerpt": "SEOUL, Oct. 30 (Yonhap) -- The following is a summary of domestic news in North ...",
+      "outlet": "Yonhap News Agency",
+      "outletType": "News agency",
+      "country": "South Korea",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h75f440dc"
+    },
+    {
+      "title": "NKorea Kim calls for training world strongest military",
+      "url": "https://www.manilatimes.net/2026/10/25/world/asia-oceania/nkoreas-kim-calls-for-training-worlds-strongest-military/2453261",
+      "publishedAt": "2026-10-24T17:15:00.000Z",
+      "excerpt": "",
+      "outlet": "manilatimes.net",
+      "outletType": "Web source via GDELT",
+      "country": "Philippines",
+      "via": "GDELT",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h3cccb50b"
+    },
+    {
+      "title": "Kim Jong Un is making world strongest military : Nuclear weapons , AI - powered systems , hypersonic missiles & combat plan put North Korea in focus",
+      "url": "https://economictimes.indiatimes.com/news/defence/kim-jong-un-is-making-worlds-strongest-military-nuclear-weapons-ai-powered-systems-hypersonic-missiles-combat-plan-put-north-korea-in-focus/articleshow/135162192.cms",
+      "publishedAt": "2026-10-24T05:30:00.000Z",
+      "excerpt": "",
+      "outlet": "economictimes.indiatimes.com",
+      "outletType": "Web source via GDELT",
+      "country": "India",
+      "via": "GDELT",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h994442af"
+    },
+    {
+      "title": "World News : North Korea tells border troops to take resolute action if South threatens their safety",
+      "url": "https://www.gdnonline.com/Details/1410393",
+      "publishedAt": "2026-10-21T14:00:00.000Z",
+      "excerpt": "",
+      "outlet": "gdnonline.com",
+      "outletType": "Web source via GDELT",
+      "country": "United States",
+      "via": "GDELT",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h761f1ab4"
+    },
+    {
+      "title": "S . Korea Warns of Firm Response After North Threatens Fresh Measures Near Border",
+      "url": "https://english.aawsat.com/world/5331419-s-korea-warns-%E2%80%98firm%E2%80%99-response-after-north-threatens-fresh-measures-near-border",
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "excerpt": "",
+      "outlet": "english.aawsat.com",
+      "outletType": "Web source via GDELT",
+      "country": "Syria",
+      "via": "GDELT",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hc6df4093"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "Yonhap News Agency",
+      "outletType": "News agency",
+      "count": 4
+    },
+    {
+      "name": "Deutsche Welle",
+      "outletType": "Public broadcaster",
+      "count": 2
+    },
+    {
+      "name": "South China Morning Post",
+      "outletType": "Private newspaper",
+      "count": 1
+    },
+    {
+      "name": "TASS",
+      "outletType": "State news agency",
+      "count": 1
+    },
+    {
+      "name": "The Guardian",
+      "outletType": "Private newspaper",
+      "count": 1
+    },
+    {
+      "name": "manilatimes.net",
+      "outletType": "Web source via GDELT",
+      "count": 1
+    },
+    {
+      "name": "economictimes.indiatimes.com",
+      "outletType": "Web source via GDELT",
+      "count": 1
+    },
+    {
+      "name": "gdnonline.com",
+      "outletType": "Web source via GDELT",
+      "count": 1
+    },
+    {
+      "name": "english.aawsat.com",
+      "outletType": "Web source via GDELT",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "No movement is reported here. The Korean War has been under an armistice since 27 July 1953. The card below is a layout example with no unit and no event.",
+      "casualties": "No daily casualty figure is included. Inventing a body count would look like fighting that this file does not have.",
+      "units": "Background only: the two Koreas keep large forces on either side of the Demilitarized Zone. This is not a new deployment.",
+      "territory": "No territory change is included. The armistice line is shown as reference geography, not as a front that moved.",
+      "weapons": "Weapon counts are numbers written next to a weapon word in a headline. Nothing was added."
+    },
+    "movements": [
+      {
+        "id": "kr-mv-example",
+        "text": "Layout example only. This card is here so you can see where a movement report would sit. It names no unit and describes no movement.",
+        "claimedBy": "Sample dataset — layout example, not an event",
+        "partyId": null,
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Not a place"
+      }
+    ],
+    "casualtyGroups": [],
+    "units": [
+      {
+        "id": "kr-u-1",
+        "name": "Forces north of the armistice line",
+        "partyId": "dprk",
+        "area": "North of the Demilitarized Zone",
+        "text": "North Korean forces are publicly described as deployed north of the Demilitarized Zone. This is background, not a report that they moved.",
+        "claimedBy": "Wikipedia summary, background",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: Korean Demilitarized Zone",
+            "url": "https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone",
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "kr-u-2",
+        "name": "Forces south of the armistice line",
+        "partyId": "rok",
+        "area": "South of the Demilitarized Zone",
+        "text": "South Korean and United States forces are publicly described as deployed south of the Demilitarized Zone. This is background, not a report that they moved.",
+        "claimedBy": "Wikipedia summary, background",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: Korean Demilitarized Zone",
+            "url": "https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone",
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "territory": [],
+    "weapons": [
+      {
+        "id": "live-korea-10",
+        "text": "“Kim Jong Un is making world strongest military : Nuclear weapons , AI - powered systems , hypersonic missiles & combat plan put North Korea in focus”",
+        "claimedBy": "economictimes.indiatimes.com",
+        "partyId": "rok",
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "economictimes.indiatimes.com",
+            "url": "https://economictimes.indiatimes.com/news/defence/kim-jong-un-is-making-worlds-strongest-military-nuclear-weapons-ai-powered-systems-hypersonic-missiles-combat-plan-put-north-korea-in-focus/articleshow/135162192.cms",
+            "publishedAt": "2026-10-24T05:30:00.000Z",
+            "note": "Web source via GDELT",
+            "kind": "article"
+          }
+        ],
+        "area": null,
+        "weaponType": "missile",
+        "name": "missile mentioned in a headline",
+        "low": null,
+        "high": null
+      }
+    ],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "ref-korea-Pyongyang",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 39.01666667,
+        "lng": 125.7475,
+        "title": "Pyongyang",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Pyongyang",
+            "url": "https://en.wikipedia.org/wiki/Pyongyang",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-korea-Seoul",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 37.56,
+        "lng": 126.99,
+        "title": "Seoul",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Seoul",
+            "url": "https://en.wikipedia.org/wiki/Seoul",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "kr-ref-panmunjom",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 37.96,
+        "lng": 126.68,
+        "title": "Panmunjom area",
+        "detail": "Orientation point near the Joint Security Area. Not a clash report.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "id": "dmz-line",
+        "kind": "line",
+        "origin": "reference",
+        "partyId": null,
+        "title": "Approximate Demilitarized Zone",
+        "detail": "A simplified sketch of the armistice line for orientation. It is not a surveyed boundary and it did not move on this date.",
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Wikipedia: Korean Demilitarized Zone",
+            "url": "https://en.wikipedia.org/wiki/Korean_Demilitarized_Zone",
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ],
+        "coordinates": [
+          [
+            126.62,
+            37.9
+          ],
+          [
+            126.68,
+            37.96
+          ],
+          [
+            127.05,
+            38.05
+          ],
+          [
+            127.4,
+            38.2
+          ],
+          [
+            127.9,
+            38.33
+          ],
+          [
+            128.37,
+            38.61
+          ]
+        ]
+      }
+    ]
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 13,
+    "gdelt": "ok, 10 kept",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 0 casualty groups, 1 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

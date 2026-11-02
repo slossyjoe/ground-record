@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2026-11-02T05:30:43.080Z",
+  "date": "2026-11-02",
+  "optional": {
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured"
+  },
+  "feeds": [
+    {
+      "name": "BBC News",
+      "status": "ok",
+      "items": 30
+    },
+    {
+      "name": "Al Jazeera English",
+      "status": "ok",
+      "items": 25
+    },
+    {
+      "name": "The Guardian",
+      "status": "ok",
+      "items": 45
+    },
+    {
+      "name": "France 24",
+      "status": "ok",
+      "items": 24
+    },
+    {
+      "name": "Deutsche Welle",
+      "status": "ok",
+      "items": 10
+    },
+    {
+      "name": "NPR",
+      "status": "ok",
+      "items": 10
+    },
+    {
+      "name": "UN News",
+      "status": "ok",
+      "items": 30
+    },
+    {
+      "name": "International Crisis Group",
+      "status": "ok",
+      "items": 10
+    },
+    {
+      "name": "Africanews",
+      "status": "ok",
+      "items": 50
+    },
+    {
+      "name": "South China Morning Post",
+      "status": "ok",
+      "items": 50
+    },
+    {
+      "name": "The Irrawaddy",
+      "status": "ok",
+      "items": 10
+    },
+    {
+      "name": "Yonhap News Agency",
+      "status": "ok",
+      "items": 101
+    },
+    {
+      "name": "Ukrinform",
+      "status": "ok",
+      "items": 30
+    },
+    {
+      "name": "TASS",
+      "status": "ok",
+      "items": 58
+    },
+    {
+      "name": "Middle East Eye",
+      "status": "ok",
+      "items": 20
+    },
+    {
+      "name": "The Kyiv Independent",
+      "status": "ok",
+      "items": 15
+    },
+    {
+      "name": "Kyiv Post",
+      "status": "ok",
+      "items": 100
+    },
+    {
+      "name": "Ukrainska Pravda",
+      "status": "ok",
+      "items": 20
+    },
+    {
+      "name": "Euromaidan Press",
+      "status": "ok",
+      "items": 29
+    },
+    {
+      "name": "The New Voice of Ukraine",
+      "status": "ok",
+      "items": 40
+    },
+    {
+      "name": "Meduza",
+      "status": "ok",
+      "items": 30
+    },
+    {
+      "name": "UN Human Rights Office",
+      "status": "ok",
+      "items": 10
+    },
+    {
+      "name": "BBC News Europe",
+      "status": "ok",
+      "items": 32
+    }
+  ],
+  "conflicts": {
+    "russia-ukraine": {
+      "headlines": 42,
+      "gdelt": "fetch failed",
+      "wikipedia": "cached"
+    }
+  }
+}

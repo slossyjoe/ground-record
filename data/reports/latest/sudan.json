@@ -1,0 +1,517 @@
+{
+  "conflictId": "sudan",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Sudanese civil war (2023–present)",
+    "description": "",
+    "extract": "Since April 2023, there has been a civil war in Sudan between the two main factions of the country's military government. The conflict involves the internationally recognized government of Sudan led by the Sudanese Armed Forces (SAF), under General Abdel Fattah al-Burhan; against the rival Government of Peace and Unity led by the Rapid Support Forces (RSF) paramilitary group, commanded by General Hemedti. Smaller armed groups have also taken part on both sides, most notably Sudan Liberation Movement splinter groups, the Tamazuj militia, and the Darfur Joint Protection Force.",
+    "url": "https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023%E2%80%93present)",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:11:08.472Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "Drones attack oil, energy infrastructure in eastern Sudan — newspaper",
+      "url": "https://tass.com/world/2211533",
+      "publishedAt": "2026-11-01T12:36:33.000Z",
+      "excerpt": "Drones belonging to the Rapid Support Forces",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h980ca9f9"
+    },
+    {
+      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "publishedAt": "2026-10-30T05:00:45.000Z",
+      "excerpt": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her…",
+      "outlet": "The Guardian",
+      "outletType": "Private newspaper",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hdb7caaf5"
+    },
+    {
+      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "excerpt": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hc79de109"
+    },
+    {
+      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
+      "excerpt": "Civilians in Sudan’s El Obeid live in constant fear of drone attacks by the Rapid Support Forces (RSF) and of a wave of arbitrary arrests by the Sudanese Armed Forces (SAF), UN-appointed independent investigators said on Wednesday.&nbsp;",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "El Obeid",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h14de0c07"
+    },
+    {
+      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+      "publishedAt": "2026-10-26T15:07:23.000Z",
+      "excerpt": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first…",
+      "outlet": "The Guardian",
+      "outletType": "Private newspaper",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "El Fasher",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h838b4242"
+    },
+    {
+      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "excerpt": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "El Fasher",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h877448b9"
+    },
+    {
+      "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "excerpt": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in the first three weeks of October alone.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hb1034a32"
+    },
+    {
+      "title": "Zeinab Badawi: Sudan's Forgotten Humanitarian Crisis",
+      "url": "https://www.crisisgroup.org/vid/africa/sudan/zeinab-badawi-sudans-forgotten-humanitarian-crisis",
+      "publishedAt": "2026-10-22T20:03:14.000Z",
+      "excerpt": "Zeinab Badawi: Sudan's Forgotten Humanitarian Crisis saureli Thu, 10/22/2026 - 22:03 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Video / Africa 22 October 2026 1 minute…",
+      "outlet": "International Crisis Group",
+      "outletType": "Research organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h75b26e46"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "UN News",
+      "outletType": "International organization",
+      "count": 4
+    },
+    {
+      "name": "The Guardian",
+      "outletType": "Private newspaper",
+      "count": 2
+    },
+    {
+      "name": "TASS",
+      "outletType": "State news agency",
+      "count": 1
+    },
+    {
+      "name": "International Crisis Group",
+      "outletType": "Research organization",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+      "casualties": "Reference lines are quoted from a Wikipedia infobox. Live lines are headlines. A number is shown only when that source wrote it. Sample ranges are left off this page because a sourced line was found.",
+      "units": "Named units are names that appear in a headline or, when marked Reference, encyclopedia entries for a base. A base pin is not a report that the unit moved.",
+      "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+      "weapons": "Weapon counts are numbers written next to a weapon word in a headline. Nothing was added."
+    },
+    "movements": [
+      {
+        "id": "sd-mv-1",
+        "text": "Sample statement: a column shifted toward the illustrated El Fasher box during the layout day.",
+        "claimedBy": "Sample: Sudanese Armed Forces",
+        "partyId": "saf",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated North Darfur"
+      },
+      {
+        "id": "sd-mv-2",
+        "text": "Sample statement: a column shifted along the illustrated Khartoum approach during the layout day.",
+        "claimedBy": "Sample: Rapid Support Forces",
+        "partyId": "rsf",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated Khartoum approach"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "grp-0-place not named",
+        "topic": "Figures written in headlines: place not named",
+        "summary": "Each line is a headline from this pull. The figure, if shown, is a number written in that headline.",
+        "claims": [
+          {
+            "id": "live-sudan-6",
+            "text": "“Sudan: Drone strikes killed at least 306 people in three weeks”",
+            "claimedBy": "UN News",
+            "partyId": null,
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "UN News",
+                "url": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+                "publishedAt": "2026-10-23T12:00:00.000Z",
+                "note": "International organization",
+                "kind": "article"
+              }
+            ],
+            "area": null,
+            "low": 306,
+            "high": 306,
+            "unit": "people; the headline says at least this"
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "wiki-unit-sudan-strength1",
+        "name": "Wikipedia infobox strength1",
+        "partyId": null,
+        "area": "Not a mapped location",
+        "text": "2024 ~300,000",
+        "claimedBy": "Wikipedia infobox, field strength1",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: Sudanese civil war (2023–present)",
+            "url": "https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023–present)",
+            "note": "Quoted from the infobox. Not a sighting from this pull.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "wiki-unit-sudan-strength2",
+        "name": "Wikipedia infobox strength2",
+        "partyId": null,
+        "area": "Not a mapped location",
+        "text": "2023; 120,000 total fighters (14 April 2023, per SAF); * 67,135 fighters; * 39,490 recruits; * 2,000 Colombian mercenaries; 2,950 vehicles; 104 APCs; 171 vehicles with machine guns; 2024; ~100,000; 2026; 450,000 (per Hemedti)",
+        "claimedBy": "Wikipedia infobox, field strength2",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: Sudanese civil war (2023–present)",
+            "url": "https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023–present)",
+            "note": "Quoted from the infobox. Not a sighting from this pull.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "sd-ter-1",
+        "topic": "Illustrated neighborhood",
+        "summary": "Held, according to one sample statement. Contested, according to the other.",
+        "claims": [
+          {
+            "id": "sd-ter-a",
+            "text": "The illustrated neighborhood is described as held.",
+            "claimedBy": "Sample: Sudanese Armed Forces",
+            "partyId": "saf",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          },
+          {
+            "id": "sd-ter-b",
+            "text": "The same neighborhood is described as contested.",
+            "claimedBy": "Sample: Rapid Support Forces",
+            "partyId": "rsf",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "live-sudan-0",
+        "text": "“Drones attack oil, energy infrastructure in eastern Sudan — newspaper”",
+        "claimedBy": "newspaper",
+        "partyId": null,
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "TASS",
+            "url": "https://tass.com/world/2211533",
+            "publishedAt": "2026-11-01T12:36:33.000Z",
+            "note": "State news agency",
+            "kind": "article"
+          }
+        ],
+        "area": null,
+        "weaponType": "drone",
+        "name": "drone mentioned in a headline",
+        "low": null,
+        "high": null
+      },
+      {
+        "id": "live-sudan-3",
+        "text": "“Civilians in Sudan’s El Obeid trapped between drones and incarceration”",
+        "claimedBy": "UN News",
+        "partyId": null,
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+            "publishedAt": "2026-10-28T12:00:00.000Z",
+            "note": "International organization",
+            "kind": "article"
+          }
+        ],
+        "area": "El Obeid",
+        "weaponType": "drone",
+        "name": "drone mentioned in a headline",
+        "low": null,
+        "high": null
+      }
+    ],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "pin-sudan-3",
+        "kind": "weapon",
+        "origin": "live",
+        "lat": 13.18333333,
+        "lng": 30.21666667,
+        "title": "El Obeid",
+        "detail": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+        "partyId": null,
+        "weaponType": "drone",
+        "verification": "single-source",
+        "claimedBy": "UN News",
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+            "publishedAt": "2026-10-28T12:00:00.000Z",
+            "note": "International organization",
+            "kind": "article"
+          }
+        ]
+      },
+      {
+        "id": "ref-sudan-El Fasher",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 13.63055556,
+        "lng": 25.35,
+        "title": "El Fasher",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: El Fasher",
+            "url": "https://en.wikipedia.org/wiki/El_Fasher",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-sudan-El Obeid",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 13.18333333,
+        "lng": 30.21666667,
+        "title": "El Obeid",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: El Obeid",
+            "url": "https://en.wikipedia.org/wiki/El_Obeid",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "sd-ref-krt",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 15.5,
+        "lng": 32.56,
+        "title": "Khartoum",
+        "detail": "City marker for orientation. Not a statement of who holds the city.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "sd-ref-ps",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 19.62,
+        "lng": 37.22,
+        "title": "Port Sudan",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": []
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 8,
+    "gdelt": "fetch failed",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 1 casualty groups, 2 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

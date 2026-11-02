@@ -1,0 +1,874 @@
+{
+  "conflictId": "gaza-lebanon",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Gaza war",
+    "description": "Ongoing armed conflict in the Middle East",
+    "extract": "The Gaza war is an armed conflict in the Gaza Strip and Israel, fought as part of the unresolved Israeli–Palestinian and Gaza–Israel conflicts. The war began on 7 October 2023, when Palestinian militant group Hamas led an attack on Israel, in which 1,195 Israelis and foreign nationals were killed and 251 were taken hostage. Since the start of the Israeli offensive that followed, over 74,000 Palestinians in Gaza have been killed; several studies in The Lancet indicate this figure is likely a significant undercount. Many scholarly sources and international organizations—including UN bodies, NGOs, and the International Association of Genocide Scholars—have concluded that Israel's actions in Gaza constitute genocide under international law. Several countries have also stated that genocide is occurring and have supported legal proceedings before the International Court of Justice. Israel and…",
+    "url": "https://en.wikipedia.org/wiki/Gaza_war",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:10:14.437Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "Recognising Hamas as 'terror' outfit: Eisenkot lays down conditions for 'broad Zionist government'",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/recognising-hamas-terror-outfit-eisenkot-lays-down-conditions-broad",
+      "publishedAt": "2026-11-01T04:40:45.000Z",
+      "excerpt": "Recognising Hamas as 'terror' outfit: Eisenkot lays down conditions for 'broad Zionist government' Israeli opposition leader Gadi Eisenkot has set out four conditions for forming a new government, including recognising Hamas as a \"terrorist\" organisation and committing to…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hcca63b97"
+    },
+    {
+      "title": "Israel issues more than 9,500 demolition, stop-work notices in West Bank, report says",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-more-9500-demolition-stop-work-notices-west-bank-report",
+      "publishedAt": "2026-11-01T03:36:11.000Z",
+      "excerpt": "Israel issues more than 9,500 demolition, stop-work notices in West Bank, report says Israeli authorities have issued 9,518 demolition or stop-work notices against Palestinian structures in the occupied West Bank since the start of 2015, according to a report by the&nbsp;Wall…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "West Bank",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hbbb9df24"
+    },
+    {
+      "title": "Egyptian Red Crescent sends flour and winter supplies to Gaza",
+      "url": "http://www.africanews.com/2026/10/30/egyptian-red-crescent-sends-flour-and-winter-supplies-to-gaza/",
+      "publishedAt": "2026-10-30T16:05:58.000Z",
+      "excerpt": "Egypt has sent an aid convoy of 62 trucks carrying more than 780 tonnes of relief supplies to Gaza, ahead of the winter season.",
+      "outlet": "Africanews",
+      "outletType": "Private broadcaster",
+      "country": "Pan-African",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Gaza",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "ha57a7429"
+    },
+    {
+      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "excerpt": "Families in Gaza are bracing for a fourth winter in tents and makeshift shelters as UN aid operations face mounting obstacles, with transport suspended on Tuesday due to Israel’s closure of the key Kerem Shalom crossing for election day.&nbsp;",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Gaza",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h65b6fa51"
+    },
+    {
+      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "excerpt": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "West Bank",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h4ef9a97"
+    },
+    {
+      "title": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168648",
+      "publishedAt": "2026-10-22T12:00:00.000Z",
+      "excerpt": "Long-range Russian attacks across Ukraine are intensifying, including in Kyiv, causing at least 14 civilian deaths and 78 injuries overnight into Thursday, as UN agencies continue to provide aid.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "West Bank",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h14ab1f64"
+    },
+    {
+      "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168644",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "excerpt": "The use of&nbsp;live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year’s harvest in the occupied West Bank.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "West Bank",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hf772eab4"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "UN News",
+      "outletType": "International organization",
+      "count": 4
+    },
+    {
+      "name": "Middle East Eye",
+      "outletType": "Private news site",
+      "count": 2
+    },
+    {
+      "name": "Africanews",
+      "outletType": "Private broadcaster",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+      "casualties": "Reference lines are quoted from a Wikipedia infobox. Live lines are headlines. A number is shown only when that source wrote it. Sample ranges are left off this page because a sourced line was found.",
+      "units": "Named units are names that appear in a headline or, when marked Reference, encyclopedia entries for a base. A base pin is not a report that the unit moved.",
+      "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+      "weapons": "Weapon counts are numbers written next to a weapon word in a headline. Nothing was added."
+    },
+    "movements": [
+      {
+        "id": "gz-mv-1",
+        "text": "Sample statement: a unit shifted inside the illustrated Gaza box during the layout day.",
+        "claimedBy": "Sample: Israeli military statement",
+        "partyId": "il",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated Gaza box"
+      },
+      {
+        "id": "gz-mv-2",
+        "text": "Sample statement: a unit shifted in the illustrated southern Lebanon box during the layout day.",
+        "claimedBy": "Sample: Hezbollah statement",
+        "partyId": "hezbollah",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated southern Lebanon"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "wiki-infobox",
+        "topic": "Wikipedia infobox",
+        "summary": "Quoted from the Wikipedia infobox. If the infobox gives more than one side’s figure, each field is kept. This page does not turn them into one number.",
+        "claims": [
+          {
+            "id": "wiki-gaza-lebanon-casualties1",
+            "text": "81,416+ reported killed",
+            "claimedBy": "Wikipedia infobox, field casualties1",
+            "partyId": null,
+            "verification": "single-source",
+            "origin": "reference",
+            "sources": [
+              {
+                "name": "Wikipedia: Gaza war",
+                "url": "https://en.wikipedia.org/wiki/Gaza_war",
+                "note": "Quoted from the infobox. Wikipedia text is CC BY-SA 4.0. This is not a figure calculated by this app.",
+                "kind": "reference"
+              }
+            ]
+          },
+          {
+            "id": "wiki-gaza-lebanon-casualties2",
+            "text": "802+ civilians killed; 1,159+ security personnel killed; 13,500+ civilians and soldiers wounded; 251 captured or abducted (85 killed); Total killed: 2,046+",
+            "claimedBy": "Wikipedia infobox, field casualties2",
+            "partyId": null,
+            "verification": "single-source",
+            "origin": "reference",
+            "sources": [
+              {
+                "name": "Wikipedia: Gaza war",
+                "url": "https://en.wikipedia.org/wiki/Gaza_war",
+                "note": "Quoted from the infobox. Wikipedia text is CC BY-SA 4.0. This is not a figure calculated by this app.",
+                "kind": "reference"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "wiki-unit-gaza-lebanon-strength1",
+        "name": "Wikipedia infobox strength1",
+        "partyId": null,
+        "area": "Not a mapped location",
+        "text": "20,000–40,000",
+        "claimedBy": "Wikipedia infobox, field strength1",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: Gaza war",
+            "url": "https://en.wikipedia.org/wiki/Gaza_war",
+            "note": "Quoted from the infobox. Not a sighting from this pull.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "wiki-unit-gaza-lebanon-strength2",
+        "name": "Wikipedia infobox strength2",
+        "partyId": null,
+        "area": "Not a mapped location",
+        "text": "529,500",
+        "claimedBy": "Wikipedia infobox, field strength2",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: Gaza war",
+            "url": "https://en.wikipedia.org/wiki/Gaza_war",
+            "note": "Quoted from the infobox. Not a sighting from this pull.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "gz-ter-1",
+        "topic": "Illustrated block inside the Strip",
+        "summary": "Entered, according to one sample statement. Still fought over, according to the other.",
+        "claims": [
+          {
+            "id": "gz-ter-a",
+            "text": "The illustrated block is described as entered.",
+            "claimedBy": "Sample: Israeli military statement",
+            "partyId": "il",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          },
+          {
+            "id": "gz-ter-b",
+            "text": "The same block is described as still fought over.",
+            "claimedBy": "Sample: armed-group statement",
+            "partyId": "hamas",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "live-gaza-lebanon-4",
+        "text": "“West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack”",
+        "claimedBy": "UN News",
+        "partyId": "il",
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+            "publishedAt": "2026-10-23T12:00:00.000Z",
+            "note": "International organization",
+            "kind": "article"
+          }
+        ],
+        "area": "West Bank",
+        "weaponType": "other",
+        "name": "Strike named in a headline",
+        "low": null,
+        "high": null
+      }
+    ],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "pin-gaza-lebanon-4",
+        "kind": "strike",
+        "origin": "live",
+        "lat": 32,
+        "lng": 35.35,
+        "title": "West Bank",
+        "detail": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+        "partyId": "il",
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "UN News",
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+            "publishedAt": "2026-10-23T12:00:00.000Z",
+            "note": "International organization",
+            "kind": "article"
+          }
+        ]
+      },
+      {
+        "id": "ref-gaza-lebanon-Gaza",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 31.5075,
+        "lng": 34.45972222,
+        "title": "Gaza",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Gaza",
+            "url": "https://en.wikipedia.org/wiki/Gaza_City",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-gaza-lebanon-Hebron",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 31.52861111,
+        "lng": 35.09694444,
+        "title": "Hebron",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Hebron",
+            "url": "https://en.wikipedia.org/wiki/Hebron",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-gaza-lebanon-West Bank",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 32,
+        "lng": 35.35,
+        "title": "West Bank",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: West Bank",
+            "url": "https://en.wikipedia.org/wiki/West_Bank",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "gz-ref-rafah",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 31.28,
+        "lng": 34.25,
+        "title": "Rafah",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "gz-ref-haifa",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 32.82,
+        "lng": 34.99,
+        "title": "Haifa",
+        "detail": "City marker for orientation. Not a strike assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "gz-ref-tyre",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 33.27,
+        "lng": 35.2,
+        "title": "Tyre",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "id": "gaza-wikimedia-outline",
+        "kind": "outline",
+        "origin": "reference",
+        "partyId": null,
+        "title": "Gaza Strip outline",
+        "detail": "Geographic outline of the Gaza Strip from the Wikimedia geoshape service for Wikidata Q39760, which is drawn from OpenStreetMap. It is a boundary for orientation, not a control or damage assessment.",
+        "verification": "single-source",
+        "claimedBy": "Wikimedia geoshape / OpenStreetMap",
+        "sources": [
+          {
+            "name": "Wikimedia geoshape for Wikidata Q39760 (Gaza Strip)",
+            "url": "https://www.wikidata.org/wiki/Q39760",
+            "note": "Geometry via https://maps.wikimedia.org. OpenStreetMap data is ODbL. This is not a front line.",
+            "kind": "reference"
+          }
+        ],
+        "coordinates": [
+          [
+            34.215897829,
+            31.326360678
+          ],
+          [
+            34.273200039,
+            31.373740475
+          ],
+          [
+            34.284399267,
+            31.384781034
+          ],
+          [
+            34.298427053,
+            31.397212319
+          ],
+          [
+            34.300849172,
+            31.400892645
+          ],
+          [
+            34.30718237,
+            31.403449377
+          ],
+          [
+            34.333819891,
+            31.426260223
+          ],
+          [
+            34.384130588,
+            31.477232839
+          ],
+          [
+            34.42251258,
+            31.51855185
+          ],
+          [
+            34.424921036,
+            31.521826492
+          ],
+          [
+            34.425444151,
+            31.525916442
+          ],
+          [
+            34.427845231,
+            31.528997462
+          ],
+          [
+            34.429919165,
+            31.53071307
+          ],
+          [
+            34.436146081,
+            31.53252289
+          ],
+          [
+            34.454868738,
+            31.552774155
+          ],
+          [
+            34.487938531,
+            31.596854081
+          ],
+          [
+            34.521770155,
+            31.574014065
+          ],
+          [
+            34.543279963,
+            31.558286346
+          ],
+          [
+            34.544957349,
+            31.557619063
+          ],
+          [
+            34.546045823,
+            31.556207969
+          ],
+          [
+            34.555913838,
+            31.548653695
+          ],
+          [
+            34.566680141,
+            31.541464369
+          ],
+          [
+            34.56732429,
+            31.540121337
+          ],
+          [
+            34.565431321,
+            31.533242644
+          ],
+          [
+            34.564545522,
+            31.531913023
+          ],
+          [
+            34.55842866,
+            31.52761076
+          ],
+          [
+            34.558192123,
+            31.525123262
+          ],
+          [
+            34.554805666,
+            31.522803068
+          ],
+          [
+            34.553783661,
+            31.521246464
+          ],
+          [
+            34.554224298,
+            31.518741281
+          ],
+          [
+            34.550089756,
+            31.516720488
+          ],
+          [
+            34.546753088,
+            31.513034462
+          ],
+          [
+            34.531371961,
+            31.507077528
+          ],
+          [
+            34.524726788,
+            31.502945249
+          ],
+          [
+            34.512710491,
+            31.50069496
+          ],
+          [
+            34.508515517,
+            31.498325647
+          ],
+          [
+            34.496388998,
+            31.489166993
+          ],
+          [
+            34.486542693,
+            31.480879386
+          ],
+          [
+            34.478637636,
+            31.476757083
+          ],
+          [
+            34.467334388,
+            31.464779678
+          ],
+          [
+            34.464726778,
+            31.461139418
+          ],
+          [
+            34.453179449,
+            31.452052094
+          ],
+          [
+            34.447015481,
+            31.445070471
+          ],
+          [
+            34.445550241,
+            31.443787872
+          ],
+          [
+            34.441901431,
+            31.442989999
+          ],
+          [
+            34.437059876,
+            31.440270071
+          ],
+          [
+            34.433549283,
+            31.436116671
+          ],
+          [
+            34.430512855,
+            31.431191967
+          ],
+          [
+            34.423602646,
+            31.423372657
+          ],
+          [
+            34.416398317,
+            31.419724518
+          ],
+          [
+            34.414860489,
+            31.417646225
+          ],
+          [
+            34.407517858,
+            31.411583092
+          ],
+          [
+            34.404831123,
+            31.412083575
+          ],
+          [
+            34.404199798,
+            31.411641681
+          ],
+          [
+            34.395841951,
+            31.403279475
+          ],
+          [
+            34.395024296,
+            31.401852624
+          ],
+          [
+            34.380293856,
+            31.389581266
+          ],
+          [
+            34.380286983,
+            31.387627026
+          ],
+          [
+            34.374016145,
+            31.378801049
+          ],
+          [
+            34.372981735,
+            31.373700158
+          ],
+          [
+            34.371448936,
+            31.371981533
+          ],
+          [
+            34.371833833,
+            31.370221333
+          ],
+          [
+            34.37045434,
+            31.369320027
+          ],
+          [
+            34.368070359,
+            31.369931738
+          ],
+          [
+            34.36716637,
+            31.3695828
+          ],
+          [
+            34.365055053,
+            31.364411165
+          ],
+          [
+            34.3647238,
+            31.361667098
+          ],
+          [
+            34.373287926,
+            31.306173786
+          ],
+          [
+            34.369269222,
+            31.295540923
+          ],
+          [
+            34.366547451,
+            31.290528628
+          ],
+          [
+            34.342197351,
+            31.278251823
+          ],
+          [
+            34.336360865,
+            31.268399398
+          ],
+          [
+            34.328719586,
+            31.260287728
+          ],
+          [
+            34.316187971,
+            31.251702563
+          ],
+          [
+            34.306698231,
+            31.248156348
+          ],
+          [
+            34.291910542,
+            31.24120029
+          ],
+          [
+            34.280907199,
+            31.230572288
+          ],
+          [
+            34.267499339,
+            31.220128856
+          ],
+          [
+            34.239982724,
+            31.295911151
+          ],
+          [
+            34.235519529,
+            31.296615231
+          ],
+          [
+            34.219168866,
+            31.322948489
+          ],
+          [
+            34.215897829,
+            31.326360678
+          ]
+        ]
+      }
+    ]
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 7,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 0 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

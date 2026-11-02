@@ -1,0 +1,536 @@
+{
+  "notes": {
+    "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+    "casualties": "Sample illustration. The ranges were invented so two competing claims can sit side by side. This page does not adopt either number.",
+    "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+    "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+    "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+  },
+  "movements": [
+    {
+      "id": "sa-mv-1",
+      "text": "Sample statement: a convoy moved toward the illustrated tri-border box.",
+      "claimedBy": "Sample: state-forces statement",
+      "partyId": "states",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated tri-border box"
+    },
+    {
+      "id": "sa-mv-2",
+      "text": "Sample statement: a group left a camp in the same illustrated box.",
+      "claimedBy": "Sample: JNIM statement",
+      "partyId": "jnim",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated tri-border box"
+    }
+  ],
+  "casualtyGroups": [
+    {
+      "id": "sa-cas-1",
+      "topic": "Deaths for the illustrated day",
+      "summary": "A state sample and an armed-group sample. Not reconciled.",
+      "claims": [
+        {
+          "id": "sa-cas-a",
+          "text": "Deaths described as civilians and soldiers.",
+          "claimedBy": "Sample: state-forces statement",
+          "partyId": "states",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 15,
+          "high": 35,
+          "unit": "people",
+          "area": null
+        },
+        {
+          "id": "sa-cas-b",
+          "text": "Deaths described as soldiers only, a lower range.",
+          "claimedBy": "Sample: JNIM statement",
+          "partyId": "jnim",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 5,
+          "high": 12,
+          "unit": "soldiers",
+          "area": null
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "sa-u-1",
+      "name": "Sample unit B-1",
+      "partyId": "states",
+      "area": "Illustrated tri-border box",
+      "text": "Fictional unit near the Mali–Burkina Faso–Niger area.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sa-u-2",
+      "name": "Sample unit B-2",
+      "partyId": "issp",
+      "area": "Illustrated eastern box",
+      "text": "Fictional unit. Not a real camp.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "territory": [
+    {
+      "id": "sa-ter-1",
+      "topic": "Illustrated road junction",
+      "summary": "Cleared, in one sample. Still used by the other side, in the other sample.",
+      "claims": [
+        {
+          "id": "sa-ter-a",
+          "text": "The illustrated junction is described as cleared.",
+          "claimedBy": "Sample: state-forces statement",
+          "partyId": "states",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        },
+        {
+          "id": "sa-ter-b",
+          "text": "The same junction is described as still used.",
+          "claimedBy": "Sample: JNIM statement",
+          "partyId": "jnim",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "id": "sa-w-1",
+      "weaponType": "armor",
+      "name": "Sample armored-vehicle mention",
+      "partyId": "states",
+      "area": "Illustrated tri-border box",
+      "text": "Fictional vehicle card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sa-w-2",
+      "weaponType": "drone",
+      "name": "Sample drone mention",
+      "partyId": "states",
+      "area": "Illustrated tri-border box",
+      "text": "Fictional drone card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sa-w-3",
+      "weaponType": "small-arms",
+      "name": "Sample small-arms mention",
+      "partyId": "jnim",
+      "area": "Illustrated tri-border box",
+      "text": "Fictional small-arms card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "casualtyTrend": {
+    "origin": "sample",
+    "unit": "people, claimed range",
+    "caption": "Illustrative ranges for the layout, not a Sahel death toll.",
+    "points": [
+      {
+        "date": "2026-10-29",
+        "values": [
+          {
+            "id": "by-state",
+            "label": "Sample state statement, people killed",
+            "partyId": "states",
+            "low": 10,
+            "high": 25
+          },
+          {
+            "id": "by-jnim",
+            "label": "Sample JNIM statement, soldiers killed",
+            "partyId": "jnim",
+            "low": 4,
+            "high": 10
+          }
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "values": [
+          {
+            "id": "by-state",
+            "label": "Sample state statement, people killed",
+            "partyId": "states",
+            "low": 12,
+            "high": 30
+          },
+          {
+            "id": "by-jnim",
+            "label": "Sample JNIM statement, soldiers killed",
+            "partyId": "jnim",
+            "low": 6,
+            "high": 14
+          }
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "values": [
+          {
+            "id": "by-state",
+            "label": "Sample state statement, people killed",
+            "partyId": "states",
+            "low": 15,
+            "high": 35
+          },
+          {
+            "id": "by-jnim",
+            "label": "Sample JNIM statement, soldiers killed",
+            "partyId": "jnim",
+            "low": 5,
+            "high": 12
+          }
+        ]
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "sa-ref-bamako",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 12.64,
+      "lng": -8.0,
+      "title": "Bamako",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "sa-ref-oua",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 12.37,
+      "lng": -1.52,
+      "title": "Ouagadougou",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "sa-ref-niamey",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 13.51,
+      "lng": 2.11,
+      "title": "Niamey",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "sa-unit",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 15.2,
+      "lng": 0.4,
+      "title": "SAMPLE — unit B-1",
+      "detail": "Fictional unit in the tri-border area.",
+      "partyId": "states",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sa-unit-2",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 16.1,
+      "lng": 2.4,
+      "title": "SAMPLE — unit B-2",
+      "detail": "Fictional unit further east.",
+      "partyId": "issp",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sa-clash",
+      "kind": "clash",
+      "origin": "sample",
+      "lat": 15.0,
+      "lng": 0.8,
+      "title": "SAMPLE — clash",
+      "detail": "Fictional clash marker.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sa-strike",
+      "kind": "strike",
+      "origin": "sample",
+      "lat": 14.7,
+      "lng": 0.2,
+      "title": "SAMPLE — strike",
+      "detail": "Fictional strike marker.",
+      "partyId": "states",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sa-weapon",
+      "kind": "weapon",
+      "origin": "sample",
+      "lat": 15.4,
+      "lng": 1.1,
+      "title": "SAMPLE — drone",
+      "detail": "Fictional weapon marker.",
+      "partyId": "states",
+      "weaponType": "drone",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "shapes": [
+    {
+      "id": "sa-ctrl",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "states",
+      "title": "SAMPLE — illustrated tri-border box",
+      "detail": "Small sample polygon. Not a map of who holds the Sahel.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          0.0,
+          14.7
+        ],
+        [
+          1.2,
+          14.7
+        ],
+        [
+          1.2,
+          15.6
+        ],
+        [
+          0.0,
+          15.6
+        ],
+        [
+          0.0,
+          14.7
+        ]
+      ]
+    },
+    {
+      "id": "sa-front",
+      "kind": "front",
+      "origin": "sample",
+      "partyId": null,
+      "title": "SAMPLE — illustrated line",
+      "detail": "Short sample line.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          1.2,
+          14.7
+        ],
+        [
+          1.35,
+          15.15
+        ],
+        [
+          1.2,
+          15.6
+        ]
+      ]
+    }
+  ]
+}

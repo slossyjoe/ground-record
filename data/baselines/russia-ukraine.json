@@ -1,0 +1,672 @@
+{
+  "notes": {
+    "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+    "casualties": "Sample illustration. The ranges were invented so two competing claims can sit side by side. This page does not adopt either number.",
+    "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+    "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+    "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+  },
+  "movements": [
+    {
+      "id": "ua-mv-1",
+      "text": "Sample statement: a unit moved a short distance west of the illustrated front during the layout day.",
+      "claimedBy": "Sample: Ukrainian General Staff",
+      "partyId": "ua",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated Donetsk sector"
+    },
+    {
+      "id": "ru-mv-1",
+      "text": "Sample statement: a unit moved a short distance east of the same illustrated front during the layout day.",
+      "claimedBy": "Sample: Russian Ministry of Defence",
+      "partyId": "ru",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated Donetsk sector"
+    }
+  ],
+  "casualtyGroups": [
+    {
+      "id": "ua-cas-1",
+      "topic": "Personnel losses for the illustrated day",
+      "summary": "The two sample statements describe different losses and do not match. Neither figure is adopted.",
+      "claims": [
+        {
+          "id": "ua-cas-a",
+          "text": "Opposing personnel losses are put in a range for the illustrated day.",
+          "claimedBy": "Sample: Ukrainian General Staff",
+          "partyId": "ua",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 1100,
+          "high": 1300,
+          "unit": "personnel",
+          "area": null
+        },
+        {
+          "id": "ua-cas-b",
+          "text": "Opposing personnel losses are put much lower for the same illustrated day.",
+          "claimedBy": "Sample: Russian Ministry of Defence",
+          "partyId": "ru",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 80,
+          "high": 140,
+          "unit": "personnel",
+          "area": null
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "ua-u-1",
+      "name": "Sample unit U-1",
+      "partyId": "ua",
+      "area": "West of the illustrated front",
+      "text": "Fictional unit placed so a Ukrainian marker has a home on the map.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ru-u-1",
+      "name": "Sample unit R-1",
+      "partyId": "ru",
+      "area": "East of the illustrated front",
+      "text": "Fictional unit placed so a Russian marker has a home on the map.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "territory": [
+    {
+      "id": "ua-ter-1",
+      "topic": "Illustrated village-sized patch",
+      "summary": "One sample statement calls it taken. The other says it is still held. The page keeps both.",
+      "claims": [
+        {
+          "id": "ua-ter-a",
+          "text": "The illustrated patch is described as taken.",
+          "claimedBy": "Sample: Ukrainian statement",
+          "partyId": "ua",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        },
+        {
+          "id": "ua-ter-b",
+          "text": "The same illustrated patch is described as still held.",
+          "claimedBy": "Sample: Russian statement",
+          "partyId": "ru",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "id": "ua-w-1",
+      "weaponType": "artillery",
+      "name": "Sample artillery mention",
+      "partyId": "ua",
+      "area": "Illustrated front",
+      "text": "A sample card for tube artillery. No caliber is asserted.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ua-w-2",
+      "weaponType": "drone",
+      "name": "Sample drone mention",
+      "partyId": "ru",
+      "area": "Illustrated front",
+      "text": "A sample card for a one-way drone. No model is asserted.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ua-w-3",
+      "weaponType": "missile",
+      "name": "Sample missile mention",
+      "partyId": "ru",
+      "area": "Away from the illustrated front",
+      "text": "A sample card for a long-range missile. No impact point is asserted.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "casualtyTrend": {
+    "origin": "sample",
+    "unit": "personnel, claimed range",
+    "caption": "Illustrative ranges only. Each band is what one sample statement says about the other side’s personnel. They are not measurements, and the gap between them is the point.",
+    "points": [
+      {
+        "date": "2026-10-25",
+        "values": [
+          {
+            "id": "by-ua",
+            "label": "Claimed by Ukraine, about Russian personnel",
+            "partyId": "ua",
+            "low": 1000,
+            "high": 1200
+          },
+          {
+            "id": "by-ru",
+            "label": "Claimed by Russia, about Ukrainian personnel",
+            "partyId": "ru",
+            "low": 70,
+            "high": 120
+          }
+        ]
+      },
+      {
+        "date": "2026-10-26",
+        "values": [
+          {
+            "id": "by-ua",
+            "label": "Claimed by Ukraine, about Russian personnel",
+            "partyId": "ua",
+            "low": 1050,
+            "high": 1250
+          },
+          {
+            "id": "by-ru",
+            "label": "Claimed by Russia, about Ukrainian personnel",
+            "partyId": "ru",
+            "low": 90,
+            "high": 150
+          }
+        ]
+      },
+      {
+        "date": "2026-10-27",
+        "values": [
+          {
+            "id": "by-ua",
+            "label": "Claimed by Ukraine, about Russian personnel",
+            "partyId": "ua",
+            "low": 980,
+            "high": 1180
+          },
+          {
+            "id": "by-ru",
+            "label": "Claimed by Russia, about Ukrainian personnel",
+            "partyId": "ru",
+            "low": 60,
+            "high": 110
+          }
+        ]
+      },
+      {
+        "date": "2026-10-28",
+        "values": [
+          {
+            "id": "by-ua",
+            "label": "Claimed by Ukraine, about Russian personnel",
+            "partyId": "ua",
+            "low": 1100,
+            "high": 1400
+          },
+          {
+            "id": "by-ru",
+            "label": "Claimed by Russia, about Ukrainian personnel",
+            "partyId": "ru",
+            "low": 80,
+            "high": 160
+          }
+        ]
+      },
+      {
+        "date": "2026-10-29",
+        "values": [
+          {
+            "id": "by-ua",
+            "label": "Claimed by Ukraine, about Russian personnel",
+            "partyId": "ua",
+            "low": 1020,
+            "high": 1300
+          },
+          {
+            "id": "by-ru",
+            "label": "Claimed by Russia, about Ukrainian personnel",
+            "partyId": "ru",
+            "low": 75,
+            "high": 130
+          }
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "values": [
+          {
+            "id": "by-ua",
+            "label": "Claimed by Ukraine, about Russian personnel",
+            "partyId": "ua",
+            "low": 1150,
+            "high": 1350
+          },
+          {
+            "id": "by-ru",
+            "label": "Claimed by Russia, about Ukrainian personnel",
+            "partyId": "ru",
+            "low": 85,
+            "high": 140
+          }
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "values": [
+          {
+            "id": "by-ua",
+            "label": "Claimed by Ukraine, about Russian personnel",
+            "partyId": "ua",
+            "low": 1100,
+            "high": 1300
+          },
+          {
+            "id": "by-ru",
+            "label": "Claimed by Russia, about Ukrainian personnel",
+            "partyId": "ru",
+            "low": 80,
+            "high": 140
+          }
+        ]
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "ua-ref-kyiv",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 50.45,
+      "lng": 30.52,
+      "title": "Kyiv",
+      "detail": "City marker for orientation. Not a damage or control assessment.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "ua-ref-kharkiv",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 49.99,
+      "lng": 36.23,
+      "title": "Kharkiv",
+      "detail": "City marker for orientation. Not a damage or control assessment.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "ua-ref-donetsk",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 48.02,
+      "lng": 37.8,
+      "title": "Donetsk",
+      "detail": "City marker for orientation. Not a statement of who holds it.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "ua-ref-zp",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 47.84,
+      "lng": 35.14,
+      "title": "Zaporizhzhia",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "ua-unit-u",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 48.15,
+      "lng": 37.28,
+      "title": "SAMPLE — unit U-1",
+      "detail": "Fictional unit marker west of the illustrated front.",
+      "partyId": "ua",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ua-unit-r",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 48.16,
+      "lng": 37.72,
+      "title": "SAMPLE — unit R-1",
+      "detail": "Fictional unit marker east of the illustrated front.",
+      "partyId": "ru",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ua-clash",
+      "kind": "clash",
+      "origin": "sample",
+      "lat": 48.15,
+      "lng": 37.5,
+      "title": "SAMPLE — clash",
+      "detail": "Fictional clash marker on the illustrated front. Not a reported battle.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ua-strike",
+      "kind": "strike",
+      "origin": "sample",
+      "lat": 48.28,
+      "lng": 37.55,
+      "title": "SAMPLE — strike",
+      "detail": "Fictional strike marker. It is not placed on a named city.",
+      "partyId": "ru",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ua-weapon",
+      "kind": "weapon",
+      "origin": "sample",
+      "lat": 48.05,
+      "lng": 37.4,
+      "title": "SAMPLE — drone",
+      "detail": "Fictional weapon marker.",
+      "partyId": "ru",
+      "weaponType": "drone",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "shapes": [
+    {
+      "id": "ua-ctrl-u",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "ua",
+      "title": "SAMPLE — illustrated held area, west",
+      "detail": "A small sample polygon. It is not a map of Ukrainian-held territory.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          37.1,
+          48.02
+        ],
+        [
+          37.42,
+          48.02
+        ],
+        [
+          37.42,
+          48.28
+        ],
+        [
+          37.1,
+          48.28
+        ],
+        [
+          37.1,
+          48.02
+        ]
+      ]
+    },
+    {
+      "id": "ua-ctrl-r",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "ru",
+      "title": "SAMPLE — illustrated held area, east",
+      "detail": "A small sample polygon. It is not a map of Russian-held territory.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          37.58,
+          48.02
+        ],
+        [
+          37.9,
+          48.02
+        ],
+        [
+          37.9,
+          48.28
+        ],
+        [
+          37.58,
+          48.28
+        ],
+        [
+          37.58,
+          48.02
+        ]
+      ]
+    },
+    {
+      "id": "ua-front",
+      "kind": "front",
+      "origin": "sample",
+      "partyId": null,
+      "title": "SAMPLE — illustrated front",
+      "detail": "A short dashed line so the legend has a front. It is not the real line of contact.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          37.42,
+          48.02
+        ],
+        [
+          37.5,
+          48.15
+        ],
+        [
+          37.42,
+          48.28
+        ]
+      ]
+    }
+  ]
+}

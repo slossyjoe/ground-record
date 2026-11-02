@@ -1,0 +1,536 @@
+{
+  "notes": {
+    "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+    "casualties": "Sample illustration. The ranges were invented so two competing claims can sit side by side. This page does not adopt either number.",
+    "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+    "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+    "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+  },
+  "movements": [
+    {
+      "id": "mm-mv-1",
+      "text": "Sample statement: a column moved along the illustrated central corridor.",
+      "claimedBy": "Sample: military statement",
+      "partyId": "sac",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated central corridor"
+    },
+    {
+      "id": "mm-mv-2",
+      "text": "Sample statement: a local force moved into the illustrated western box.",
+      "claimedBy": "Sample: resistance statement",
+      "partyId": "resistance",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated western box"
+    }
+  ],
+  "casualtyGroups": [
+    {
+      "id": "mm-cas-1",
+      "topic": "Deaths for the illustrated day",
+      "summary": "Two sample categories. Not added together.",
+      "claims": [
+        {
+          "id": "mm-cas-a",
+          "text": "Deaths described as fighters and civilians together.",
+          "claimedBy": "Sample: resistance statement",
+          "partyId": "resistance",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 20,
+          "high": 45,
+          "unit": "people",
+          "area": null
+        },
+        {
+          "id": "mm-cas-b",
+          "text": "Deaths described as opposing fighters only.",
+          "claimedBy": "Sample: military statement",
+          "partyId": "sac",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 6,
+          "high": 15,
+          "unit": "fighters",
+          "area": null
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "mm-u-1",
+      "name": "Sample unit M-1",
+      "partyId": "sac",
+      "area": "Illustrated central corridor",
+      "text": "Fictional unit.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "mm-u-2",
+      "name": "Sample unit M-2",
+      "partyId": "resistance",
+      "area": "Illustrated western box",
+      "text": "Fictional unit. Not a named brigade.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "territory": [
+    {
+      "id": "mm-ter-1",
+      "topic": "Illustrated town edge",
+      "summary": "Taken, in one sample statement. Still garrisoned, in the other.",
+      "claims": [
+        {
+          "id": "mm-ter-a",
+          "text": "The illustrated edge is described as taken.",
+          "claimedBy": "Sample: resistance statement",
+          "partyId": "resistance",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        },
+        {
+          "id": "mm-ter-b",
+          "text": "The same edge is described as still garrisoned.",
+          "claimedBy": "Sample: military statement",
+          "partyId": "sac",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "id": "mm-w-1",
+      "weaponType": "air",
+      "name": "Sample aircraft mention",
+      "partyId": "sac",
+      "area": "Illustrated central corridor",
+      "text": "Fictional aircraft card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "mm-w-2",
+      "weaponType": "artillery",
+      "name": "Sample artillery mention",
+      "partyId": "sac",
+      "area": "Illustrated western box",
+      "text": "Fictional artillery card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "mm-w-3",
+      "weaponType": "small-arms",
+      "name": "Sample small-arms mention",
+      "partyId": "resistance",
+      "area": "Illustrated western box",
+      "text": "Fictional small-arms card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "casualtyTrend": {
+    "origin": "sample",
+    "unit": "people, claimed range",
+    "caption": "Illustrative ranges. Categories differ.",
+    "points": [
+      {
+        "date": "2026-10-29",
+        "values": [
+          {
+            "id": "by-res",
+            "label": "Sample resistance statement, people killed",
+            "partyId": "resistance",
+            "low": 15,
+            "high": 30
+          },
+          {
+            "id": "by-mil",
+            "label": "Sample military statement, opposing fighters",
+            "partyId": "sac",
+            "low": 4,
+            "high": 10
+          }
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "values": [
+          {
+            "id": "by-res",
+            "label": "Sample resistance statement, people killed",
+            "partyId": "resistance",
+            "low": 18,
+            "high": 40
+          },
+          {
+            "id": "by-mil",
+            "label": "Sample military statement, opposing fighters",
+            "partyId": "sac",
+            "low": 5,
+            "high": 12
+          }
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "values": [
+          {
+            "id": "by-res",
+            "label": "Sample resistance statement, people killed",
+            "partyId": "resistance",
+            "low": 20,
+            "high": 45
+          },
+          {
+            "id": "by-mil",
+            "label": "Sample military statement, opposing fighters",
+            "partyId": "sac",
+            "low": 6,
+            "high": 15
+          }
+        ]
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "mm-ref-yangon",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 16.87,
+      "lng": 96.2,
+      "title": "Yangon",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "mm-ref-mandalay",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 21.97,
+      "lng": 96.08,
+      "title": "Mandalay",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "mm-ref-npd",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 19.76,
+      "lng": 96.07,
+      "title": "Naypyidaw",
+      "detail": "City marker for orientation. Not a security assessment.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "mm-unit-a",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 22.4,
+      "lng": 94.4,
+      "title": "SAMPLE — unit M-2",
+      "detail": "Fictional unit in the west of the country.",
+      "partyId": "resistance",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "mm-unit-b",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 21.2,
+      "lng": 96.4,
+      "title": "SAMPLE — unit M-1",
+      "detail": "Fictional unit in the central corridor.",
+      "partyId": "sac",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "mm-clash",
+      "kind": "clash",
+      "origin": "sample",
+      "lat": 22.2,
+      "lng": 94.8,
+      "title": "SAMPLE — clash",
+      "detail": "Fictional clash marker.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "mm-strike",
+      "kind": "strike",
+      "origin": "sample",
+      "lat": 22.6,
+      "lng": 94.2,
+      "title": "SAMPLE — strike",
+      "detail": "Fictional strike marker.",
+      "partyId": "sac",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "mm-weapon",
+      "kind": "weapon",
+      "origin": "sample",
+      "lat": 21.4,
+      "lng": 96.0,
+      "title": "SAMPLE — aircraft",
+      "detail": "Fictional weapon marker.",
+      "partyId": "sac",
+      "weaponType": "air",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "shapes": [
+    {
+      "id": "mm-ctrl",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "resistance",
+      "title": "SAMPLE — illustrated western box",
+      "detail": "Small sample polygon. Not a control map.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          94.1,
+          22.0
+        ],
+        [
+          94.9,
+          22.0
+        ],
+        [
+          94.9,
+          22.7
+        ],
+        [
+          94.1,
+          22.7
+        ],
+        [
+          94.1,
+          22.0
+        ]
+      ]
+    },
+    {
+      "id": "mm-front",
+      "kind": "front",
+      "origin": "sample",
+      "partyId": null,
+      "title": "SAMPLE — illustrated line",
+      "detail": "Short sample line.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          94.9,
+          22.0
+        ],
+        [
+          95.1,
+          22.35
+        ],
+        [
+          94.9,
+          22.7
+        ]
+      ]
+    }
+  ]
+}

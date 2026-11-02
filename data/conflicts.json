@@ -1,0 +1,769 @@
+[
+  {
+    "id": "russia-ukraine",
+    "name": "Russia–Ukraine",
+    "status": "active",
+    "statusLabel": "Active conventional war",
+    "region": "Europe",
+    "started": "2014",
+    "blurb": "Interstate war between Russia and Ukraine. It has been underway since 2014 and at full scale since February 2022.",
+    "complexityNote": "Fighting is widely reported in eastern and southern Ukraine, with long-range strikes away from the front. Daily loss figures from either capital are claims, not a shared count.",
+    "parties": [
+      {
+        "id": "ua",
+        "name": "Ukraine",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "ru",
+        "name": "Russia",
+        "color": "#8a4b32"
+      }
+    ],
+    "center": {
+      "lat": 48.5,
+      "lng": 36.4
+    },
+    "zoom": 5.6,
+    "wikipediaTitle": "Russo-Ukrainian war",
+    "matchTerms": [
+      "ukraine",
+      "ukrainian",
+      "kyiv",
+      "kiev",
+      "kharkiv",
+      "zaporizhzhia",
+      "donetsk",
+      "luhansk",
+      "crimea",
+      "zelenskyy",
+      "zelensky"
+    ],
+    "gdeltQuery": "(ukraine OR ukrainian OR kyiv OR kharkiv OR zaporizhzhia OR donetsk) (war OR missile OR drone OR troops OR strike OR front OR army)",
+    "reliefwebQuery": "Ukraine war",
+    "acledCountries": [
+      "Ukraine"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups it among major wars.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": true
+  },
+  {
+    "id": "gaza-lebanon",
+    "name": "Gaza and Lebanon",
+    "status": "active",
+    "statusLabel": "Active war, more than one front",
+    "region": "Middle East",
+    "started": "2023",
+    "blurb": "Fighting in the Gaza Strip between Israeli forces and Palestinian armed groups, with related fighting involving Hezbollah in Lebanon.",
+    "complexityNote": "This page keeps Gaza and Lebanon together because reporting often links them. It does not treat every event in Israel, the West Bank, or Lebanon as the same battle.",
+    "parties": [
+      {
+        "id": "il",
+        "name": "Israel",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "hamas",
+        "name": "Hamas and other Palestinian armed groups",
+        "color": "#8a4b32"
+      },
+      {
+        "id": "hezbollah",
+        "name": "Hezbollah",
+        "color": "#3f6b4e"
+      }
+    ],
+    "center": {
+      "lat": 32.4,
+      "lng": 34.9
+    },
+    "zoom": 6.6,
+    "wikipediaTitle": "Gaza war",
+    "matchTerms": [
+      "gaza",
+      "hamas",
+      "hezbollah",
+      "rafah",
+      "khan younis",
+      "jabalia",
+      "west bank"
+    ],
+    "gdeltQuery": "(gaza OR hamas OR hezbollah OR rafah) (israel OR israeli OR lebanon OR strike OR troops)",
+    "reliefwebQuery": "Gaza war",
+    "acledCountries": [
+      "Palestine",
+      "Israel",
+      "Lebanon"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups the Gaza war and the Israel–Hezbollah fighting among major wars.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "iran-war",
+    "name": "Iran, Israel, and the United States",
+    "status": "active",
+    "statusLabel": "Active war, as described by Wikipedia",
+    "region": "Middle East",
+    "started": "2026",
+    "blurb": "Wikipedia describes a war involving the United States, Israel, and Iran since 28 February 2026. The summary on this page is theirs.",
+    "complexityNote": "Other countries have been named in public reporting about strikes and shipping. This page does not fold all of those events into one order of battle. Sample markers are not locations of real strikes.",
+    "parties": [
+      {
+        "id": "ir",
+        "name": "Iran",
+        "color": "#3f6b4e"
+      },
+      {
+        "id": "il",
+        "name": "Israel",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "us",
+        "name": "United States",
+        "color": "#6d5474"
+      }
+    ],
+    "center": {
+      "lat": 32.4,
+      "lng": 53.5
+    },
+    "zoom": 4.6,
+    "wikipediaTitle": "2026 Iran war",
+    "matchTerms": [
+      "iran",
+      "iranian",
+      "tehran",
+      "hormuz",
+      "isfahan",
+      "natanz"
+    ],
+    "gdeltQuery": "(iran OR iranian OR tehran OR hormuz) (war OR strike OR missile OR israel OR american OR troops)",
+    "reliefwebQuery": "Iran war",
+    "acledCountries": [
+      "Iran"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts describes this war, and because the Wikipedia page “2026 Iran war” calls it ongoing.",
+      "sourceName": "Wikipedia: 2026 Iran war",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2026_Iran_war"
+    },
+    "listed": false
+  },
+  {
+    "id": "sudan",
+    "name": "Sudan",
+    "status": "active",
+    "statusLabel": "Active civil war",
+    "region": "Africa",
+    "started": "2023",
+    "blurb": "Civil war in Sudan between the Sudanese Armed Forces and the Rapid Support Forces, ongoing since April 2023.",
+    "complexityNote": "Local armed groups and foreign governments are also reported as involved. Reducing the war to two logos hides that. Both main parties’ casualty claims are shown when the file has them, and neither is adopted.",
+    "parties": [
+      {
+        "id": "saf",
+        "name": "Sudanese Armed Forces",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "rsf",
+        "name": "Rapid Support Forces",
+        "color": "#8a6232"
+      }
+    ],
+    "center": {
+      "lat": 14.8,
+      "lng": 30.2
+    },
+    "zoom": 5.1,
+    "wikipediaTitle": "Sudanese civil war (2023–present)",
+    "matchTerms": [
+      "sudan",
+      "sudanese",
+      "khartoum",
+      "darfur",
+      "el fasher",
+      "hemedti",
+      "burhan"
+    ],
+    "gdeltQuery": "(sudan OR sudanese OR khartoum OR darfur OR \"el fasher\") (war OR army OR rsf OR troops OR attack)",
+    "reliefwebQuery": "Sudan conflict",
+    "acledCountries": [
+      "Sudan"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups the Sudanese civil war among major wars.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "myanmar",
+    "name": "Myanmar",
+    "status": "active",
+    "statusLabel": "Active civil war",
+    "region": "Asia",
+    "started": "2021",
+    "blurb": "Civil war in Myanmar between the military and a wide set of resistance and ethnic armed groups, ongoing since the 2021 coup.",
+    "complexityNote": "The resistance is not one army. Ethnic armed organizations and People’s Defence Forces fight on different fronts. A marker for “the resistance” would flatten that, so sample units stay unnamed.",
+    "parties": [
+      {
+        "id": "sac",
+        "name": "Myanmar military",
+        "color": "#8a4b32"
+      },
+      {
+        "id": "resistance",
+        "name": "Resistance and ethnic armed groups",
+        "color": "#3f6b4e"
+      }
+    ],
+    "center": {
+      "lat": 21,
+      "lng": 96.2
+    },
+    "zoom": 5,
+    "wikipediaTitle": "Myanmar civil war (2021–present)",
+    "matchTerms": [
+      "myanmar",
+      "burmese",
+      "burma",
+      "naypyidaw",
+      "rakhine",
+      "sagaing",
+      "arakan army"
+    ],
+    "gdeltQuery": "(myanmar OR burmese OR burma) (war OR military OR airstrike OR resistance OR coup OR rakhine)",
+    "reliefwebQuery": "Myanmar conflict",
+    "acledCountries": [
+      "Myanmar"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups the Myanmar civil war among major wars.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "sahel",
+    "name": "Sahel",
+    "status": "active",
+    "statusLabel": "Active insurgencies",
+    "region": "Africa",
+    "started": "2012",
+    "blurb": "Insurgencies in Mali, Burkina Faso, and Niger involving state forces, JNIM, and the Islamic State’s Sahel branch.",
+    "complexityNote": "The Lake Chad fighting associated with Boko Haram is related but is not this page. It can be added as its own conflict in the data file.",
+    "parties": [
+      {
+        "id": "states",
+        "name": "Mali, Burkina Faso, and Niger forces",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "jnim",
+        "name": "JNIM",
+        "color": "#8a4b32"
+      },
+      {
+        "id": "issp",
+        "name": "Islamic State Sahel Province",
+        "color": "#6d5474"
+      }
+    ],
+    "center": {
+      "lat": 15.2,
+      "lng": -0.5
+    },
+    "zoom": 4.5,
+    "wikipediaTitle": "War in the Sahel",
+    "matchTerms": [
+      "mali",
+      "malian",
+      "bamako",
+      "burkina faso",
+      "burkinabe",
+      "ouagadougou",
+      "niamey",
+      "niger",
+      "jnim",
+      "azawad",
+      "sahel"
+    ],
+    "gdeltQuery": "(mali OR \"burkina faso\" OR niamey OR bamako OR jnim OR sahel) (attack OR army OR militants OR troops OR insurgency)",
+    "reliefwebQuery": "Sahel conflict",
+    "acledCountries": [
+      "Mali",
+      "Burkina Faso",
+      "Niger"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups Islamist insurgencies in the Sahel among major wars.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "drc-east",
+    "name": "Eastern DR Congo",
+    "status": "active",
+    "statusLabel": "Active war",
+    "region": "Africa",
+    "started": "2022",
+    "blurb": "Fighting in eastern Democratic Republic of the Congo, including the M23 offensive and other armed groups in North Kivu and Ituri.",
+    "complexityNote": "M23 is one party among several. ADF and local militias are also regularly reported. Rwanda is accused by Congo’s government of backing M23; Rwanda denies directing the fighting. Those are claims, and this page does not settle them.",
+    "parties": [
+      {
+        "id": "fardc",
+        "name": "Congolese armed forces",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "m23",
+        "name": "M23",
+        "color": "#8a4b32"
+      }
+    ],
+    "center": {
+      "lat": -1.4,
+      "lng": 29.2
+    },
+    "zoom": 6.1,
+    "wikipediaTitle": "M23 campaign (2022–present)",
+    "matchTerms": [
+      "m23",
+      "goma",
+      "north kivu",
+      "south kivu",
+      "rubaya",
+      "bunagana",
+      "wazalendo"
+    ],
+    "gdeltQuery": "(\"dr congo\" OR goma OR \"north kivu\" OR m23 OR ituri) (rebels OR army OR attack OR troops)",
+    "reliefwebQuery": "DR Congo M23",
+    "acledCountries": [
+      "Democratic Republic of Congo"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups fighting in the Democratic Republic of the Congo, including the M23 offensive, among major wars.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "yemen-red-sea",
+    "name": "Yemen and the Red Sea",
+    "status": "active",
+    "statusLabel": "Active civil war and maritime attacks",
+    "region": "Middle East",
+    "started": "2014",
+    "blurb": "The Yemeni civil war, ongoing since 2014, and attacks in and around the Red Sea claimed by the Houthis.",
+    "complexityNote": "Yemen’s anti-Houthi camp is itself divided. Saudi Arabia and other states have been parties at different times. Red Sea attacks are related to the wider regional wars and are also tracked here when the wording matches.",
+    "parties": [
+      {
+        "id": "houthis",
+        "name": "Houthis (Ansar Allah)",
+        "color": "#3f6b4e"
+      },
+      {
+        "id": "gov",
+        "name": "Internationally recognized government and allied forces",
+        "color": "#2f5d8a"
+      }
+    ],
+    "center": {
+      "lat": 15.4,
+      "lng": 45.2
+    },
+    "zoom": 5.4,
+    "wikipediaTitle": "Yemeni civil war (2014–present)",
+    "matchTerms": [
+      "yemen",
+      "yemeni",
+      "houthi",
+      "houthis",
+      "red sea",
+      "aden",
+      "sanaa",
+      "bab al-mandab",
+      "bab el-mandeb"
+    ],
+    "gdeltQuery": "(yemen OR houthi OR houthis OR \"red sea\") (war OR strike OR missile OR ship OR troops)",
+    "reliefwebQuery": "Yemen conflict",
+    "acledCountries": [
+      "Yemen"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups the Yemeni civil war among wars, including Red Sea fighting.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "korea",
+    "name": "Korean Peninsula",
+    "status": "armistice",
+    "statusLabel": "Armistice — war not formally ended",
+    "region": "Asia",
+    "started": "1950",
+    "blurb": "The Korean War stopped in an armistice on 27 July 1953. No peace treaty replaced it. This is not a page of daily battles.",
+    "complexityNote": "Wikipedia’s list of conflicts with combat deaths this year does not treat Korea as an active battle front. It is here because the owner asked for wars that are still legally unresolved, and because the armistice is not a peace treaty.",
+    "parties": [
+      {
+        "id": "rok",
+        "name": "South Korea and United States forces",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "dprk",
+        "name": "North Korea",
+        "color": "#8a4b32"
+      }
+    ],
+    "center": {
+      "lat": 38.3,
+      "lng": 127.2
+    },
+    "zoom": 6.2,
+    "wikipediaTitle": "Korean War",
+    "matchTerms": [
+      "north korea",
+      "pyongyang",
+      "korean peninsula",
+      "demilitarized zone",
+      "kim jong"
+    ],
+    "gdeltQuery": "(\"north korea\" OR \"south korea\" OR pyongyang OR dmz) (missile OR drill OR troops OR army OR border)",
+    "reliefwebQuery": "Korean Peninsula",
+    "acledCountries": [
+      "South Korea",
+      "North Korea"
+    ],
+    "inclusion": {
+      "text": "Included because the Korean Armistice Agreement of 27 July 1953 halted fighting without a peace treaty. It is labeled an armistice, not an active battle day.",
+      "sourceName": "Wikipedia: Korean Armistice Agreement",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Korean_Armistice_Agreement"
+    },
+    "listed": false
+  },
+  {
+    "id": "somalia",
+    "name": "Somalia",
+    "status": "active",
+    "statusLabel": "Active insurgency",
+    "region": "Africa",
+    "started": "1991",
+    "blurb": "Long-running war in Somalia. The current phase is fought mainly between federal forces, their partners, and al-Shabaab.",
+    "complexityNote": "Federal member states, Islamic State fighters in Puntland, and foreign troops have all appeared in recent public reporting. This page does not treat the country as a two-player front.",
+    "parties": [
+      {
+        "id": "fgs",
+        "name": "Federal government and partners",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "shabaab",
+        "name": "Al-Shabaab",
+        "color": "#8a4b32"
+      }
+    ],
+    "center": {
+      "lat": 4.6,
+      "lng": 45.4
+    },
+    "zoom": 5.3,
+    "wikipediaTitle": "Somali Civil War",
+    "matchTerms": [
+      "somalia",
+      "somali",
+      "mogadishu",
+      "al-shabaab",
+      "al shabaab",
+      "puntland",
+      "jubaland"
+    ],
+    "gdeltQuery": "(somalia OR mogadishu OR \"al-shabaab\" OR \"al shabaab\") (attack OR army OR troops OR bombing)",
+    "reliefwebQuery": "Somalia conflict",
+    "acledCountries": [
+      "Somalia"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups the Somali civil war among major wars.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "ethiopia",
+    "name": "Ethiopia",
+    "status": "active",
+    "statusLabel": "Active internal wars",
+    "region": "Africa",
+    "started": "2018",
+    "blurb": "Several armed conflicts inside Ethiopia since 2018, including fighting involving Fano in Amhara and the Oromo Liberation Army in Oromia.",
+    "complexityNote": "These are not one battlefield. A national casualty total would mix different wars. Sample figures on this page are illustrations of the layout only.",
+    "parties": [
+      {
+        "id": "federal",
+        "name": "Ethiopian federal forces",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "fano",
+        "name": "Fano",
+        "color": "#8a6232"
+      },
+      {
+        "id": "ola",
+        "name": "Oromo Liberation Army",
+        "color": "#3f6b4e"
+      }
+    ],
+    "center": {
+      "lat": 9.5,
+      "lng": 39.2
+    },
+    "zoom": 5.2,
+    "wikipediaTitle": "Ethiopian civil conflict (2018–present)",
+    "matchTerms": [
+      "ethiopia",
+      "ethiopian",
+      "tigray",
+      "amhara",
+      "oromia",
+      "addis ababa",
+      "fano",
+      "oromo liberation"
+    ],
+    "gdeltQuery": "(ethiopia OR amhara OR oromia OR tigray OR fano) (war OR army OR clash OR troops OR drone)",
+    "reliefwebQuery": "Ethiopia conflict",
+    "acledCountries": [
+      "Ethiopia"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups wars in Ethiopia among wars with at least 1,000 deaths in the current or previous year.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "syria-spillover",
+    "name": "Syria",
+    "status": "active",
+    "statusLabel": "Clashes after the 2011–2024 civil war",
+    "region": "Middle East",
+    "started": "2011",
+    "blurb": "Wikipedia treats the 2011 civil war as ended with the fall of the Assad government in December 2024, and still records clashes in Syria in 2026.",
+    "complexityNote": "The parties are fragmented: current Syrian authorities, local armed groups, and Israeli forces have all been named in public reporting. This page does not call that the same war as 2011–2024.",
+    "parties": [
+      {
+        "id": "authorities",
+        "name": "Syrian authorities",
+        "color": "#3f6b4e"
+      },
+      {
+        "id": "il",
+        "name": "Israel",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "local",
+        "name": "Local armed groups",
+        "color": "#8a6232"
+      }
+    ],
+    "center": {
+      "lat": 35,
+      "lng": 38.2
+    },
+    "zoom": 6,
+    "wikipediaTitle": "Syrian civil war",
+    "matchTerms": [
+      "syria",
+      "syrian",
+      "idlib",
+      "damascus",
+      "aleppo",
+      "suwayda",
+      "sweida"
+    ],
+    "gdeltQuery": "(syria OR syrian OR idlib OR damascus OR aleppo OR suwayda) (clash OR strike OR troops OR army OR israel)",
+    "reliefwebQuery": "Syria conflict",
+    "acledCountries": [
+      "Syria"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts still records fighting in Syria in 2026, under the aftermath of the civil war. The Wikipedia summary itself says many sources treat that civil war as ended in 2024.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "nigeria",
+    "name": "Nigeria",
+    "status": "active",
+    "statusLabel": "Active insurgency and bandit conflict",
+    "region": "Africa",
+    "started": "2009",
+    "blurb": "The Boko Haram insurgency in the northeast, and armed banditry in the northwest, both treated as ongoing armed conflicts on Wikipedia’s list.",
+    "complexityNote": "These are not one battlefield. A headline is filed here when it names Nigeria’s war, Boko Haram, or the northwest bandit conflict. Figures stay attached to the outlet that printed them.",
+    "parties": [
+      {
+        "id": "nga",
+        "name": "Nigerian state forces",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "bh",
+        "name": "Boko Haram and allied groups",
+        "color": "#8a4b32"
+      },
+      {
+        "id": "bandit",
+        "name": "Armed groups in the northwest",
+        "color": "#8a6232"
+      }
+    ],
+    "center": {
+      "lat": 10.5,
+      "lng": 8.5
+    },
+    "zoom": 5.2,
+    "wikipediaTitle": "Boko Haram insurgency",
+    "matchTerms": [
+      "boko haram",
+      "iswap",
+      "maiduguri",
+      "zamfara",
+      "nigerian army",
+      "northern nigeria",
+      "nigeria"
+    ],
+    "gdeltQuery": "(nigeria OR \"boko haram\" OR maiduguri OR zamfara) (attack OR army OR killed OR bandit OR troops)",
+    "reliefwebQuery": "Nigeria conflict",
+    "acledCountries": [
+      "Nigeria"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups the Boko Haram insurgency and the Nigerian bandit conflict among current wars.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "haiti",
+    "name": "Haiti",
+    "status": "active",
+    "statusLabel": "Active armed conflict",
+    "region": "Americas",
+    "started": "2018",
+    "blurb": "Fighting for control of Port-au-Prince and other areas between armed groups and Haitian authorities, with outside security forces also named in public reporting.",
+    "complexityNote": "Wikipedia’s list includes this conflict. It is not a conventional front between two armies. Headlines are shown with the outlet that published them.",
+    "parties": [
+      {
+        "id": "state",
+        "name": "Haitian authorities and partner forces",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "groups",
+        "name": "Armed groups",
+        "color": "#8a4b32"
+      }
+    ],
+    "center": {
+      "lat": 18.6,
+      "lng": -72.3
+    },
+    "zoom": 7,
+    "wikipediaTitle": "Haitian conflict",
+    "matchTerms": [
+      "haiti",
+      "haitian",
+      "port-au-prince",
+      "port au prince"
+    ],
+    "gdeltQuery": "(haiti OR haitian OR \"port-au-prince\") (gang OR armed OR police OR attack OR troops)",
+    "reliefwebQuery": "Haiti violence",
+    "acledCountries": [
+      "Haiti"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts includes the Haitian conflict.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  },
+  {
+    "id": "afghanistan-pakistan",
+    "name": "Afghanistan–Pakistan",
+    "status": "active",
+    "statusLabel": "Active insurgency and border fighting",
+    "region": "Asia",
+    "started": "2001",
+    "blurb": "The insurgency in Khyber Pakhtunkhwa and armed clashes along the Afghanistan–Pakistan border.",
+    "complexityNote": "Border clashes and the insurgency inside Pakistan are related and are often reported together. They are not one continuous front. Each headline keeps its own source.",
+    "parties": [
+      {
+        "id": "pak",
+        "name": "Pakistan",
+        "color": "#2f5d8a"
+      },
+      {
+        "id": "afg",
+        "name": "Afghanistan",
+        "color": "#3f6b4e"
+      },
+      {
+        "id": "ttp",
+        "name": "Pakistani Taliban and other armed groups",
+        "color": "#8a4b32"
+      }
+    ],
+    "center": {
+      "lat": 33.8,
+      "lng": 70.5
+    },
+    "zoom": 5.4,
+    "wikipediaTitle": "Insurgency in Khyber Pakhtunkhwa",
+    "matchTerms": [
+      "afghanistan",
+      "afghan",
+      "kabul",
+      "peshawar",
+      "taliban",
+      "khyber",
+      "torkham",
+      "pakistani taliban"
+    ],
+    "gdeltQuery": "(afghanistan OR kabul OR peshawar OR taliban OR torkham) (attack OR clash OR troops OR strike OR border)",
+    "reliefwebQuery": "Afghanistan Pakistan conflict",
+    "acledCountries": [
+      "Afghanistan",
+      "Pakistan"
+    ],
+    "inclusion": {
+      "text": "Included because Wikipedia’s list of ongoing armed conflicts groups the war in Afghanistan and fighting on the Pakistani side of the border among current wars.",
+      "sourceName": "Wikipedia: List of ongoing armed conflicts",
+      "sourceUrl": "https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts"
+    },
+    "listed": false
+  }
+]

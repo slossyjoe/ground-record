@@ -1,0 +1,231 @@
+{
+  "conflictId": "haiti",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Haitian conflict",
+    "description": "Civil conflict over control of Port-au-Prince",
+    "extract": "Since 2020, Haiti's capital Port-au-Prince has been the site of an ongoing armed conflict between rival gangs and the state. The government of Haiti and national security forces have struggled to maintain their control of Port-au-Prince amid this conflict, with gangs speculated to control up to 90% of the city by 2023. In response to the escalating fighting, an armed vigilante movement, known as bwa kale, also emerged, with the purpose of fighting the gangs. On 2 October 2023, United Nations Security Council Resolution 2699 was approved, authorizing a Kenya-led \"multinational security support mission\" to Haiti. Until 2024, the war was between two major groups and their allies: the Revolutionary Forces of the G9 Family and Allies and the G-Pèp. However, in February 2024 the two rival groups united in a coalition known as Viv Ansanm, formed to oppose the government and the UN mission.",
+    "url": "https://en.wikipedia.org/wiki/Haitian_conflict",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T13:23:48.134Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "2,000 Salvadoran troops take quarters in Haiti to help fight gangs",
+      "url": "http://www.africanews.com/2026/10/31/2000-salvadoran-troops-take-quarters-in-haiti-to-help-fight-gangs/",
+      "publishedAt": "2026-10-31T15:42:44.000Z",
+      "excerpt": "The deployment followed a gang attack on four Salvadoran members of the Gang Suppression Force who went missing",
+      "outlet": "Africanews",
+      "outletType": "Private broadcaster",
+      "country": "Pan-African",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h2943c28b"
+    },
+    {
+      "title": "Haiti announces new election dates as El Salvador sends troops to rescue missing soldiers",
+      "url": "http://www.africanews.com/2026/10/30/haiti-announces-new-election-dates-as-el-salvador-sends-troops-to-rescue-missing-soldiers/",
+      "publishedAt": "2026-10-30T09:10:49.000Z",
+      "excerpt": "Haiti’s government has announced new election dates as the armed gangs who terrorize the country continue to fight against Haitian police and soldiers, who are now backed by the recent arrival of more than 2,000 troops from El Salvador.",
+      "outlet": "Africanews",
+      "outletType": "Private broadcaster",
+      "country": "Pan-African",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hcf671889"
+    },
+    {
+      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "excerpt": "At least five children were killed and two others injured in a drone attack on a market in Nyala, in Sudan’s South Darfur state, on Monday, the UN Children’s Fund (UNICEF) said on Thursday.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hc79de109"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "Africanews",
+      "outletType": "Private broadcaster",
+      "count": 2
+    },
+    {
+      "name": "UN News",
+      "outletType": "International organization",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "No sample movement was written. A card appears here only when a headline describes movement.",
+      "casualties": "Reference lines are quoted from a Wikipedia infobox. Live lines are headlines. A number is shown only when that source wrote it. Sample ranges are left off this page because a sourced line was found.",
+      "units": "Named units are names that appear in a headline or, when marked Reference, encyclopedia entries for a base. A base pin is not a report that the unit moved.",
+      "territory": "No sample territory change was written.",
+      "weapons": "No sample weapon was written. A weapon line appears only when a headline names one."
+    },
+    "movements": [],
+    "casualtyGroups": [
+      {
+        "id": "wiki-infobox",
+        "topic": "Wikipedia infobox",
+        "summary": "Quoted from the Wikipedia infobox. If the infobox gives more than one side’s figure, each field is kept. This page does not turn them into one number.",
+        "claims": [
+          {
+            "id": "wiki-haiti-casualties1",
+            "text": "Unknown but heavy",
+            "claimedBy": "Wikipedia infobox, field casualties1",
+            "partyId": null,
+            "verification": "single-source",
+            "origin": "reference",
+            "sources": [
+              {
+                "name": "Wikipedia: Haitian conflict",
+                "url": "https://en.wikipedia.org/wiki/Haitian_conflict",
+                "note": "Quoted from the infobox. Wikipedia text is CC BY-SA 4.0. This is not a figure calculated by this app.",
+                "kind": "reference"
+              }
+            ]
+          },
+          {
+            "id": "wiki-haiti-casualties3",
+            "text": "Haiti 153+ Haitian policemen killed, 20 Haitian soldiers killed Kenya 3 Kenyan policemen killed El Salvador 4 Salvadoran Air Force aviation technicians missing following a gang ambush on 18 October 2026 (search under way)",
+            "claimedBy": "Wikipedia infobox, field casualties3",
+            "partyId": null,
+            "verification": "single-source",
+            "origin": "reference",
+            "sources": [
+              {
+                "name": "Wikipedia: Haitian conflict",
+                "url": "https://en.wikipedia.org/wiki/Haitian_conflict",
+                "note": "Quoted from the infobox. Wikipedia text is CC BY-SA 4.0. This is not a figure calculated by this app.",
+                "kind": "reference"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "wiki-unit-haiti-strength1",
+        "name": "Wikipedia infobox strength1",
+        "partyId": null,
+        "area": "Not a mapped location",
+        "text": "~ 12,000 to 20,000 members (2026)",
+        "claimedBy": "Wikipedia infobox, field strength1",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: Haitian conflict",
+            "url": "https://en.wikipedia.org/wiki/Haitian_conflict",
+            "note": "Quoted from the infobox. Not a sighting from this pull.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "wiki-unit-haiti-strength2",
+        "name": "Wikipedia infobox strength2",
+        "partyId": null,
+        "area": "Not a mapped location",
+        "text": "* Bwa Kale: unknown * ~6,000 BSAP members",
+        "claimedBy": "Wikipedia infobox, field strength2",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: Haitian conflict",
+            "url": "https://en.wikipedia.org/wiki/Haitian_conflict",
+            "note": "Quoted from the infobox. Not a sighting from this pull.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "wiki-unit-haiti-strength3",
+        "name": "Wikipedia infobox strength3",
+        "partyId": null,
+        "area": "Not a mapped location",
+        "text": "*Government of Haiti: Haiti ~13,500 police officers Haiti ~1,500 soldiers *GSF / MSS (currently active): Bangladesh 50 troops (to be increased) Chad 400 troops (to be increased) Sri Lanka 1,089 troops (to be increased) El Salvador 78 air force members (including pilots and technicians), two Bell UH-1N helicopters Guatemala 150 security personnel Jamaica 24 (20 army troops and 4 police officers) *P…",
+        "claimedBy": "Wikipedia infobox, field strength3",
+        "verification": "single-source",
+        "origin": "reference",
+        "sources": [
+          {
+            "name": "Wikipedia: Haitian conflict",
+            "url": "https://en.wikipedia.org/wiki/Haitian_conflict",
+            "note": "Quoted from the infobox. Not a sighting from this pull.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "territory": [],
+    "weapons": [],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "ref-haiti-Cap-Haïtien",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 19.76,
+        "lng": -72.2,
+        "title": "Cap-Haïtien",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Cap-Haïtien",
+            "url": "https://en.wikipedia.org/wiki/Cap-Haïtien",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": []
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 3,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "ok",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 0 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

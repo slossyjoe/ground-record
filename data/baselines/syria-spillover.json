@@ -1,0 +1,536 @@
+{
+  "notes": {
+    "movements": "Sample illustration of clashes after 2024. These cards are not a claim that the 2011–2024 civil war is still the same war.",
+    "casualties": "Sample illustration. The ranges were invented so two competing claims can sit side by side. This page does not adopt either number.",
+    "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+    "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+    "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+  },
+  "movements": [
+    {
+      "id": "sy-mv-1",
+      "text": "Sample statement: a unit shifted inside the illustrated south box.",
+      "claimedBy": "Sample: Israeli statement",
+      "partyId": "il",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated south box"
+    },
+    {
+      "id": "sy-mv-2",
+      "text": "Sample statement: a local force shifted inside the illustrated central box.",
+      "claimedBy": "Sample: local-group statement",
+      "partyId": "local",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated central box"
+    }
+  ],
+  "casualtyGroups": [
+    {
+      "id": "sy-cas-1",
+      "topic": "Deaths for the illustrated day",
+      "summary": "Two sample statements. Not a return of the civil-war death toll.",
+      "claims": [
+        {
+          "id": "sy-cas-a",
+          "text": "Deaths in the illustrated south box.",
+          "claimedBy": "Sample: local medical statement",
+          "partyId": "local",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 6,
+          "high": 16,
+          "unit": "people",
+          "area": null
+        },
+        {
+          "id": "sy-cas-b",
+          "text": "Deaths described as armed men in that box.",
+          "claimedBy": "Sample: Israeli statement",
+          "partyId": "il",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 2,
+          "high": 8,
+          "unit": "armed men",
+          "area": null
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "sy-u-1",
+      "name": "Sample unit Q-1",
+      "partyId": "authorities",
+      "area": "Illustrated central box",
+      "text": "Fictional unit standing in for current authorities. Not an order of battle.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sy-u-2",
+      "name": "Sample unit Q-2",
+      "partyId": "il",
+      "area": "Illustrated south box",
+      "text": "Fictional unit. Not a real Israeli position.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "territory": [
+    {
+      "id": "sy-ter-1",
+      "topic": "Illustrated village edge",
+      "summary": "Entered and left, in one sample. Shelled but not entered, in the other.",
+      "claims": [
+        {
+          "id": "sy-ter-a",
+          "text": "The illustrated edge is described as entered and left.",
+          "claimedBy": "Sample: Israeli statement",
+          "partyId": "il",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        },
+        {
+          "id": "sy-ter-b",
+          "text": "The same edge is described as shelled but not entered.",
+          "claimedBy": "Sample: local statement",
+          "partyId": "local",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "id": "sy-w-1",
+      "weaponType": "air",
+      "name": "Sample aircraft mention",
+      "partyId": "il",
+      "area": "Illustrated south box",
+      "text": "Fictional aircraft card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sy-w-2",
+      "weaponType": "artillery",
+      "name": "Sample artillery mention",
+      "partyId": "il",
+      "area": "Illustrated south box",
+      "text": "Fictional artillery card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sy-w-3",
+      "weaponType": "small-arms",
+      "name": "Sample small-arms mention",
+      "partyId": "local",
+      "area": "Illustrated central box",
+      "text": "Fictional small-arms card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "casualtyTrend": {
+    "origin": "sample",
+    "unit": "people, claimed range",
+    "caption": "Illustrative ranges. Not a Syria-wide toll.",
+    "points": [
+      {
+        "date": "2026-10-29",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "local",
+            "low": 4,
+            "high": 10
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, armed men killed",
+            "partyId": "il",
+            "low": 1,
+            "high": 5
+          }
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "local",
+            "low": 5,
+            "high": 12
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, armed men killed",
+            "partyId": "il",
+            "low": 2,
+            "high": 6
+          }
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "local",
+            "low": 6,
+            "high": 16
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, armed men killed",
+            "partyId": "il",
+            "low": 2,
+            "high": 8
+          }
+        ]
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "sy-ref-damascus",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 33.51,
+      "lng": 36.29,
+      "title": "Damascus",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "sy-ref-aleppo",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 36.2,
+      "lng": 37.16,
+      "title": "Aleppo",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "sy-ref-idlib",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 35.93,
+      "lng": 36.63,
+      "title": "Idlib",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "sy-unit-a",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 34.6,
+      "lng": 36.6,
+      "title": "SAMPLE — unit Q-1",
+      "detail": "Fictional unit in the central box.",
+      "partyId": "authorities",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sy-unit-b",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 32.9,
+      "lng": 36.2,
+      "title": "SAMPLE — unit Q-2",
+      "detail": "Fictional unit in the south. Not a real position.",
+      "partyId": "il",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sy-clash",
+      "kind": "clash",
+      "origin": "sample",
+      "lat": 32.8,
+      "lng": 36.5,
+      "title": "SAMPLE — clash",
+      "detail": "Fictional clash marker.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sy-strike",
+      "kind": "strike",
+      "origin": "sample",
+      "lat": 32.7,
+      "lng": 36.0,
+      "title": "SAMPLE — strike",
+      "detail": "Fictional strike marker away from the Damascus pin.",
+      "partyId": "il",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "sy-weapon",
+      "kind": "weapon",
+      "origin": "sample",
+      "lat": 33.0,
+      "lng": 36.4,
+      "title": "SAMPLE — aircraft",
+      "detail": "Fictional weapon marker.",
+      "partyId": "il",
+      "weaponType": "air",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "shapes": [
+    {
+      "id": "sy-ctrl",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "il",
+      "title": "SAMPLE — illustrated south box",
+      "detail": "Small sample polygon. Not a control map of Syria.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          36.0,
+          32.6
+        ],
+        [
+          36.7,
+          32.6
+        ],
+        [
+          36.7,
+          33.2
+        ],
+        [
+          36.0,
+          33.2
+        ],
+        [
+          36.0,
+          32.6
+        ]
+      ]
+    },
+    {
+      "id": "sy-front",
+      "kind": "front",
+      "origin": "sample",
+      "partyId": null,
+      "title": "SAMPLE — illustrated line",
+      "detail": "Short sample line.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          36.0,
+          32.9
+        ],
+        [
+          36.35,
+          33.0
+        ],
+        [
+          36.7,
+          32.9
+        ]
+      ]
+    }
+  ]
+}

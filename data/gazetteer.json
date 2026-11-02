@@ -1,0 +1,809 @@
+{
+  "russia-ukraine": [
+    {
+      "name": "Kyiv",
+      "page": "Kyiv",
+      "lat": 50.45,
+      "lng": 30.52333333,
+      "description": "Capital and largest city of Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Kyiv"
+    },
+    {
+      "name": "Kiev",
+      "page": "Kyiv",
+      "lat": 50.45,
+      "lng": 30.52333333,
+      "description": "Capital and largest city of Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Kyiv"
+    },
+    {
+      "name": "Kharkiv",
+      "page": "Kharkiv",
+      "lat": 49.9925,
+      "lng": 36.23111111,
+      "description": "City in Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Kharkiv"
+    },
+    {
+      "name": "Donetsk",
+      "page": "Donetsk",
+      "lat": 48.0158,
+      "lng": 37.8028,
+      "description": "City in Donetsk Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Donetsk"
+    },
+    {
+      "name": "Luhansk",
+      "page": "Luhansk",
+      "lat": 48.56777778,
+      "lng": 39.30305556,
+      "description": "Russian-occupied city in Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Luhansk"
+    },
+    {
+      "name": "Zaporizhzhia",
+      "page": "Zaporizhzhia",
+      "lat": 47.85,
+      "lng": 35.1175,
+      "description": "City and administrative centre of Zaporizhzhia Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Zaporizhzhia"
+    },
+    {
+      "name": "Kherson",
+      "page": "Kherson",
+      "lat": 46.6425,
+      "lng": 32.625,
+      "description": "City in Kherson Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Kherson"
+    },
+    {
+      "name": "Odesa",
+      "page": "Odesa",
+      "lat": 46.48416667,
+      "lng": 30.7325,
+      "description": "City and administrative center of Odesa Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Odesa"
+    },
+    {
+      "name": "Odessa",
+      "page": "Odesa",
+      "lat": 46.48416667,
+      "lng": 30.7325,
+      "description": "City and administrative center of Odesa Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Odesa"
+    },
+    {
+      "name": "Dnipro",
+      "page": "Dnipro",
+      "lat": 48.4675,
+      "lng": 35.04,
+      "description": "City and administrative center of Dnipropetrovsk Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Dnipro"
+    },
+    {
+      "name": "Sumy",
+      "page": "Sumy",
+      "lat": 50.91194444,
+      "lng": 34.80277778,
+      "description": "City and administrative center of Sumy Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Sumy"
+    },
+    {
+      "name": "Chernihiv",
+      "page": "Chernihiv",
+      "lat": 51.49388889,
+      "lng": 31.29472222,
+      "description": "City in Chernihiv Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Chernihiv"
+    },
+    {
+      "name": "Pokrovsk",
+      "page": "Pokrovsk,_Ukraine",
+      "lat": 48.28277778,
+      "lng": 37.18277778,
+      "description": "City in Donetsk Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Pokrovsk,_Ukraine"
+    },
+    {
+      "name": "Bakhmut",
+      "page": "Bakhmut",
+      "lat": 48.59472222,
+      "lng": 38.00083333,
+      "description": "City in Donetsk Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Bakhmut"
+    },
+    {
+      "name": "Kupiansk",
+      "page": "Kupiansk",
+      "lat": 49.71666667,
+      "lng": 37.58333333,
+      "description": "City in Kharkiv Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Kupiansk"
+    },
+    {
+      "name": "Oleshky",
+      "page": "Oleshky",
+      "lat": 46.61666667,
+      "lng": 32.71666667,
+      "description": "City in Kherson Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Oleshky"
+    },
+    {
+      "name": "Mariupol",
+      "page": "Mariupol",
+      "lat": 47.09583333,
+      "lng": 37.54944444,
+      "description": "City in Donetsk Oblast, Ukraine",
+      "url": "https://en.wikipedia.org/wiki/Mariupol"
+    },
+    {
+      "name": "Crimea",
+      "page": "Crimea",
+      "lat": 45.3,
+      "lng": 34.4,
+      "description": "Peninsula in Europe",
+      "url": "https://en.wikipedia.org/wiki/Crimea"
+    },
+    {
+      "name": "Sevastopol",
+      "page": "Sevastopol",
+      "lat": 44.605,
+      "lng": 33.5225,
+      "description": "Largest city on the Crimean peninsula",
+      "url": "https://en.wikipedia.org/wiki/Sevastopol"
+    },
+    {
+      "name": "Moldova",
+      "page": "Moldova",
+      "lat": 47,
+      "lng": 29,
+      "description": "Country in Eastern Europe",
+      "url": "https://en.wikipedia.org/wiki/Moldova"
+    }
+  ],
+  "gaza-lebanon": [
+    {
+      "name": "Gaza",
+      "page": "Gaza_City",
+      "lat": 31.5075,
+      "lng": 34.45972222,
+      "description": "City in Palestine",
+      "url": "https://en.wikipedia.org/wiki/Gaza_City"
+    },
+    {
+      "name": "Rafah",
+      "page": "Rafah",
+      "lat": 31.2725,
+      "lng": 34.25861111,
+      "description": "Palestinian city in southern Gaza Strip",
+      "url": "https://en.wikipedia.org/wiki/Rafah"
+    },
+    {
+      "name": "Khan Younis",
+      "page": "Khan_Yunis",
+      "lat": 31.34444444,
+      "lng": 34.30305556,
+      "description": "City in Gaza, Palestine",
+      "url": "https://en.wikipedia.org/wiki/Khan_Yunis"
+    },
+    {
+      "name": "Jabalia",
+      "page": "Jabalia",
+      "lat": 31.52805556,
+      "lng": 34.48305556,
+      "description": "City in northern Gaza, Palestine",
+      "url": "https://en.wikipedia.org/wiki/Jabalia"
+    },
+    {
+      "name": "Deir al-Balah",
+      "page": "Deir_al-Balah",
+      "lat": 31.41888889,
+      "lng": 34.35166667,
+      "description": "City in Gaza Strip, Palestine",
+      "url": "https://en.wikipedia.org/wiki/Deir_al-Balah"
+    },
+    {
+      "name": "Hebron",
+      "page": "Hebron",
+      "lat": 31.52861111,
+      "lng": 35.09694444,
+      "description": "City in the West Bank, Palestine",
+      "url": "https://en.wikipedia.org/wiki/Hebron"
+    },
+    {
+      "name": "West Bank",
+      "page": "West_Bank",
+      "lat": 32,
+      "lng": 35.35,
+      "description": "Palestinian territory occupied by Israel",
+      "url": "https://en.wikipedia.org/wiki/West_Bank"
+    },
+    {
+      "name": "Tyre",
+      "page": "Tyre,_Lebanon",
+      "lat": 33.27083333,
+      "lng": 35.19611111,
+      "description": "City in Lebanon",
+      "url": "https://en.wikipedia.org/wiki/Tyre,_Lebanon"
+    },
+    {
+      "name": "Beirut",
+      "page": "Beirut",
+      "lat": 33.89805556,
+      "lng": 35.50583333,
+      "description": "Capital and largest city of Lebanon",
+      "url": "https://en.wikipedia.org/wiki/Beirut"
+    },
+    {
+      "name": "southern Lebanon",
+      "page": "Southern_Lebanon",
+      "lat": null,
+      "lng": null,
+      "description": "",
+      "url": "https://en.wikipedia.org/wiki/Southern_Lebanon"
+    }
+  ],
+  "sudan": [
+    {
+      "name": "Khartoum",
+      "page": "Khartoum",
+      "lat": 15.6,
+      "lng": 32.5,
+      "description": "Capital of Sudan",
+      "url": "https://en.wikipedia.org/wiki/Khartoum"
+    },
+    {
+      "name": "Omdurman",
+      "page": "Omdurman",
+      "lat": 15.64027778,
+      "lng": 32.48277778,
+      "description": "Largest city in Khartoum State, Sudan",
+      "url": "https://en.wikipedia.org/wiki/Omdurman"
+    },
+    {
+      "name": "El Fasher",
+      "page": "El_Fasher",
+      "lat": 13.63055556,
+      "lng": 25.35,
+      "description": "City in Western Sudan",
+      "url": "https://en.wikipedia.org/wiki/El_Fasher"
+    },
+    {
+      "name": "El Obeid",
+      "page": "El_Obeid",
+      "lat": 13.18333333,
+      "lng": 30.21666667,
+      "description": "City in North Kordofan, Sudan",
+      "url": "https://en.wikipedia.org/wiki/El_Obeid"
+    },
+    {
+      "name": "Nyala",
+      "page": "Nyala",
+      "lat": null,
+      "lng": null,
+      "description": "",
+      "url": "https://en.wikipedia.org/wiki/Nyala"
+    },
+    {
+      "name": "Port Sudan",
+      "page": "Port_Sudan",
+      "lat": 19.60194444,
+      "lng": 37.2075,
+      "description": "City in Red Sea State, Sudan",
+      "url": "https://en.wikipedia.org/wiki/Port_Sudan"
+    },
+    {
+      "name": "Wad Madani",
+      "page": "Wad_Madani",
+      "lat": 14.4,
+      "lng": 33.51666667,
+      "description": "Capital city of al-Jazirah state in Sudan",
+      "url": "https://en.wikipedia.org/wiki/Wad_Madani"
+    },
+    {
+      "name": "Darfur",
+      "page": "Darfur",
+      "lat": 13,
+      "lng": 25,
+      "description": "Region of western Sudan",
+      "url": "https://en.wikipedia.org/wiki/Darfur"
+    },
+    {
+      "name": "Kordofan",
+      "page": "Kordofan",
+      "lat": 13,
+      "lng": 28,
+      "description": "Former province of Sudan",
+      "url": "https://en.wikipedia.org/wiki/Kordofan"
+    }
+  ],
+  "myanmar": [
+    {
+      "name": "Yangon",
+      "page": "Yangon",
+      "lat": 16.795,
+      "lng": 96.16,
+      "description": "Largest city of Myanmar",
+      "url": "https://en.wikipedia.org/wiki/Yangon"
+    },
+    {
+      "name": "Mandalay",
+      "page": "Mandalay",
+      "lat": 21.98305556,
+      "lng": 96.08444444,
+      "description": "City in Mandalay Region, Myanmar",
+      "url": "https://en.wikipedia.org/wiki/Mandalay"
+    },
+    {
+      "name": "Naypyidaw",
+      "page": "Naypyidaw",
+      "lat": 19.7475,
+      "lng": 96.115,
+      "description": "Capital of Naypyidaw Union Territory, Myanmar",
+      "url": "https://en.wikipedia.org/wiki/Naypyidaw"
+    },
+    {
+      "name": "Sittwe",
+      "page": "Sittwe",
+      "lat": 20.137,
+      "lng": 92.885,
+      "description": "Capital of Rakhine State, Myanmar",
+      "url": "https://en.wikipedia.org/wiki/Sittwe"
+    },
+    {
+      "name": "Rakhine",
+      "page": "Rakhine_State",
+      "lat": 19.5,
+      "lng": 94,
+      "description": "State of Myanmar",
+      "url": "https://en.wikipedia.org/wiki/Rakhine_State"
+    },
+    {
+      "name": "Sagaing",
+      "page": "Sagaing_Region",
+      "lat": 21.5,
+      "lng": 95.61666667,
+      "description": "Region of Myanmar",
+      "url": "https://en.wikipedia.org/wiki/Sagaing_Region"
+    },
+    {
+      "name": "Lashio",
+      "page": "Lashio",
+      "lat": 22.93333333,
+      "lng": 97.75,
+      "description": "City in Shan State, Myanmar",
+      "url": "https://en.wikipedia.org/wiki/Lashio"
+    },
+    {
+      "name": "Myitkyina",
+      "page": "Myitkyina",
+      "lat": 25.38333333,
+      "lng": 97.4,
+      "description": "Capital city of Kachin State, Myanmar",
+      "url": "https://en.wikipedia.org/wiki/Myitkyina"
+    },
+    {
+      "name": "Nawnghio",
+      "page": "Nawnghkio",
+      "lat": 22.31666667,
+      "lng": 96.8,
+      "description": "Town in Shan State, Myanmar",
+      "url": "https://en.wikipedia.org/wiki/Nawnghkio"
+    }
+  ],
+  "sahel": [
+    {
+      "name": "Bamako",
+      "page": "Bamako",
+      "lat": 12.63916667,
+      "lng": -8.00277778,
+      "description": "Capital and largest city of Mali",
+      "url": "https://en.wikipedia.org/wiki/Bamako"
+    },
+    {
+      "name": "Ouagadougou",
+      "page": "Ouagadougou",
+      "lat": 12.36861111,
+      "lng": -1.5275,
+      "description": "Capital of Burkina Faso",
+      "url": "https://en.wikipedia.org/wiki/Ouagadougou"
+    },
+    {
+      "name": "Niamey",
+      "page": "Niamey",
+      "lat": 13.51361111,
+      "lng": 2.10888889,
+      "description": "Capital and the largest city of Niger",
+      "url": "https://en.wikipedia.org/wiki/Niamey"
+    },
+    {
+      "name": "Gao",
+      "page": "Gao",
+      "lat": 16.26666667,
+      "lng": -0.05,
+      "description": "Urban commune and town in Gao Region, Mali",
+      "url": "https://en.wikipedia.org/wiki/Gao"
+    },
+    {
+      "name": "Mopti",
+      "page": "Mopti",
+      "lat": 14.49583333,
+      "lng": -4.19861111,
+      "description": "Town in the Inner Niger Delta region of Mali",
+      "url": "https://en.wikipedia.org/wiki/Mopti"
+    }
+  ],
+  "drc-east": [
+    {
+      "name": "Goma",
+      "page": "Goma",
+      "lat": -1.67944444,
+      "lng": 29.23361111,
+      "description": "Provincial capital and city in North Kivu, DR Congo",
+      "url": "https://en.wikipedia.org/wiki/Goma"
+    },
+    {
+      "name": "Bukavu",
+      "page": "Bukavu",
+      "lat": -2.50611111,
+      "lng": 28.86083333,
+      "description": "Provincial capital of South Kivu Province, Democratic Republic of the Congo",
+      "url": "https://en.wikipedia.org/wiki/Bukavu"
+    },
+    {
+      "name": "Beni",
+      "page": "Beni,_Democratic_Republic_of_the_Congo",
+      "lat": 0.5,
+      "lng": 29.46666667,
+      "description": "City in North Kivu, Democratic Republic of the Congo",
+      "url": "https://en.wikipedia.org/wiki/Beni,_Democratic_Republic_of_the_Congo"
+    },
+    {
+      "name": "North Kivu",
+      "page": "North_Kivu",
+      "lat": -0.6,
+      "lng": 29,
+      "description": "Province of the Democratic Republic of the Congo",
+      "url": "https://en.wikipedia.org/wiki/North_Kivu"
+    },
+    {
+      "name": "Ituri",
+      "page": "Ituri_Province",
+      "lat": 1.83333333,
+      "lng": 29.5,
+      "description": "Province of the Democratic Republic of the Congo",
+      "url": "https://en.wikipedia.org/wiki/Ituri_Province"
+    }
+  ],
+  "yemen-red-sea": [
+    {
+      "name": "Sanaa",
+      "page": "Sanaa",
+      "lat": 15.34833333,
+      "lng": 44.20638889,
+      "description": "Capital and largest city of Yemen",
+      "url": "https://en.wikipedia.org/wiki/Sanaa"
+    },
+    {
+      "name": "Aden",
+      "page": "Aden",
+      "lat": 12.8,
+      "lng": 45.03333333,
+      "description": "Temporary capital of Yemen",
+      "url": "https://en.wikipedia.org/wiki/Aden"
+    },
+    {
+      "name": "Al Hudaydah",
+      "page": "Al_Hudaydah",
+      "lat": 14.80222222,
+      "lng": 42.95111111,
+      "description": "Port city in Yemen",
+      "url": "https://en.wikipedia.org/wiki/Al_Hudaydah"
+    },
+    {
+      "name": "Hodeidah",
+      "page": "Al_Hudaydah",
+      "lat": 14.80222222,
+      "lng": 42.95111111,
+      "description": "Port city in Yemen",
+      "url": "https://en.wikipedia.org/wiki/Al_Hudaydah"
+    },
+    {
+      "name": "Taiz",
+      "page": "Taiz",
+      "lat": null,
+      "lng": null,
+      "description": "",
+      "url": "https://en.wikipedia.org/wiki/Taiz"
+    },
+    {
+      "name": "al-Jawf",
+      "page": "Al_Jawf_Governorate",
+      "lat": 16.78333333,
+      "lng": 45.51666667,
+      "description": "Governorate of Yemen",
+      "url": "https://en.wikipedia.org/wiki/Al_Jawf_Governorate"
+    }
+  ],
+  "korea": [
+    {
+      "name": "Pyongyang",
+      "page": "Pyongyang",
+      "lat": 39.01666667,
+      "lng": 125.7475,
+      "description": "Capital and largest city of North Korea",
+      "url": "https://en.wikipedia.org/wiki/Pyongyang"
+    },
+    {
+      "name": "Seoul",
+      "page": "Seoul",
+      "lat": 37.56,
+      "lng": 126.99,
+      "description": "Capital and largest city of South Korea",
+      "url": "https://en.wikipedia.org/wiki/Seoul"
+    },
+    {
+      "name": "Panmunjom",
+      "page": "Joint_Security_Area",
+      "lat": 37.95583333,
+      "lng": 126.67666667,
+      "description": "Part of the Korean Demilitarized Zone",
+      "url": "https://en.wikipedia.org/wiki/Joint_Security_Area"
+    }
+  ],
+  "somalia": [
+    {
+      "name": "Mogadishu",
+      "page": "Mogadishu",
+      "lat": 2.03916667,
+      "lng": 45.34194444,
+      "description": "Capital and largest city of Somalia",
+      "url": "https://en.wikipedia.org/wiki/Mogadishu"
+    },
+    {
+      "name": "Kismayo",
+      "page": "Kismayo",
+      "lat": -0.35805556,
+      "lng": 42.54527778,
+      "description": "Port city in Somalia",
+      "url": "https://en.wikipedia.org/wiki/Kismayo"
+    },
+    {
+      "name": "Garowe",
+      "page": "Garowe",
+      "lat": 8.4,
+      "lng": 48.46666667,
+      "description": "Capital city of Puntland",
+      "url": "https://en.wikipedia.org/wiki/Garowe"
+    }
+  ],
+  "ethiopia": [
+    {
+      "name": "Addis Ababa",
+      "page": "Addis_Ababa",
+      "lat": 9.03583333,
+      "lng": 38.7525,
+      "description": "Capital and largest city of Ethiopia",
+      "url": "https://en.wikipedia.org/wiki/Addis_Ababa"
+    },
+    {
+      "name": "Bahir Dar",
+      "page": "Bahir_Dar",
+      "lat": null,
+      "lng": null,
+      "description": "",
+      "url": "https://en.wikipedia.org/wiki/Bahir_Dar"
+    },
+    {
+      "name": "Amhara",
+      "page": "Amhara_Region",
+      "lat": 11.6608,
+      "lng": 37.9578,
+      "description": "Regional state in northern Ethiopia",
+      "url": "https://en.wikipedia.org/wiki/Amhara_Region"
+    },
+    {
+      "name": "Oromia",
+      "page": "Oromia",
+      "lat": 7.9890616,
+      "lng": 39.3811798,
+      "description": "Regional state of Ethiopia",
+      "url": "https://en.wikipedia.org/wiki/Oromia"
+    }
+  ],
+  "syria-spillover": [
+    {
+      "name": "Damascus",
+      "page": "Damascus",
+      "lat": 33.51305556,
+      "lng": 36.30944444,
+      "description": "Capital city of Syria",
+      "url": "https://en.wikipedia.org/wiki/Damascus"
+    },
+    {
+      "name": "Aleppo",
+      "page": "Aleppo",
+      "lat": 36.2,
+      "lng": 37.16,
+      "description": "City in Aleppo Governorate, Syria",
+      "url": "https://en.wikipedia.org/wiki/Aleppo"
+    },
+    {
+      "name": "Idlib",
+      "page": "Idlib",
+      "lat": 35.93333333,
+      "lng": 36.63333333,
+      "description": "City in Syria",
+      "url": "https://en.wikipedia.org/wiki/Idlib"
+    },
+    {
+      "name": "Suwayda",
+      "page": "As-Suwayda",
+      "lat": 32.7125,
+      "lng": 36.56666667,
+      "description": "City in Syria",
+      "url": "https://en.wikipedia.org/wiki/As-Suwayda"
+    }
+  ],
+  "iran-war": [
+    {
+      "name": "Tehran",
+      "page": "Tehran",
+      "lat": 35.6889,
+      "lng": 51.3897,
+      "description": "Capital and largest city of Iran",
+      "url": "https://en.wikipedia.org/wiki/Tehran"
+    },
+    {
+      "name": "Isfahan",
+      "page": "Isfahan",
+      "lat": 32.66527778,
+      "lng": 51.67027778,
+      "description": "City in Isfahan province, Iran",
+      "url": "https://en.wikipedia.org/wiki/Isfahan"
+    },
+    {
+      "name": "Natanz",
+      "page": "Natanz",
+      "lat": 33.50722222,
+      "lng": 51.91361111,
+      "description": "City in Isfahan province, Iran",
+      "url": "https://en.wikipedia.org/wiki/Natanz"
+    },
+    {
+      "name": "Bandar Abbas",
+      "page": "Bandar_Abbas",
+      "lat": 27.19611111,
+      "lng": 56.28777778,
+      "description": "City in Hormozgan province, Iran",
+      "url": "https://en.wikipedia.org/wiki/Bandar_Abbas"
+    },
+    {
+      "name": "Hormuz",
+      "page": "Strait_of_Hormuz",
+      "lat": 26.6,
+      "lng": 56.5,
+      "description": "Strait between the Persian Gulf and Gulf of Oman",
+      "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+    }
+  ],
+  "nigeria": [
+    {
+      "name": "Maiduguri",
+      "page": "Maiduguri",
+      "lat": 11.83722222,
+      "lng": 13.15416667,
+      "description": "Capital city of Borno State, Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Maiduguri"
+    },
+    {
+      "name": "Abuja",
+      "page": "Abuja",
+      "lat": 9.06666667,
+      "lng": 7.48333333,
+      "description": "Capital of the Federal Republic of Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Abuja"
+    },
+    {
+      "name": "Zamfara",
+      "page": "Zamfara_State",
+      "lat": 12.16666667,
+      "lng": 6.25,
+      "description": "State of Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Zamfara_State"
+    },
+    {
+      "name": "Kaduna",
+      "page": "Kaduna",
+      "lat": 10.51666667,
+      "lng": 7.43333333,
+      "description": "Capital city of Kaduna State, Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Kaduna"
+    },
+    {
+      "name": "Borno",
+      "page": "Borno_State",
+      "lat": 11.5,
+      "lng": 13,
+      "description": "State of Nigeria",
+      "url": "https://en.wikipedia.org/wiki/Borno_State"
+    }
+  ],
+  "haiti": [
+    {
+      "name": "Port-au-Prince",
+      "page": "Port-au-Prince",
+      "lat": 18.53638889,
+      "lng": -72.34638889,
+      "description": "Capital and largest city of Haiti",
+      "url": "https://en.wikipedia.org/wiki/Port-au-Prince"
+    },
+    {
+      "name": "Cap-Haïtien",
+      "page": "Cap-Haïtien",
+      "lat": 19.76,
+      "lng": -72.2,
+      "description": "Commune in the department of Nord, Haiti",
+      "url": "https://en.wikipedia.org/wiki/Cap-Haïtien"
+    },
+    {
+      "name": "Artibonite",
+      "page": "Artibonite_(department)",
+      "lat": 19.45,
+      "lng": -72.6833,
+      "description": "Department of Haiti",
+      "url": "https://en.wikipedia.org/wiki/Artibonite_(department)"
+    }
+  ],
+  "afghanistan-pakistan": [
+    {
+      "name": "Kabul",
+      "page": "Kabul",
+      "lat": 34.52527778,
+      "lng": 69.17833333,
+      "description": "Capital and the largest city of Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/Kabul"
+    },
+    {
+      "name": "Kandahar",
+      "page": "Kandahar",
+      "lat": 31.62,
+      "lng": 65.71583333,
+      "description": "City in Kandahar Province, Afghanistan",
+      "url": "https://en.wikipedia.org/wiki/Kandahar"
+    },
+    {
+      "name": "Peshawar",
+      "page": "Peshawar",
+      "lat": 34.01444444,
+      "lng": 71.5675,
+      "description": "Capital of Khyber Pakhtunkhwa, Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Peshawar"
+    },
+    {
+      "name": "Quetta",
+      "page": "Quetta",
+      "lat": 30.1958,
+      "lng": 67.0172,
+      "description": "Capital of Balochistan, Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Quetta"
+    },
+    {
+      "name": "Torkham",
+      "page": "Torkham",
+      "lat": 34.12166667,
+      "lng": 71.10305556,
+      "description": "Town in Khyber Pakhtunkhwa, Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Torkham"
+    },
+    {
+      "name": "Khyber",
+      "page": "Khyber_Pakhtunkhwa",
+      "lat": 34,
+      "lng": 71.32,
+      "description": "Province of Pakistan",
+      "url": "https://en.wikipedia.org/wiki/Khyber_Pakhtunkhwa"
+    }
+  ],
+  "bases": []
+}

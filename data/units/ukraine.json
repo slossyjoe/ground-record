@@ -1,0 +1,158 @@
+{
+  "asOf": "2026-11-02",
+  "note": "Each marker is a unit named in geolocated footage. The coordinate is the footage point from GeoConfirmed, not a headquarters and not a guessed garrison. Units that are only described as shelling or striking a target are omitted, because the pin is the target.",
+  "units": [
+    {
+      "id": "ad815663-4c3b-4313-a16a-7f71fced9cfc-1",
+      "name": "39nd Marine Brigade",
+      "partyId": "ua",
+      "sidc": "SFGPUCIN---H---",
+      "branch": "marine",
+      "typeLabel": "Marine infantry",
+      "echelon": "Brigade",
+      "parent": null,
+      "lat": 49.737026,
+      "lng": 37.616731,
+      "place": "Kupiansk",
+      "reportedOn": "2026-11-01",
+      "recordedTimeKnown": false,
+      "confidence": "single-source",
+      "confidenceNote": "The caption, kept as written, names the “39nd Marine Brigade” in a drone attack in Kupiansk. GeoConfirmed locates the footage there. This is the scene in the footage, not a headquarters.",
+      "caption": "\"Bambi\" of the 39nd Marine Brigade attacks Russian soldier with a drone in Kupiansk, Kharkiv Oblast",
+      "sources": [
+        {
+          "name": "GeoConfirmed",
+          "url": "https://x.com/Bielitzling/status/2117004767126073736",
+          "publishedAt": "2026-11-01",
+          "note": "Geolocation post. The card date is not a filming clock time."
+        },
+        {
+          "name": "Original post linked by GeoConfirmed",
+          "url": "https://x.com/Bielitzling/status/2117004772847067376",
+          "publishedAt": null,
+          "note": "The footage stays on this post. It is not stored here."
+        },
+        {
+          "name": "Original post linked by GeoConfirmed",
+          "url": "https://www.instagram.com/reels/DfNO0g5NzOg/",
+          "publishedAt": null,
+          "note": "The footage stays on this post. It is not stored here."
+        }
+      ]
+    },
+    {
+      "id": "5e7a218a-f4a9-4ea3-af6e-4383f3ffb3c5-2",
+      "name": "177th Separate Guards Marine Infantry Regiment",
+      "partyId": "ru",
+      "sidc": "SHGPUCIN---G---",
+      "branch": "marine",
+      "typeLabel": "Marine infantry",
+      "echelon": "Regiment",
+      "parent": null,
+      "lat": 48.294688,
+      "lng": 37.265372,
+      "place": "Myrnohrad",
+      "reportedOn": "2026-10-30",
+      "recordedTimeKnown": false,
+      "confidence": "single-source",
+      "confidenceNote": "GeoConfirmed says this regiment’s footage was filmed in Myrnohrad, not in Dobropillia as the footage claimed. The coordinate is that geolocation. It is the camera’s scene, not a headquarters.",
+      "caption": "0:38-:0:42 - 177th Separate Guards Marine Infantry Regiment shows footage caliming to be in Dobropilliya while actually filming in Myrnohrad, Donetsk Oblast",
+      "sources": [
+        {
+          "name": "GeoConfirmed",
+          "url": "https://x.com/GeoConfirmed/status/2116297258601980303",
+          "publishedAt": "2026-10-30",
+          "note": "Geolocation post. The card date is not a filming clock time."
+        },
+        {
+          "name": "Original post linked by GeoConfirmed",
+          "url": "https://x.com/Bielitzling/status/2116287415480467526",
+          "publishedAt": null,
+          "note": "The footage stays on this post. It is not stored here."
+        },
+        {
+          "name": "Original post linked by GeoConfirmed",
+          "url": "https://t.me/Black_Berets_177/2566",
+          "publishedAt": null,
+          "note": "The footage stays on this post. It is not stored here."
+        }
+      ]
+    },
+    {
+      "id": "28f23a41-1d8e-4551-87d6-91ccdc375a69-3",
+      "name": "Russian 3rd Division",
+      "partyId": "ru",
+      "sidc": "SHGPUC-----I---",
+      "branch": "generic",
+      "typeLabel": "Ground unit",
+      "echelon": "Division",
+      "parent": null,
+      "lat": 49.29006,
+      "lng": 37.93966,
+      "place": "Geolocated footage, town not named",
+      "reportedOn": "2026-10-30",
+      "recordedTimeKnown": false,
+      "confidence": "single-source",
+      "confidenceNote": "The description names the Russian 3rd Division as observing an assault at this GeoConfirmed coordinate. It does not name the town, and it does not say this is the division’s base. The symbol is a generic ground unit because the caption does not give a branch.",
+      "caption": "0:33-0:45 - The Russian 3rd Division is observing an assault by a Ukrainian group of 5 UGVs, reportedly from the 3rd Assault Brigade.",
+      "sources": [
+        {
+          "name": "GeoConfirmed",
+          "url": "https://x.com/GeoConfirmed/status/2116306406051598573",
+          "publishedAt": "2026-10-30",
+          "note": "Geolocation post. The card date is not a filming clock time."
+        },
+        {
+          "name": "Original post linked by GeoConfirmed",
+          "url": "https://x.com/moklasen/status/2116244078237233639",
+          "publishedAt": null,
+          "note": "The footage stays on this post. It is not stored here."
+        },
+        {
+          "name": "Original post linked by GeoConfirmed",
+          "url": "https://t.me/Visla3/10216",
+          "publishedAt": null,
+          "note": "The footage stays on this post. It is not stored here."
+        }
+      ]
+    },
+    {
+      "id": "28f23a41-1d8e-4551-87d6-91ccdc375a69-4",
+      "name": "3rd Assault Brigade",
+      "partyId": "ua",
+      "sidc": "SFGPUCI----H---",
+      "branch": "infantry",
+      "typeLabel": "Infantry",
+      "echelon": "Brigade",
+      "parent": null,
+      "lat": 49.29006,
+      "lng": 37.93966,
+      "place": "Geolocated footage, town not named",
+      "reportedOn": "2026-10-30",
+      "recordedTimeKnown": false,
+      "confidence": "single-source",
+      "confidenceNote": "The same description says the assault was “reportedly from the 3rd Assault Brigade.” The coordinate is the footage point. The symbol is infantry because the caption says assault brigade and does not name a vehicle type. This is not a headquarters.",
+      "caption": "0:33-0:45 - The Russian 3rd Division is observing an assault by a Ukrainian group of 5 UGVs, reportedly from the 3rd Assault Brigade.",
+      "sources": [
+        {
+          "name": "GeoConfirmed",
+          "url": "https://x.com/GeoConfirmed/status/2116306406051598573",
+          "publishedAt": "2026-10-30",
+          "note": "Geolocation post. The card date is not a filming clock time."
+        },
+        {
+          "name": "Original post linked by GeoConfirmed",
+          "url": "https://x.com/moklasen/status/2116244078237233639",
+          "publishedAt": null,
+          "note": "The footage stays on this post. It is not stored here."
+        },
+        {
+          "name": "Original post linked by GeoConfirmed",
+          "url": "https://t.me/Visla3/10216",
+          "publishedAt": null,
+          "note": "The footage stays on this post. It is not stored here."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "notes": {
+    "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+    "casualties": "Sample illustration. The ranges were invented so two competing claims can sit side by side. This page does not adopt either number.",
+    "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+    "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+    "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+  },
+  "movements": [
+    {
+      "id": "gz-mv-1",
+      "text": "Sample statement: a unit shifted inside the illustrated Gaza box during the layout day.",
+      "claimedBy": "Sample: Israeli military statement",
+      "partyId": "il",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated Gaza box"
+    },
+    {
+      "id": "gz-mv-2",
+      "text": "Sample statement: a unit shifted in the illustrated southern Lebanon box during the layout day.",
+      "claimedBy": "Sample: Hezbollah statement",
+      "partyId": "hezbollah",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated southern Lebanon"
+    }
+  ],
+  "casualtyGroups": [
+    {
+      "id": "gz-cas-1",
+      "topic": "Deaths in Gaza for the illustrated day",
+      "summary": "A health-ministry style sample and a military-style sample do not count the same people. Both stay on the page. Neither is adopted.",
+      "claims": [
+        {
+          "id": "gz-cas-a",
+          "text": "People killed in the illustrated Gaza day, without a military/civilian split.",
+          "claimedBy": "Sample: Gaza health authority statement",
+          "partyId": "hamas",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 40,
+          "high": 70,
+          "unit": "people",
+          "area": null
+        },
+        {
+          "id": "gz-cas-b",
+          "text": "Fighters killed in the same illustrated day, a lower figure, and a different category.",
+          "claimedBy": "Sample: Israeli military statement",
+          "partyId": "il",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 8,
+          "high": 20,
+          "unit": "fighters",
+          "area": null
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "gz-u-1",
+      "name": "Sample unit G-1",
+      "partyId": "il",
+      "area": "Illustrated Gaza box",
+      "text": "Fictional unit inside a recognizable outline of the Strip.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "gz-u-2",
+      "name": "Sample unit L-1",
+      "partyId": "hezbollah",
+      "area": "Illustrated southern Lebanon",
+      "text": "Fictional unit. Not an order of battle.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "territory": [
+    {
+      "id": "gz-ter-1",
+      "topic": "Illustrated block inside the Strip",
+      "summary": "Entered, according to one sample statement. Still fought over, according to the other.",
+      "claims": [
+        {
+          "id": "gz-ter-a",
+          "text": "The illustrated block is described as entered.",
+          "claimedBy": "Sample: Israeli military statement",
+          "partyId": "il",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        },
+        {
+          "id": "gz-ter-b",
+          "text": "The same block is described as still fought over.",
+          "claimedBy": "Sample: armed-group statement",
+          "partyId": "hamas",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "id": "gz-w-1",
+      "weaponType": "air",
+      "name": "Sample aircraft mention",
+      "partyId": "il",
+      "area": "Illustrated Gaza box",
+      "text": "Fictional aircraft card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "gz-w-2",
+      "weaponType": "missile",
+      "name": "Sample rocket mention",
+      "partyId": "hamas",
+      "area": "Illustrated Gaza box",
+      "text": "Fictional rocket card. No launch site.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "gz-w-3",
+      "weaponType": "missile",
+      "name": "Sample rocket mention",
+      "partyId": "hezbollah",
+      "area": "Illustrated southern Lebanon",
+      "text": "Fictional rocket card for the Lebanon half of the page.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "casualtyTrend": {
+    "origin": "sample",
+    "unit": "people, claimed range",
+    "caption": "Illustrative ranges for the Gaza count only. The categories do not match, so the bands are not a high and low of one total.",
+    "points": [
+      {
+        "date": "2026-10-27",
+        "values": [
+          {
+            "id": "by-health",
+            "label": "Sample health statement, people killed",
+            "partyId": "hamas",
+            "low": 30,
+            "high": 55
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, fighters killed",
+            "partyId": "il",
+            "low": 5,
+            "high": 15
+          }
+        ]
+      },
+      {
+        "date": "2026-10-28",
+        "values": [
+          {
+            "id": "by-health",
+            "label": "Sample health statement, people killed",
+            "partyId": "hamas",
+            "low": 45,
+            "high": 80
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, fighters killed",
+            "partyId": "il",
+            "low": 10,
+            "high": 22
+          }
+        ]
+      },
+      {
+        "date": "2026-10-29",
+        "values": [
+          {
+            "id": "by-health",
+            "label": "Sample health statement, people killed",
+            "partyId": "hamas",
+            "low": 25,
+            "high": 50
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, fighters killed",
+            "partyId": "il",
+            "low": 6,
+            "high": 16
+          }
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "values": [
+          {
+            "id": "by-health",
+            "label": "Sample health statement, people killed",
+            "partyId": "hamas",
+            "low": 50,
+            "high": 90
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, fighters killed",
+            "partyId": "il",
+            "low": 9,
+            "high": 24
+          }
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "values": [
+          {
+            "id": "by-health",
+            "label": "Sample health statement, people killed",
+            "partyId": "hamas",
+            "low": 40,
+            "high": 70
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, fighters killed",
+            "partyId": "il",
+            "low": 8,
+            "high": 20
+          }
+        ]
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "gz-ref-gaza",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 31.5,
+      "lng": 34.47,
+      "title": "Gaza City",
+      "detail": "City marker for orientation. Not a damage assessment.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "gz-ref-rafah",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 31.28,
+      "lng": 34.25,
+      "title": "Rafah",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "gz-ref-haifa",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 32.82,
+      "lng": 34.99,
+      "title": "Haifa",
+      "detail": "City marker for orientation. Not a strike assessment.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "gz-ref-tyre",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 33.27,
+      "lng": 35.2,
+      "title": "Tyre",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "gz-unit",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 31.42,
+      "lng": 34.38,
+      "title": "SAMPLE — unit G-1",
+      "detail": "Fictional unit inside the Strip outline.",
+      "partyId": "il",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "gz-unit-l",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 33.2,
+      "lng": 35.35,
+      "title": "SAMPLE — unit L-1",
+      "detail": "Fictional unit in southern Lebanon.",
+      "partyId": "hezbollah",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "gz-clash",
+      "kind": "clash",
+      "origin": "sample",
+      "lat": 31.35,
+      "lng": 34.32,
+      "title": "SAMPLE — clash",
+      "detail": "Fictional clash marker inside the Strip.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "gz-strike",
+      "kind": "strike",
+      "origin": "sample",
+      "lat": 33.1,
+      "lng": 35.45,
+      "title": "SAMPLE — strike",
+      "detail": "Fictional strike marker. Not placed on a named city center.",
+      "partyId": "il",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "gz-weapon",
+      "kind": "weapon",
+      "origin": "sample",
+      "lat": 31.45,
+      "lng": 34.3,
+      "title": "SAMPLE — aircraft",
+      "detail": "Fictional weapon marker.",
+      "partyId": "il",
+      "weaponType": "air",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "shapes": [
+    {
+      "id": "gz-outline",
+      "kind": "outline",
+      "origin": "reference",
+      "partyId": null,
+      "title": "Gaza Strip, approximate outline",
+      "detail": "A rough outline for orientation. It is not a control map and not a damage map.",
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Reference outline",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ],
+      "coordinates": [
+        [
+          34.22,
+          31.59
+        ],
+        [
+          34.49,
+          31.55
+        ],
+        [
+          34.48,
+          31.3
+        ],
+        [
+          34.22,
+          31.22
+        ],
+        [
+          34.22,
+          31.59
+        ]
+      ]
+    },
+    {
+      "id": "gz-ctrl",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "il",
+      "title": "SAMPLE — illustrated block",
+      "detail": "Small sample polygon inside the outline. Not a real held area.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          34.3,
+          31.38
+        ],
+        [
+          34.42,
+          31.38
+        ],
+        [
+          34.42,
+          31.48
+        ],
+        [
+          34.3,
+          31.48
+        ],
+        [
+          34.3,
+          31.38
+        ]
+      ]
+    },
+    {
+      "id": "gz-front",
+      "kind": "front",
+      "origin": "sample",
+      "partyId": null,
+      "title": "SAMPLE — illustrated line",
+      "detail": "Short sample line in southern Lebanon. Not a real front.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          35.25,
+          33.05
+        ],
+        [
+          35.4,
+          33.2
+        ],
+        [
+          35.55,
+          33.3
+        ]
+      ]
+    }
+  ]
+}

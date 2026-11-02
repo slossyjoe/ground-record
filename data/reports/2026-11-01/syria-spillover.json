@@ -1,0 +1,482 @@
+{
+  "conflictId": "syria-spillover",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Syrian civil war",
+    "description": "2011–2024 armed conflict in Syria",
+    "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
+    "url": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:16:29.912Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [],
+  "outletCounts": [],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration of clashes after 2024. These cards are not a claim that the 2011–2024 civil war is still the same war.",
+      "casualties": "Reference lines are quoted from a Wikipedia infobox. Live lines are headlines. A number is shown only when that source wrote it. Sample ranges are left off this page because a sourced line was found.",
+      "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+      "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+      "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+    },
+    "movements": [
+      {
+        "id": "sy-mv-1",
+        "text": "Sample statement: a unit shifted inside the illustrated south box.",
+        "claimedBy": "Sample: Israeli statement",
+        "partyId": "il",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated south box"
+      },
+      {
+        "id": "sy-mv-2",
+        "text": "Sample statement: a local force shifted inside the illustrated central box.",
+        "claimedBy": "Sample: local-group statement",
+        "partyId": "local",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated central box"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "wiki-infobox",
+        "topic": "Wikipedia infobox",
+        "summary": "Quoted from the Wikipedia infobox. If the infobox gives more than one side’s figure, each field is kept. This page does not turn them into one number.",
+        "claims": [
+          {
+            "id": "wiki-syria-spillover-casualties1",
+            "text": "Total deaths 656,493+ Civilian deaths 219,223–306,887+According to the Syrian Observatory for Human Rights (which gave an estimate of 199,068 civilian deaths) and Syrian Network for Human Rights (which gave an estimate of 231,000 civilian deaths), 88&ndash;91% of these deaths were caused by the Assad regime and its allies. However, the methodology of both organisations has been criticised for bein…",
+            "claimedBy": "Wikipedia infobox, field casualties1",
+            "partyId": null,
+            "verification": "single-source",
+            "origin": "reference",
+            "sources": [
+              {
+                "name": "Wikipedia: Syrian civil war",
+                "url": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+                "note": "Quoted from the infobox. Wikipedia text is CC BY-SA 4.0. This is not a figure calculated by this app.",
+                "kind": "reference"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "sy-u-1",
+        "name": "Sample unit Q-1",
+        "partyId": "authorities",
+        "area": "Illustrated central box",
+        "text": "Fictional unit standing in for current authorities. Not an order of battle.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "sy-u-2",
+        "name": "Sample unit Q-2",
+        "partyId": "il",
+        "area": "Illustrated south box",
+        "text": "Fictional unit. Not a real Israeli position.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "sy-ter-1",
+        "topic": "Illustrated village edge",
+        "summary": "Entered and left, in one sample. Shelled but not entered, in the other.",
+        "claims": [
+          {
+            "id": "sy-ter-a",
+            "text": "The illustrated edge is described as entered and left.",
+            "claimedBy": "Sample: Israeli statement",
+            "partyId": "il",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          },
+          {
+            "id": "sy-ter-b",
+            "text": "The same edge is described as shelled but not entered.",
+            "claimedBy": "Sample: local statement",
+            "partyId": "local",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "sy-w-1",
+        "weaponType": "air",
+        "name": "Sample aircraft mention",
+        "partyId": "il",
+        "area": "Illustrated south box",
+        "text": "Fictional aircraft card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "sy-w-2",
+        "weaponType": "artillery",
+        "name": "Sample artillery mention",
+        "partyId": "il",
+        "area": "Illustrated south box",
+        "text": "Fictional artillery card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "sy-w-3",
+        "weaponType": "small-arms",
+        "name": "Sample small-arms mention",
+        "partyId": "local",
+        "area": "Illustrated central box",
+        "text": "Fictional small-arms card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "ref-syria-spillover-Damascus",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 33.51305556,
+        "lng": 36.30944444,
+        "title": "Damascus",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Damascus",
+            "url": "https://en.wikipedia.org/wiki/Damascus",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-syria-spillover-Aleppo",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 36.2,
+        "lng": 37.16,
+        "title": "Aleppo",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Aleppo",
+            "url": "https://en.wikipedia.org/wiki/Aleppo",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "sy-unit-a",
+        "kind": "unit",
+        "origin": "sample",
+        "lat": 34.6,
+        "lng": 36.6,
+        "title": "SAMPLE — unit Q-1",
+        "detail": "Fictional unit in the central box.",
+        "partyId": "authorities",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "sy-unit-b",
+        "kind": "unit",
+        "origin": "sample",
+        "lat": 32.9,
+        "lng": 36.2,
+        "title": "SAMPLE — unit Q-2",
+        "detail": "Fictional unit in the south. Not a real position.",
+        "partyId": "il",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "sy-clash",
+        "kind": "clash",
+        "origin": "sample",
+        "lat": 32.8,
+        "lng": 36.5,
+        "title": "SAMPLE — clash",
+        "detail": "Fictional clash marker.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "sy-strike",
+        "kind": "strike",
+        "origin": "sample",
+        "lat": 32.7,
+        "lng": 36,
+        "title": "SAMPLE — strike",
+        "detail": "Fictional strike marker away from the Damascus pin.",
+        "partyId": "il",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "sy-weapon",
+        "kind": "weapon",
+        "origin": "sample",
+        "lat": 33,
+        "lng": 36.4,
+        "title": "SAMPLE — aircraft",
+        "detail": "Fictional weapon marker.",
+        "partyId": "il",
+        "weaponType": "air",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "sy-ref-idlib",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 35.93,
+        "lng": 36.63,
+        "title": "Idlib",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "id": "sy-ctrl",
+        "kind": "control",
+        "origin": "sample",
+        "partyId": "il",
+        "title": "SAMPLE — illustrated south box",
+        "detail": "Small sample polygon. Not a control map of Syria.",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "coordinates": [
+          [
+            36,
+            32.6
+          ],
+          [
+            36.7,
+            32.6
+          ],
+          [
+            36.7,
+            33.2
+          ],
+          [
+            36,
+            33.2
+          ],
+          [
+            36,
+            32.6
+          ]
+        ]
+      },
+      {
+        "id": "sy-front",
+        "kind": "front",
+        "origin": "sample",
+        "partyId": null,
+        "title": "SAMPLE — illustrated line",
+        "detail": "Short sample line.",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "coordinates": [
+          [
+            36,
+            32.9
+          ],
+          [
+            36.35,
+            33
+          ],
+          [
+            36.7,
+            32.9
+          ]
+        ]
+      }
+    ]
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 0,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 0 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

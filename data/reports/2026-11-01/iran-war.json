@@ -1,0 +1,1115 @@
+{
+  "conflictId": "iran-war",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "2026 Iran war",
+    "description": "Ongoing armed conflict in West Asia",
+    "extract": "Since 28 February 2026, the United States and Israel have been at war with Iran and its regional allies. The war follows the Twelve-Day War in June 2025 and sporadic fighting during the Middle Eastern crisis sparked by the Gaza war, which began in 2023. Amid ongoing US–Iran negotiations regarding Iran's nuclear program, the war began when the US and Israel conducted hundreds of air strikes on targets across Iran, including strikes that assassinated Supreme Leader Ali Khamenei alongside several other Iranian officials.",
+    "url": "https://en.wikipedia.org/wiki/2026_Iran_war",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:10:32.103Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "Iran submits evidence of US-Israeli attacks on maritime infrastructure to IMO",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-submits-evidence-us-israeli-attacks-maritime-infrastructure",
+      "publishedAt": "2026-11-01T13:03:53.000Z",
+      "excerpt": "Iran submits evidence of US-Israeli attacks on maritime infrastructure to IMO Iran said it has submitted evidence of US and Israeli attacks on its maritime infrastructure to the International Maritime Organisation (IMO). The dossier of evidence given by Tehran to the IMO…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hf7a6c26d"
+    },
+    {
+      "title": "Iran has 'no intention' to engage in peace talks with US as war looms",
+      "url": "https://www.middleeasteye.net/news/iran-has-no-intention-engage-peace-talks-united-states-war-looms",
+      "publishedAt": "2026-11-01T11:39:41.000Z",
+      "excerpt": "Iran has 'no intention' to engage in peace talks with US as war looms Submitted by MEE staff on Sun, 11/01/2026 - 11:00 Tehran dismisses diplomatic breakthrough with Washington as war of words escalates, while Rubio claims Trump has not made a decision on restarting war on Iran…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h2e9fc2ba"
+    },
+    {
+      "title": "US-Iran talks: UAE ‘braced for the worst’, hoping for diplomacy",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372891/us-iran-talks-uae-braced-worst-hoping-diplomacy",
+      "publishedAt": "2026-11-01T11:35:47.000Z",
+      "excerpt": "The UAE is hoping for a breakthrough in negotiations between Iran and the United States while being prepared for the worst, a senior official said on Sunday, following threats of a resumption of the Middle East war. “We’re hoping that there is a diplomatic breakthrough,”…",
+      "outlet": "South China Morning Post",
+      "outletType": "Private newspaper",
+      "country": "Hong Kong",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hefa0a53"
+    },
+    {
+      "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+      "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
+      "publishedAt": "2026-11-01T11:14:27.000Z",
+      "excerpt": "Trump says latest talks 'going fine'; Iranian leaders say they favour diplomacy but are ready to respond to US attacks.",
+      "outlet": "Al Jazeera English",
+      "outletType": "State-funded broadcaster",
+      "country": "Qatar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h31cdf939"
+    },
+    {
+      "title": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
+      "publishedAt": "2026-11-01T08:24:50.000Z",
+      "excerpt": "Trump, who came to his Halloween party dressed as himself, says US not in a hurry to make a decision on striking Iran.",
+      "outlet": "Al Jazeera English",
+      "outletType": "State-funded broadcaster",
+      "country": "Qatar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "haafe2a9b"
+    },
+    {
+      "title": "Iran designates UK’s Royal Navy, Royal Air Force as terrorist organizations — MFA",
+      "url": "https://tass.com/world/2211497",
+      "publishedAt": "2026-11-01T08:18:08.000Z",
+      "excerpt": "Tehran also classified the British foreign intelligence service MI6 as a hostile group, the Foreign Ministry said",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h60a96fdd"
+    },
+    {
+      "title": "Iran security chief says US letter signals ‘positive’ shift",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
+      "publishedAt": "2026-11-01T08:14:00.000Z",
+      "excerpt": "US Vice-President JD Vance has sent a letter to Iran’s security chief in a reported effort to revive talks.",
+      "outlet": "Al Jazeera English",
+      "outletType": "State-funded broadcaster",
+      "country": "Qatar",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h102156d3"
+    },
+    {
+      "title": "Araghchi says Hormuz could be reopened within two days if conditions met",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-hormuz-could-be-reopened-two-days-if-conditions-met",
+      "publishedAt": "2026-11-01T07:33:35.000Z",
+      "excerpt": "Araghchi says Hormuz could be reopened within two days if conditions met Iranian Foreign Minister Abbas Araghchi has said Hormuz could be reopened within two days if Washington agrees to a set of conditions, including the formal recognition of the new shipping route designated…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Hormuz",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "heb27de78"
+    },
+    {
+      "title": "Iranian lawmaker warns of 'harsher reply than before' to new threats",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-lawmaker-warns-harsher-reply-new-threats",
+      "publishedAt": "2026-11-01T06:41:30.000Z",
+      "excerpt": "Iranian lawmaker warns of 'harsher reply than before' to new threats Ebrahim Azizi, Chairman of the National Security and Foreign Policy Committee of the Iranian Parliament, has said the country's armed forces will respond to any new threats with \"an immediate and harsher reply…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h2af80e3b"
+    },
+    {
+      "title": "Iran to receive Russian Su-35 jets after war ends, IRGC says",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-receive-russian-su-35-jets-after-war-ends-irgc-says",
+      "publishedAt": "2026-11-01T05:42:17.000Z",
+      "excerpt": "Iran to receive Russian Su-35 jets after war ends, IRGC says Iran has bought Russian Su-35 fighter jets and expects to receive them after the war ends, spokesperson for the Islamic Revolutionary Guard Corps (IRGC), Mohammad Akraminia, has said, adding the country's air force…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hb34387f7"
+    },
+    {
+      "title": "'Negotiations going fine': Trump says Iran wants to make a deal",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/negotiations-going-fine-trump-says-iran-wants-make-deal",
+      "publishedAt": "2026-11-01T01:25:31.000Z",
+      "excerpt": "'Negotiations going fine': Trump says Iran wants to make a deal US President Donald Trump has said Iran wants to “make a deal” and that negotiations are “going fine”, but questioned Tehran's reliability. Speaking to reporters at a Halloween party in Florida, Trump said Iran had…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h78f5e1c5"
+    },
+    {
+      "title": "Centcom says 144 vessels redirected under 'ironclad' Iran blockade",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-144-vessels-redirected-under-ironclad-iran-blockade",
+      "publishedAt": "2026-11-01T00:58:42.000Z",
+      "excerpt": "Centcom says 144 vessels redirected under 'ironclad' Iran blockade The United States Central Command has said that as of 31 October, its forces have redirected 144 commercial vessels as part of its \"ironclad\" naval blockade against Iran.&nbsp; In a post on X, Centcom said the…",
+      "outlet": "Middle East Eye",
+      "outletType": "Private news site",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h11dea40b"
+    },
+    {
+      "title": "Iran may withdraw from NPT if war resumes — security council secretary",
+      "url": "https://tass.com/world/2211423",
+      "publishedAt": "2026-10-31T20:55:00.000Z",
+      "excerpt": "Mohsen Rezaei emphasized that the US must ensure Iran can exercise all the rights guaranteed by the Treaty on the Non-Proliferation of Nuclear Weapons before discussions on its nuclear program can begin",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h2dad9fab"
+    },
+    {
+      "title": "Iran's Khamenei warns US and Israel against new attacks",
+      "url": "https://www.france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+      "publishedAt": "2026-10-31T17:00:36.000Z",
+      "excerpt": "Iran's supreme leader warned the United States and Israel on Saturday against further strikes as tensions mount over a possible return to fighting. US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have threatened new military action on Tehran but US…",
+      "outlet": "France 24",
+      "outletType": "State-owned broadcaster",
+      "country": "France",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h8be1f3b9"
+    },
+    {
+      "title": "Iran remains committed to Nuclear Non-Proliferation Treaty — foreign minister",
+      "url": "https://tass.com/world/2211381",
+      "publishedAt": "2026-10-31T14:36:54.000Z",
+      "excerpt": "The country remains a party to the Treaty, Abbas Araghchi said",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h71026745"
+    },
+    {
+      "title": "Iran has no plans for direct meetings with US officials — foreign minister",
+      "url": "https://tass.com/world/2211379",
+      "publishedAt": "2026-10-31T14:35:21.000Z",
+      "excerpt": "The American side’s attempt to open the door to dialogue and understanding more broadly is a positive step, Abbas Araghchi said",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h30ad6c0e"
+    },
+    {
+      "title": "Iran demands reduction in US forces in region as condition for settlement — top diplomat",
+      "url": "https://tass.com/world/2211377",
+      "publishedAt": "2026-10-31T14:32:41.000Z",
+      "excerpt": "Tehran will decide whether to hold direct or indirect talks once Washington accepts its conditions, Iranian Foreign Minister Abbas Araghchi said",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h62dbe24f"
+    },
+    {
+      "title": "Iranian delegation arrives in Doha to discuss nuclear proposals",
+      "url": "https://tass.com/world/2211371",
+      "publishedAt": "2026-10-31T13:48:07.000Z",
+      "excerpt": "Iranian authorities had formed special committees to discuss the nuclear proposals",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hf1b18313"
+    },
+    {
+      "title": "Iran to respond to any threat regardless of geographical restrictions — supreme leader",
+      "url": "https://tass.com/world/2211365",
+      "publishedAt": "2026-10-31T13:32:39.000Z",
+      "excerpt": "Mojtaba Khamenei described combat readiness for a strong response to enemies as a condition stipulating \"maximum deterrence\"",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hdeb20552"
+    },
+    {
+      "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+      "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
+      "publishedAt": "2026-10-30T12:49:56.000Z",
+      "excerpt": "IISS study questions overreliance on American support and ‘overdependence on expensive, high-end systems’ Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the questionable continued value of US bases in…",
+      "outlet": "The Guardian",
+      "outletType": "Private newspaper",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h2b701e58"
+    },
+    {
+      "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+      "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+      "publishedAt": "2026-10-29T19:32:24.000Z",
+      "excerpt": "US vice-president writes to top Iranian security official in sign Washington has not abandoned diplomacy Hopes of averting a major new conflagration between Iran and the US soon after Tuesday’s midterm elections could rest on Iran’s response to a personal letter from the US…",
+      "outlet": "The Guardian",
+      "outletType": "Private newspaper",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hb0390761"
+    },
+    {
+      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "excerpt": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h76ce0b5"
+    },
+    {
+      "title": "In Egypt, Guterres warns against Iran-US escalation",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
+      "excerpt": "UN Secretary-General António Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.&nbsp;",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h5cac2b96"
+    },
+    {
+      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+      "publishedAt": "2026-10-23T12:00:00.000Z",
+      "excerpt": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nuclear non-proliferation regime.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h877448b9"
+    },
+    {
+      "title": "The Yemen War, Saudi-Iran relations and Another Escalation in the Gulf",
+      "url": "https://www.crisisgroup.org/pod/middle-east-north-africa/yemen/yemen-war-saudi-iran-relations-and-another-escalation-gulf",
+      "publishedAt": "2026-10-16T17:18:20.000Z",
+      "excerpt": "The Yemen War, Saudi-Iran relations and Another Escalation in the Gulf hschaub Fri, 10/16/2026 - 19:18 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Middle East…",
+      "outlet": "International Crisis Group",
+      "outletType": "Research organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h9b274d9b"
+    },
+    {
+      "title": "How War is Reshaping Iran’s “Axis of Resistance”",
+      "url": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran/how-war-reshaping-irans-axis-resistance",
+      "publishedAt": "2026-10-16T16:13:40.000Z",
+      "excerpt": "How War is Reshaping Iran’s “Axis of Resistance” eschelhaas Fri, 10/16/2026 - 18:13 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Iranians commute past a billboard…",
+      "outlet": "International Crisis Group",
+      "outletType": "Research organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h747d4f02"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "Middle East Eye",
+      "outletType": "Private news site",
+      "count": 7
+    },
+    {
+      "name": "TASS",
+      "outletType": "State news agency",
+      "count": 7
+    },
+    {
+      "name": "Al Jazeera English",
+      "outletType": "State-funded broadcaster",
+      "count": 3
+    },
+    {
+      "name": "UN News",
+      "outletType": "International organization",
+      "count": 3
+    },
+    {
+      "name": "The Guardian",
+      "outletType": "Private newspaper",
+      "count": 2
+    },
+    {
+      "name": "International Crisis Group",
+      "outletType": "Research organization",
+      "count": 2
+    },
+    {
+      "name": "South China Morning Post",
+      "outletType": "Private newspaper",
+      "count": 1
+    },
+    {
+      "name": "France 24",
+      "outletType": "State-owned broadcaster",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration only. These cards do not locate real units in the war Wikipedia describes.",
+      "casualties": "Sample illustration only. Do not read these ranges as the toll of the war.",
+      "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+      "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+      "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+    },
+    "movements": [
+      {
+        "id": "ir-mv-1",
+        "text": "Sample statement: a naval group shifted toward the illustrated Gulf box during the layout day.",
+        "claimedBy": "Sample: United States statement",
+        "partyId": "us",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated Gulf box"
+      },
+      {
+        "id": "ir-mv-2",
+        "text": "Sample statement: a missile unit shifted inside the illustrated central box during the layout day.",
+        "claimedBy": "Sample: Iranian statement",
+        "partyId": "ir",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated central box"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "ir-cas-1",
+        "topic": "Deaths for the illustrated day, three versions",
+        "summary": "Three sample statements, three different categories. Shown together. None is adopted.",
+        "claims": [
+          {
+            "id": "ir-cas-a",
+            "text": "Deaths described as people killed inside Iran.",
+            "claimedBy": "Sample: Iranian statement",
+            "partyId": "ir",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": 40,
+            "high": 90,
+            "unit": "people",
+            "area": null
+          },
+          {
+            "id": "ir-cas-b",
+            "text": "Deaths described as opposing personnel.",
+            "claimedBy": "Sample: Israeli statement",
+            "partyId": "il",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": 10,
+            "high": 30,
+            "unit": "personnel",
+            "area": null
+          },
+          {
+            "id": "ir-cas-c",
+            "text": "No personnel losses of its own in the illustrated day.",
+            "claimedBy": "Sample: United States statement",
+            "partyId": "us",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": 0,
+            "high": 0,
+            "unit": "personnel",
+            "area": null
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "ir-u-1",
+        "name": "Sample unit I-1",
+        "partyId": "ir",
+        "area": "Illustrated central box",
+        "text": "Fictional unit. The pin is inland so it is not a claim about a named city.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ir-u-2",
+        "name": "Sample unit N-1",
+        "partyId": "us",
+        "area": "Illustrated Gulf box",
+        "text": "Fictional naval marker in the water, not a real ship position.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "ir-ter-1",
+        "topic": "Illustrated patch of ground",
+        "summary": "No sample statement here claims a city changed hands. The pair is about a small patch only.",
+        "claims": [
+          {
+            "id": "ir-ter-a",
+            "text": "The illustrated patch is described as struck and left.",
+            "claimedBy": "Sample: Israeli statement",
+            "partyId": "il",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          },
+          {
+            "id": "ir-ter-b",
+            "text": "The same patch is described as not held by any attacker.",
+            "claimedBy": "Sample: Iranian statement",
+            "partyId": "ir",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "ir-w-1",
+        "weaponType": "missile",
+        "name": "Sample missile mention",
+        "partyId": "ir",
+        "area": "Illustrated central box",
+        "text": "Fictional missile card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ir-w-2",
+        "weaponType": "air",
+        "name": "Sample aircraft mention",
+        "partyId": "il",
+        "area": "Illustrated central box",
+        "text": "Fictional aircraft card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ir-w-3",
+        "weaponType": "naval",
+        "name": "Sample naval mention",
+        "partyId": "us",
+        "area": "Illustrated Gulf box",
+        "text": "Fictional naval card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "casualtyTrend": {
+      "origin": "sample",
+      "unit": "people, claimed range",
+      "caption": "Illustrative ranges. A zero band is still a claim. It is not a finding that nobody died.",
+      "points": [
+        {
+          "date": "2026-10-28",
+          "values": [
+            {
+              "id": "by-ir",
+              "label": "Sample Iranian statement, people killed",
+              "partyId": "ir",
+              "low": 20,
+              "high": 50
+            },
+            {
+              "id": "by-il",
+              "label": "Sample Israeli statement, opposing personnel",
+              "partyId": "il",
+              "low": 5,
+              "high": 15
+            }
+          ]
+        },
+        {
+          "date": "2026-10-29",
+          "values": [
+            {
+              "id": "by-ir",
+              "label": "Sample Iranian statement, people killed",
+              "partyId": "ir",
+              "low": 30,
+              "high": 70
+            },
+            {
+              "id": "by-il",
+              "label": "Sample Israeli statement, opposing personnel",
+              "partyId": "il",
+              "low": 8,
+              "high": 20
+            }
+          ]
+        },
+        {
+          "date": "2026-10-30",
+          "values": [
+            {
+              "id": "by-ir",
+              "label": "Sample Iranian statement, people killed",
+              "partyId": "ir",
+              "low": 25,
+              "high": 60
+            },
+            {
+              "id": "by-il",
+              "label": "Sample Israeli statement, opposing personnel",
+              "partyId": "il",
+              "low": 6,
+              "high": 18
+            }
+          ]
+        },
+        {
+          "date": "2026-10-31",
+          "values": [
+            {
+              "id": "by-ir",
+              "label": "Sample Iranian statement, people killed",
+              "partyId": "ir",
+              "low": 40,
+              "high": 90
+            },
+            {
+              "id": "by-il",
+              "label": "Sample Israeli statement, opposing personnel",
+              "partyId": "il",
+              "low": 10,
+              "high": 30
+            }
+          ]
+        }
+      ]
+    },
+    "markers": [
+      {
+        "id": "ref-iran-war-Hormuz",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 26.6,
+        "lng": 56.5,
+        "title": "Hormuz",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Hormuz",
+            "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ir-unit",
+        "kind": "unit",
+        "origin": "sample",
+        "lat": 32.6,
+        "lng": 54.2,
+        "title": "SAMPLE — unit I-1",
+        "detail": "Fictional inland unit. Not a real deployment.",
+        "partyId": "ir",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ir-unit-n",
+        "kind": "unit",
+        "origin": "sample",
+        "lat": 26.4,
+        "lng": 55.2,
+        "title": "SAMPLE — unit N-1",
+        "detail": "Fictional naval marker in the water.",
+        "partyId": "us",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ir-clash",
+        "kind": "clash",
+        "origin": "sample",
+        "lat": 32.4,
+        "lng": 53.6,
+        "title": "SAMPLE — clash",
+        "detail": "Fictional clash marker away from named cities.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ir-strike",
+        "kind": "strike",
+        "origin": "sample",
+        "lat": 33,
+        "lng": 52.4,
+        "title": "SAMPLE — strike",
+        "detail": "Fictional strike marker. Not a real impact.",
+        "partyId": "il",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ir-weapon",
+        "kind": "weapon",
+        "origin": "sample",
+        "lat": 26.8,
+        "lng": 56,
+        "title": "SAMPLE — naval",
+        "detail": "Fictional weapon marker.",
+        "partyId": "us",
+        "weaponType": "naval",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ir-ref-tehran",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 35.69,
+        "lng": 51.39,
+        "title": "Tehran",
+        "detail": "City marker for orientation. Not a strike assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ir-ref-bandar",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 27.18,
+        "lng": 56.28,
+        "title": "Bandar Abbas",
+        "detail": "City marker for orientation. Not a naval assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "id": "ir-ctrl",
+        "kind": "control",
+        "origin": "sample",
+        "partyId": "ir",
+        "title": "SAMPLE — illustrated inland box",
+        "detail": "Small sample polygon. Not a control map of Iran.",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "coordinates": [
+          [
+            53.4,
+            32.2
+          ],
+          [
+            54.6,
+            32.2
+          ],
+          [
+            54.6,
+            33
+          ],
+          [
+            53.4,
+            33
+          ],
+          [
+            53.4,
+            32.2
+          ]
+        ]
+      },
+      {
+        "id": "ir-line",
+        "kind": "line",
+        "origin": "sample",
+        "partyId": "us",
+        "title": "SAMPLE — illustrated sea lane",
+        "detail": "Short sample line in the water. Not a real patrol track.",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "coordinates": [
+          [
+            55.6,
+            26.2
+          ],
+          [
+            56.6,
+            26.6
+          ],
+          [
+            57.2,
+            26.2
+          ]
+        ]
+      }
+    ]
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 26,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 0 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

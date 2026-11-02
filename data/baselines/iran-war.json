@@ -1,0 +1,553 @@
+{
+  "notes": {
+    "movements": "Sample illustration only. These cards do not locate real units in the war Wikipedia describes.",
+    "casualties": "Sample illustration only. Do not read these ranges as the toll of the war.",
+    "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+    "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+    "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+  },
+  "movements": [
+    {
+      "id": "ir-mv-1",
+      "text": "Sample statement: a naval group shifted toward the illustrated Gulf box during the layout day.",
+      "claimedBy": "Sample: United States statement",
+      "partyId": "us",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated Gulf box"
+    },
+    {
+      "id": "ir-mv-2",
+      "text": "Sample statement: a missile unit shifted inside the illustrated central box during the layout day.",
+      "claimedBy": "Sample: Iranian statement",
+      "partyId": "ir",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated central box"
+    }
+  ],
+  "casualtyGroups": [
+    {
+      "id": "ir-cas-1",
+      "topic": "Deaths for the illustrated day, three versions",
+      "summary": "Three sample statements, three different categories. Shown together. None is adopted.",
+      "claims": [
+        {
+          "id": "ir-cas-a",
+          "text": "Deaths described as people killed inside Iran.",
+          "claimedBy": "Sample: Iranian statement",
+          "partyId": "ir",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 40,
+          "high": 90,
+          "unit": "people",
+          "area": null
+        },
+        {
+          "id": "ir-cas-b",
+          "text": "Deaths described as opposing personnel.",
+          "claimedBy": "Sample: Israeli statement",
+          "partyId": "il",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 10,
+          "high": 30,
+          "unit": "personnel",
+          "area": null
+        },
+        {
+          "id": "ir-cas-c",
+          "text": "No personnel losses of its own in the illustrated day.",
+          "claimedBy": "Sample: United States statement",
+          "partyId": "us",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 0,
+          "high": 0,
+          "unit": "personnel",
+          "area": null
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "ir-u-1",
+      "name": "Sample unit I-1",
+      "partyId": "ir",
+      "area": "Illustrated central box",
+      "text": "Fictional unit. The pin is inland so it is not a claim about a named city.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ir-u-2",
+      "name": "Sample unit N-1",
+      "partyId": "us",
+      "area": "Illustrated Gulf box",
+      "text": "Fictional naval marker in the water, not a real ship position.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "territory": [
+    {
+      "id": "ir-ter-1",
+      "topic": "Illustrated patch of ground",
+      "summary": "No sample statement here claims a city changed hands. The pair is about a small patch only.",
+      "claims": [
+        {
+          "id": "ir-ter-a",
+          "text": "The illustrated patch is described as struck and left.",
+          "claimedBy": "Sample: Israeli statement",
+          "partyId": "il",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        },
+        {
+          "id": "ir-ter-b",
+          "text": "The same patch is described as not held by any attacker.",
+          "claimedBy": "Sample: Iranian statement",
+          "partyId": "ir",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "id": "ir-w-1",
+      "weaponType": "missile",
+      "name": "Sample missile mention",
+      "partyId": "ir",
+      "area": "Illustrated central box",
+      "text": "Fictional missile card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ir-w-2",
+      "weaponType": "air",
+      "name": "Sample aircraft mention",
+      "partyId": "il",
+      "area": "Illustrated central box",
+      "text": "Fictional aircraft card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ir-w-3",
+      "weaponType": "naval",
+      "name": "Sample naval mention",
+      "partyId": "us",
+      "area": "Illustrated Gulf box",
+      "text": "Fictional naval card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "casualtyTrend": {
+    "origin": "sample",
+    "unit": "people, claimed range",
+    "caption": "Illustrative ranges. A zero band is still a claim. It is not a finding that nobody died.",
+    "points": [
+      {
+        "date": "2026-10-28",
+        "values": [
+          {
+            "id": "by-ir",
+            "label": "Sample Iranian statement, people killed",
+            "partyId": "ir",
+            "low": 20,
+            "high": 50
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, opposing personnel",
+            "partyId": "il",
+            "low": 5,
+            "high": 15
+          }
+        ]
+      },
+      {
+        "date": "2026-10-29",
+        "values": [
+          {
+            "id": "by-ir",
+            "label": "Sample Iranian statement, people killed",
+            "partyId": "ir",
+            "low": 30,
+            "high": 70
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, opposing personnel",
+            "partyId": "il",
+            "low": 8,
+            "high": 20
+          }
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "values": [
+          {
+            "id": "by-ir",
+            "label": "Sample Iranian statement, people killed",
+            "partyId": "ir",
+            "low": 25,
+            "high": 60
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, opposing personnel",
+            "partyId": "il",
+            "low": 6,
+            "high": 18
+          }
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "values": [
+          {
+            "id": "by-ir",
+            "label": "Sample Iranian statement, people killed",
+            "partyId": "ir",
+            "low": 40,
+            "high": 90
+          },
+          {
+            "id": "by-il",
+            "label": "Sample Israeli statement, opposing personnel",
+            "partyId": "il",
+            "low": 10,
+            "high": 30
+          }
+        ]
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "ir-ref-tehran",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 35.69,
+      "lng": 51.39,
+      "title": "Tehran",
+      "detail": "City marker for orientation. Not a strike assessment.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "ir-ref-bandar",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 27.18,
+      "lng": 56.28,
+      "title": "Bandar Abbas",
+      "detail": "City marker for orientation. Not a naval assessment.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "ir-unit",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 32.6,
+      "lng": 54.2,
+      "title": "SAMPLE — unit I-1",
+      "detail": "Fictional inland unit. Not a real deployment.",
+      "partyId": "ir",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ir-unit-n",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 26.4,
+      "lng": 55.2,
+      "title": "SAMPLE — unit N-1",
+      "detail": "Fictional naval marker in the water.",
+      "partyId": "us",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ir-clash",
+      "kind": "clash",
+      "origin": "sample",
+      "lat": 32.4,
+      "lng": 53.6,
+      "title": "SAMPLE — clash",
+      "detail": "Fictional clash marker away from named cities.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ir-strike",
+      "kind": "strike",
+      "origin": "sample",
+      "lat": 33.0,
+      "lng": 52.4,
+      "title": "SAMPLE — strike",
+      "detail": "Fictional strike marker. Not a real impact.",
+      "partyId": "il",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "ir-weapon",
+      "kind": "weapon",
+      "origin": "sample",
+      "lat": 26.8,
+      "lng": 56.0,
+      "title": "SAMPLE — naval",
+      "detail": "Fictional weapon marker.",
+      "partyId": "us",
+      "weaponType": "naval",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "shapes": [
+    {
+      "id": "ir-ctrl",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "ir",
+      "title": "SAMPLE — illustrated inland box",
+      "detail": "Small sample polygon. Not a control map of Iran.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          53.4,
+          32.2
+        ],
+        [
+          54.6,
+          32.2
+        ],
+        [
+          54.6,
+          33.0
+        ],
+        [
+          53.4,
+          33.0
+        ],
+        [
+          53.4,
+          32.2
+        ]
+      ]
+    },
+    {
+      "id": "ir-line",
+      "kind": "line",
+      "origin": "sample",
+      "partyId": "us",
+      "title": "SAMPLE — illustrated sea lane",
+      "detail": "Short sample line in the water. Not a real patrol track.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          55.6,
+          26.2
+        ],
+        [
+          56.6,
+          26.6
+        ],
+        [
+          57.2,
+          26.2
+        ]
+      ]
+    }
+  ]
+}

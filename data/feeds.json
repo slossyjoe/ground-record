@@ -1,0 +1,210 @@
+[
+  {
+    "id": "bbc-world",
+    "name": "BBC News",
+    "type": "Public broadcaster",
+    "country": "United Kingdom",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "side": "Independent public broadcaster"
+  },
+  {
+    "id": "al-jazeera",
+    "name": "Al Jazeera English",
+    "type": "State-funded broadcaster",
+    "country": "Qatar",
+    "url": "https://www.aljazeera.com/xml/rss/all.xml",
+    "side": "State-funded, Qatar"
+  },
+  {
+    "id": "guardian",
+    "name": "The Guardian",
+    "type": "Private newspaper",
+    "country": "United Kingdom",
+    "url": "https://www.theguardian.com/world/rss",
+    "side": "Independent newspaper"
+  },
+  {
+    "id": "france24",
+    "name": "France 24",
+    "type": "State-owned broadcaster",
+    "country": "France",
+    "url": "https://www.france24.com/en/rss",
+    "side": "French state-owned broadcaster"
+  },
+  {
+    "id": "dw",
+    "name": "Deutsche Welle",
+    "type": "Public broadcaster",
+    "country": "Germany",
+    "url": "https://rss.dw.com/rdf/rss-en-world",
+    "side": "German public broadcaster"
+  },
+  {
+    "id": "npr",
+    "name": "NPR",
+    "type": "Public broadcaster",
+    "country": "United States",
+    "url": "https://feeds.npr.org/1004/rss.xml",
+    "side": "US public broadcaster"
+  },
+  {
+    "id": "un-news",
+    "name": "UN News",
+    "type": "International organization",
+    "country": "International",
+    "url": "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml",
+    "side": "United Nations"
+  },
+  {
+    "id": "crisis-group",
+    "name": "International Crisis Group",
+    "type": "Research organization",
+    "country": "International",
+    "url": "https://www.crisisgroup.org/rss.xml",
+    "side": "Independent research group"
+  },
+  {
+    "id": "africanews",
+    "name": "Africanews",
+    "type": "Private broadcaster",
+    "country": "Pan-African",
+    "url": "https://www.africanews.com/feed/rss",
+    "side": "Private broadcaster"
+  },
+  {
+    "id": "scmp",
+    "name": "South China Morning Post",
+    "type": "Private newspaper",
+    "country": "Hong Kong",
+    "url": "https://www.scmp.com/rss/91/feed",
+    "side": "Private newspaper"
+  },
+  {
+    "id": "irrawaddy",
+    "name": "The Irrawaddy",
+    "type": "Private newspaper",
+    "country": "Myanmar",
+    "url": "https://www.irrawaddy.com/feed",
+    "side": "Private newspaper"
+  },
+  {
+    "id": "yonhap",
+    "name": "Yonhap News Agency",
+    "type": "News agency",
+    "country": "South Korea",
+    "url": "https://en.yna.co.kr/RSS/news.xml",
+    "side": "South Korean news agency"
+  },
+  {
+    "id": "ukrinform",
+    "name": "Ukrinform",
+    "type": "State news agency",
+    "country": "Ukraine",
+    "url": "https://www.ukrinform.net/rss/block-lastnews",
+    "side": "Ukrainian state media"
+  },
+  {
+    "id": "tass",
+    "name": "TASS",
+    "type": "State news agency",
+    "country": "Russia",
+    "url": "https://tass.com/rss/v2.xml",
+    "side": "Russian state media"
+  },
+  {
+    "id": "middle-east-eye",
+    "name": "Middle East Eye",
+    "type": "Private news site",
+    "country": "United Kingdom",
+    "url": "https://www.middleeasteye.net/rss",
+    "side": "Private news site"
+  },
+  {
+    "id": "kyiv-independent",
+    "name": "The Kyiv Independent",
+    "type": "Independent newspaper",
+    "country": "Ukraine",
+    "side": "Ukrainian independent press",
+    "conflicts": [
+      "russia-ukraine"
+    ],
+    "url": "https://kyivindependent.com/news-archive/rss/"
+  },
+  {
+    "id": "kyiv-post",
+    "name": "Kyiv Post",
+    "type": "Independent newspaper",
+    "country": "Ukraine",
+    "side": "Ukrainian independent press",
+    "conflicts": [
+      "russia-ukraine"
+    ],
+    "url": "https://www.kyivpost.com/feed"
+  },
+  {
+    "id": "ukr-pravda",
+    "name": "Ukrainska Pravda",
+    "type": "Independent newspaper",
+    "country": "Ukraine",
+    "side": "Ukrainian independent press",
+    "conflicts": [
+      "russia-ukraine"
+    ],
+    "url": "https://www.pravda.com.ua/eng/rss/"
+  },
+  {
+    "id": "euromaidan",
+    "name": "Euromaidan Press",
+    "type": "Independent newspaper",
+    "country": "Ukraine",
+    "side": "Ukrainian independent press",
+    "conflicts": [
+      "russia-ukraine"
+    ],
+    "url": "https://euromaidanpress.com/feed/"
+  },
+  {
+    "id": "nv",
+    "name": "The New Voice of Ukraine",
+    "type": "Independent newspaper",
+    "country": "Ukraine",
+    "side": "Ukrainian independent press",
+    "conflicts": [
+      "russia-ukraine"
+    ],
+    "url": "https://english.nv.ua/rss/all.xml"
+  },
+  {
+    "id": "meduza",
+    "name": "Meduza",
+    "type": "Independent newsroom in exile",
+    "country": "Russia",
+    "side": "Russian independent press",
+    "conflicts": [
+      "russia-ukraine"
+    ],
+    "url": "https://meduza.io/rss/en/all"
+  },
+  {
+    "id": "ohchr",
+    "name": "UN Human Rights Office",
+    "type": "United Nations",
+    "country": "International",
+    "side": "International organization",
+    "conflicts": [
+      "russia-ukraine"
+    ],
+    "url": "https://www.ohchr.org/en/rss.xml"
+  },
+  {
+    "id": "bbc-europe",
+    "name": "BBC News Europe",
+    "type": "Public broadcaster",
+    "country": "United Kingdom",
+    "side": "Independent public broadcaster",
+    "conflicts": [
+      "russia-ukraine"
+    ],
+    "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml"
+  }
+]

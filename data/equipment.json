@@ -1,0 +1,2368 @@
+[
+  {
+    "id": "t-90",
+    "name": "T-90",
+    "category": "Main battle tank",
+    "operators": "Russia",
+    "aliases": [
+      "T-90M",
+      "T-90MS",
+      "T-90A",
+      "T-90S",
+      "T-90 Proryv",
+      "Proryv",
+      "T-90"
+    ],
+    "summary": "The T-90 is a third-generation Russian main battle tank developed from, and designed to replace the T-72. It uses a 125 mm 2A46 smoothbore main gun, the 1A45T fire-control system, an upgraded engine, and gunner's thermal sight. Standard protective measures include a blend of steel and composite armour, smoke grenade dischargers, Kontakt-5 explosive reactive armour (ERA) and the Shtora infrared anti-tank guided missil",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/T-90M.jpg/330px-T-90M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/T-90",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "(T-90) (T-90A) (T-90SM)"
+      },
+      {
+        "label": "Length",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Steel-composite-reactive blend APFSDS: 550 mm + 250–280 mm with Kontakt-5 = 800–830 mm HEAT: 650–850 mm + 500–700 mm with Kontakt-5 = 1,150–1,550 mm"
+      },
+      {
+        "label": "Main armament",
+        "value": "2A46M 125 mm smoothbore gun with 43 rounds (T-90) 2A46M-2 125 mm smoothbore gun with 42 rounds (T-90A) 2A46M-5 125 mm smoothbore gun with 43 rounds (T-90M)"
+      },
+      {
+        "label": "Secondary armament",
+        "value": "12.7mm Kord Heavy machine gun, 7.62mm PKMT"
+      },
+      {
+        "label": "Engine",
+        "value": "V-84MS 12-cyl. diesel (T-90) V-92S2 12-cyl. diesel (T-90A) V-92S2F"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "(T-90A and T-90MS)"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "USD 2.5 million in 1999, USD 2.77–4.25 million in 2011 (varies by source) T-90SM: USD 4.5 million in 2016"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: T-90",
+        "url": "https://en.wikipedia.org/wiki/T-90"
+      }
+    ]
+  },
+  {
+    "id": "t-72",
+    "name": "T-72",
+    "category": "Main battle tank",
+    "operators": "Russia",
+    "aliases": [
+      "T-72B3",
+      "T-72B",
+      "T-72A",
+      "T-72"
+    ],
+    "summary": "The T-72 is a family of Soviet main battle tanks that entered production in 1973. The T-72, made by Uralvagonzavod, was a development based on the T-64 using thought and design of the previous Object 167M. About 25,000 T-72 tanks have been built, and refurbishment has enabled many to remain in service for decades. It has been widely exported and has seen service in 40 countries and in numerous conflicts. The Russian ",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Alabino05042017-40.jpg/330px-Alabino05042017-40.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/T-72",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "3 (commander, gunner, driver)"
+      },
+      {
+        "label": "Main armament",
+        "value": "125 mm 2A26M2/2A46/2A46M/2A46M-5 smoothbore gun"
+      },
+      {
+        "label": "Range",
+        "value": ", with fuel drums"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "US$0.5–1.2 million in 1994–1996, US$1–2 million (30,962,000–61,924,000 rubles) in 2009, US$0.5 million in 2011"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: T-72",
+        "url": "https://en.wikipedia.org/wiki/T-72"
+      }
+    ]
+  },
+  {
+    "id": "t-80",
+    "name": "T-80",
+    "category": "Main battle tank",
+    "operators": "Russia",
+    "aliases": [
+      "T-80BVM",
+      "T-80BV",
+      "T-80U",
+      "T-80"
+    ],
+    "summary": "The T-80 is a main battle tank (MBT) that was designed and manufactured in the former Soviet Union and manufactured in Russia. The T-80 is based on the T-64, while incorporating features from the later T-72 and changing the engine to a gas turbine. When it entered service in 1976, it was the first production tank to be powered solely by turbine.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/T-80BVM.jpg/330px-T-80BVM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/T-80",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "42.5 tons (T 80B), 46 tons (T 80U)"
+      },
+      {
+        "label": "Length",
+        "value": "Gun forward: T-80B, T-80U Hull: T-80B, T-80U"
+      },
+      {
+        "label": "Armor",
+        "value": "T-80B – Hull 440–450 mm vs APFSDS 500–575 mm vs HEAT, Turret 500 mm vs APFSDS 650 mm vs HEAT T-80U – Hull & turret with Kontakt-5 780 mm vs APFSDS 1,320 mm vs HEAT"
+      },
+      {
+        "label": "Main armament",
+        "value": "Smoothbore 125 mm 2A46-2 gun, 36 rounds and 4 9M112 Kobra ATGMs (T-80B) 2A46M-1 with 45 rounds and 6 9M119 Refleks ATGMs (T-80U)"
+      },
+      {
+        "label": "Secondary armament",
+        "value": "7.62 mm PKT coax MG , 12.7 mm NSVT or DShK or PKT antiaircraft MG"
+      },
+      {
+        "label": "Engine",
+        "value": "SG-1000 gas turbine T-80B, GTD-1250 turbine T-80U, or one of 3 diesel T 80UD"
+      },
+      {
+        "label": "Range",
+        "value": "(road, without external tanks) (road, with external tanks)"
+      },
+      {
+        "label": "Speed",
+        "value": "(T-80U) (cross country)"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "US$3 million"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: T-80",
+        "url": "https://en.wikipedia.org/wiki/T-80"
+      }
+    ]
+  },
+  {
+    "id": "bmp-3",
+    "name": "BMP-3",
+    "category": "Infantry fighting vehicle",
+    "operators": "Russia",
+    "aliases": [
+      "BMP-3"
+    ],
+    "summary": "The BMP-3 is a Soviet and Russian infantry fighting vehicle, successor to the BMP-1 and BMP-2. The abbreviation BMP stands for Boevaya Mashina Pekhoty.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Army2016demo-011.jpg/330px-Army2016demo-011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/BMP-3",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "3 (commander, gunner, driver) 7 troopers (+ 2 additional seats)"
+      },
+      {
+        "label": "Armor",
+        "value": "Aluminium alloy (ABT-102) and steel armour (BT-70Sh) Hull Front: 22 mm steel, 60 mm aluminium Hull Sides/Rear: 43 mm aluminium Hull Roof: 15 mm aluminium Hull Floor: 10 mm aluminium Turret Front:"
+      },
+      {
+        "label": "Main armament",
+        "value": "2K23/Bakhcha-U/Berezhok turret with 100 mm 2A70 cannon 30 mm 2A72 autocannon AGS-30 grenade launcher and Kornet-EM (Berezhok turret only) AU-220M Baikal remote weapon station turret with 57 mm BM-57 au"
+      },
+      {
+        "label": "Secondary armament",
+        "value": "3 × 7.62 mm PKT machine guns"
+      },
+      {
+        "label": "Engine",
+        "value": "UTD-29M diesel"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: BMP-3",
+        "url": "https://en.wikipedia.org/wiki/BMP-3"
+      }
+    ]
+  },
+  {
+    "id": "bmp-2",
+    "name": "BMP-2",
+    "category": "Infantry fighting vehicle",
+    "operators": "Russia",
+    "aliases": [
+      "BMP-2"
+    ],
+    "summary": "The BMP-2 is an amphibious infantry fighting vehicle introduced in the 1980s in the Soviet Union, following on from the BMP-1 of the 1960s.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Army2016demo-007.jpg/330px-Army2016demo-007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/BMP-2",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "3 (+7 passengers)"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "30 mm 2A42 autocannon 9M113 Konkurs ATGM,"
+      },
+      {
+        "label": "Secondary armament",
+        "value": "7.62 mm PKT machine gun"
+      },
+      {
+        "label": "Engine",
+        "value": "diesel UTD-20/3"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: BMP-2",
+        "url": "https://en.wikipedia.org/wiki/BMP-2"
+      }
+    ]
+  },
+  {
+    "id": "btr-82",
+    "name": "BTR-82A",
+    "category": "Armored personnel carrier",
+    "operators": "Russia",
+    "aliases": [
+      "BTR-82A",
+      "BTR-82"
+    ],
+    "summary": "The BTR-80 is an 8×8 wheeled amphibious armoured personnel carrier (APC) designed in the Soviet Union. It was adopted in 1985 and replaced the previous vehicles, the BTR-60 and BTR-70, in the Soviet Army. It was first deployed during the Soviet–Afghan War. The BTR-80 was developed into the larger BTR-90 in the early 1990s..",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2011_Moscow_Victory_Day_Parade_%28360-06%29_%28cropped%29.jpg/330px-2011_Moscow_Victory_Day_Parade_%28360-06%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/BTR-80",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "3 (+7 passengers)"
+      },
+      {
+        "label": "Armor",
+        "value": "10 mm (hull) 7 mm (turret)"
+      },
+      {
+        "label": "Main armament",
+        "value": "14.5 mm KPVT machine gun or 30 mm 2A72"
+      },
+      {
+        "label": "Secondary armament",
+        "value": "7.62 mm PKT machine gun"
+      },
+      {
+        "label": "Engine",
+        "value": "diesel KamAZ-7403"
+      },
+      {
+        "label": "Range",
+        "value": "600 km (372.8 mi)"
+      },
+      {
+        "label": "Speed",
+        "value": "80–90 km/h (49.7–55.9 m/h) swim 10 km/h (6.2 m/h)"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: BTR-80",
+        "url": "https://en.wikipedia.org/wiki/BTR-80"
+      }
+    ]
+  },
+  {
+    "id": "ka-52",
+    "name": "Ka-52",
+    "category": "Attack helicopter",
+    "operators": "Russia",
+    "aliases": [
+      "Ka-52",
+      "Kamov Ka-52",
+      "Alligator"
+    ],
+    "summary": "The Kamov Ka-50 \"Black Shark\", NATO reporting name Hokum A, is a Soviet/Russian single-seat attack helicopter with the distinctive coaxial rotor system of the Kamov design bureau. It was designed in the 1980s and adopted for service in the Russian army in 1995. The Ka-50 is manufactured by the Progress company in Arsenyev. It is used as a heavily armed scout helicopter and has a rescue ejection system, rare for helic",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Russian_Air_Force_Kamov_Ka-50.jpg/330px-Russian_Air_Force_Kamov_Ka-50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/Kamov_Ka-50",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: Kamov Ka-50",
+        "url": "https://en.wikipedia.org/wiki/Kamov_Ka-50"
+      }
+    ]
+  },
+  {
+    "id": "su-34",
+    "name": "Su-34",
+    "category": "Strike aircraft",
+    "operators": "Russia",
+    "aliases": [
+      "Su-34",
+      "Sukhoi Su-34"
+    ],
+    "summary": "The Sukhoi Su-34 is a Soviet-origin Russian twin-engine, twin-seat, all-weather supersonic medium-range fighter-bomber/strike aircraft. It first flew in 1990, intended for the Soviet Air Forces, and it entered service in 2014 with the Russian Air Force.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/MAKS2015part1-10_%28cropped%29.jpg/330px-MAKS2015part1-10_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/Sukhoi_Su-34",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: Sukhoi Su-34",
+        "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-34"
+      }
+    ]
+  },
+  {
+    "id": "su-25",
+    "name": "Su-25",
+    "category": "Ground-attack aircraft",
+    "operators": "Russia",
+    "aliases": [
+      "Su-25",
+      "Sukhoi Su-25"
+    ],
+    "summary": "The Sukhoi Su-25 Grach is a subsonic, single-seat, twin-engine jet aircraft developed in the Soviet Union by Sukhoi. It was designed to provide close air support for Soviet Ground Forces. The first prototype made its maiden flight on 22 February 1975. After testing, the aircraft went into series production in 1978 in Tbilisi in the Georgian Soviet Socialist Republic.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Sukhoi_Su-25_of_the_Russian_Air_Force_landing_at_Vladivostok_%288683076150%29.jpg/330px-Sukhoi_Su-25_of_the_Russian_Air_Force_landing_at_Vladivostok_%288683076150%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/Sukhoi_Su-25",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: Sukhoi Su-25",
+        "url": "https://en.wikipedia.org/wiki/Sukhoi_Su-25"
+      }
+    ]
+  },
+  {
+    "id": "lancet",
+    "name": "Lancet",
+    "category": "Loitering munition",
+    "operators": "Russia",
+    "aliases": [
+      "Lancet-3",
+      "Lancet"
+    ],
+    "summary": "The ZALA Lancet is an unmanned aerial vehicle (UAV) and loitering munition developed by the Russian company ZALA Aero Group for the Russian Armed Forces. It was first unveiled in June 2019 at the ARMY-2019 military expo in Moscow. It is a further development of the ZALA Kub-BLA loitering munition.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/ZALA_Lancet_1.jpg/330px-ZALA_Lancet_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/ZALA_Lancet",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Speed",
+        "value": "110 km/h cruise, 300 km/h dive"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "Export cost: 3 million rubles ($37,000)"
+      },
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: ZALA Lancet",
+        "url": "https://en.wikipedia.org/wiki/ZALA_Lancet"
+      }
+    ]
+  },
+  {
+    "id": "shahed",
+    "name": "Shahed-136",
+    "category": "One-way attack drone",
+    "operators": "Russia (as Geran-2); designed in Iran",
+    "aliases": [
+      "Shahed-136",
+      "Shahed 136",
+      "Geran-2",
+      "Geran 2"
+    ],
+    "summary": "The HESA Shahed 136, also known by its Russian designation Geran-2, is an Iranian-designed one-way attack drone, also known as a kamikaze drone or suicide drone, in the form of an autonomous pusher-propelled drone. It is designed and manufactured by the Iranian state-owned corporation HESA in association with Shahed Aviation Industries.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_%2833%29.jpg/330px-2023_IRGC_Aerospace_Force_achievements_Exhibition_in_Qom_%2833%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/HESA_Shahed_136",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Engine",
+        "value": "MD-550 piston engine"
+      },
+      {
+        "label": "Speed",
+        "value": "Around"
+      },
+      {
+        "label": "Guidance",
+        "value": "GNSS, INS, potential Automatic target recognition"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "$193,000"
+      },
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: HESA Shahed 136",
+        "url": "https://en.wikipedia.org/wiki/HESA_Shahed_136"
+      }
+    ]
+  },
+  {
+    "id": "iskander",
+    "name": "Iskander",
+    "category": "Short-range ballistic missile",
+    "operators": "Russia",
+    "aliases": [
+      "Iskander-M",
+      "Iskander"
+    ],
+    "summary": "The 9K720 Iskander is a family of Russian mobile short-range ballistic missile systems. The basic M model has a range of 500 kilometres. It was intended to replace the OTR-21 Tochka in the Russian military by 2020.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Army2016demo-075.jpg/330px-Army2016demo-075.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/9K720_Iskander",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Engine",
+        "value": "Single-stage solid propellant"
+      },
+      {
+        "label": "Range",
+        "value": "for Iskander-M"
+      },
+      {
+        "label": "Speed",
+        "value": "2100 m/s"
+      },
+      {
+        "label": "Guidance",
+        "value": "Iskander-M: INS + GLONASS + DSMAC Iskander-K: INS + GLONASS + TERCOM"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "million (missile)"
+      },
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: 9K720 Iskander",
+        "url": "https://en.wikipedia.org/wiki/9K720_Iskander"
+      }
+    ]
+  },
+  {
+    "id": "grad",
+    "name": "BM-21 Grad",
+    "category": "Multiple rocket launcher",
+    "operators": "Russia and Ukraine",
+    "aliases": [
+      "BM-21",
+      "Grad"
+    ],
+    "summary": "The BM-21 \"Grad\" is a self-propelled 122 mm multiple rocket launcher designed in the Soviet Union. The system and the M-21OF rocket were first developed in the early 1960s, and saw their first combat use in March 1969 during the Sino-Soviet border conflict. BM stands for boyevaya mashina, and the nickname grad means \"hail\". The complete system with the BM-21 launch vehicle and M-21OF rocket is designated as the M-21 ",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Russian_BM-21_Grad_in_Saint_Petersburg.JPG/330px-Russian_BM-21_Grad_in_Saint_Petersburg.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/BM-21_Grad",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "13.71 tonnes (30,225 lb)"
+      },
+      {
+        "label": "Engine",
+        "value": "V8 gasoline ZiL-375"
+      },
+      {
+        "label": "Range",
+        "value": "405 km (251 mi)"
+      },
+      {
+        "label": "Speed",
+        "value": "75 km/h (47 mph)"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: BM-21 Grad",
+        "url": "https://en.wikipedia.org/wiki/BM-21_Grad"
+      }
+    ]
+  },
+  {
+    "id": "tos-1",
+    "name": "TOS-1",
+    "category": "Heavy flamethrower system",
+    "operators": "Russia",
+    "aliases": [
+      "TOS-1A",
+      "TOS-1"
+    ],
+    "summary": "TOS-1 Buratino is a Soviet 220 mm 30-barrel or 24-barrel multiple rocket launcher capable of using thermobaric warheads, mounted on a T-72 / T-90 tank chassis. TOS-1 was designed to attack enemy fortified positions and lightly armored vehicles and transports, particularly in open terrain. The system’s first combat tests took place in 1988 and 1989 in the Panjshir Valley during the Soviet–Afghan War. The TOS-1 was sho",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Army2016-487.jpg/330px-Army2016-487.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/TOS-1",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "V-84 diesel"
+      },
+      {
+        "label": "Range",
+        "value": ".5-3 km (TOS-1) 10 km (TOS-1A)"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: TOS-1",
+        "url": "https://en.wikipedia.org/wiki/TOS-1"
+      }
+    ]
+  },
+  {
+    "id": "s-400",
+    "name": "S-400",
+    "category": "Long-range air-defense system",
+    "operators": "Russia",
+    "aliases": [
+      "S-400"
+    ],
+    "summary": "The S-400 Triumf, previously known as the S-300 PMU-3, is a mobile surface-to-air missile (SAM) system developed in the 1990s by Russia's NPO Almaz as an upgrade to the S-300 family of missiles. The S-400 was approved for service on 28 April 2007 and the first battalion of the systems assumed combat duty on 6 August 2007. Its longest-ranged interceptor missile, the 40N6, has a purported range of 400 km. The S-400 can",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%D0%A1-400_%C2%AB%D0%A2%D1%80%D0%B8%D1%83%D0%BC%D1%84%C2%BB.JPG/330px-%D0%A1-400_%C2%AB%D0%A2%D1%80%D0%B8%D1%83%D0%BC%D1%84%C2%BB.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/S-400_missile_system",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Engine",
+        "value": "YaMZ-8424.10 diesel V12"
+      },
+      {
+        "label": "Guidance",
+        "value": "SARH with all missile model, and ARH in 40N6E, 9M96E2, 9M96E and 9M96 missiles"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "Domestic: ~ million for a battery and reserve missiles. Export: 1.25 billion for a battery and reserve missiles (2021)"
+      },
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: S-400 missile system",
+        "url": "https://en.wikipedia.org/wiki/S-400_missile_system"
+      }
+    ]
+  },
+  {
+    "id": "orlan",
+    "name": "Orlan-10",
+    "category": "Reconnaissance drone",
+    "operators": "Russia",
+    "aliases": [
+      "Orlan-10",
+      "Orlan 10"
+    ],
+    "summary": "The Orlan-10 is a reconnaissance unmanned aerial vehicle (UAV) developed by the Special Technology Center (STC) in Saint Petersburg for the Russian Armed Forces. The Orlan-10 features a composite fuselage that reduces its radar signature.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Orlan-10_UAV_Army-2022_2022-08-20_2475.jpg/330px-Orlan-10_UAV_Army-2022_2022-08-20_2475.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/STC_Orlan-10",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: STC Orlan-10",
+        "url": "https://en.wikipedia.org/wiki/STC_Orlan-10"
+      }
+    ]
+  },
+  {
+    "id": "kinzhal",
+    "name": "Kh-47M2 Kinzhal",
+    "category": "Air-launched ballistic missile",
+    "operators": "Russia",
+    "aliases": [
+      "Kinzhal",
+      "Kh-47M2"
+    ],
+    "summary": "The Kh-47M2 Kinzhal is a Russian air-launched ballistic missile. It has an estimated range of 460–480 km (290–300 mi) and a reported top speed of Mach 10. It can carry either conventional or nuclear warheads and can be launched by Tu-22M3 bombers, MiG-31K interceptors, or modified Su-34 fighter–bombers.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/2018_Moscow_Victory_Day_Parade_66.jpg/330px-2018_Moscow_Victory_Day_Parade_66.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/Kh-47M2_Kinzhal",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Length",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Solid-propellant rocket motor"
+      },
+      {
+        "label": "Range",
+        "value": ", including range of launching aircraft"
+      },
+      {
+        "label": "Speed",
+        "value": "Up to"
+      },
+      {
+        "label": "Guidance",
+        "value": "INS, mid-course update"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "US$10 million"
+      },
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: Kh-47M2 Kinzhal",
+        "url": "https://en.wikipedia.org/wiki/Kh-47M2_Kinzhal"
+      }
+    ]
+  },
+  {
+    "id": "leopard-2",
+    "name": "Leopard 2",
+    "category": "Main battle tank",
+    "operators": "Ukraine (supplied); designed in Germany",
+    "aliases": [
+      "Leopard 2A6",
+      "Leopard 2A4",
+      "Leopard 2"
+    ],
+    "summary": "The Leopard 2 is a third generation German main battle tank (MBT). Developed by Krauss-Maffei in the 1970s, the tank entered service in 1979 and replaced the earlier Leopard 1 as the main battle tank of the West German army. Various iterations of the Leopard 2 continue to be operated by the armed forces of Germany, as well as 13 other European countries, and several non-European countries, including Canada, Chile, In",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Leopard_2_A7V_313_Bad_Frankenhausen_2024.JPG/330px-Leopard_2_A7V_313_Bad_Frankenhausen_2024.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/Leopard_2",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "2A4: 2A5: 2A6: 2A7V:"
+      },
+      {
+        "label": "Length",
+        "value": "2A4: (gun forward) 2A6:"
+      },
+      {
+        "label": "Armor",
+        "value": "2A6: 3rd generation composite; including high-hardness steel, tungsten and plastic filler with ceramic component."
+      },
+      {
+        "label": "Main armament",
+        "value": "1 × Rh-120 L/44 120 mm or Rh-120 L/55 120 mm Rheinmetall Rh-120 (42 rounds)"
+      },
+      {
+        "label": "Secondary armament",
+        "value": "2 × 7.62 mm MG3A1 or 2 × 7.62 mm FN MAG (4,750 rounds)"
+      },
+      {
+        "label": "Engine",
+        "value": "MTU MB 873 Ka-501 liquid-cooled V12 twin-turbo diesel engine"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "2A6 (secondhand): (FY 2007) 2A7+: €13–15 million (FY 2014) 2A8: €29 million (2023)"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: Leopard 2",
+        "url": "https://en.wikipedia.org/wiki/Leopard_2"
+      }
+    ]
+  },
+  {
+    "id": "abrams",
+    "name": "M1 Abrams",
+    "category": "Main battle tank",
+    "operators": "Ukraine (supplied); designed in the United States",
+    "aliases": [
+      "M1A1",
+      "M1 Abrams",
+      "Abrams"
+    ],
+    "summary": "The M1 Abrams is a third-generation American main battle tank designed by Chrysler Defense and named for General Creighton Abrams. Conceived for modern armored ground warfare, it is one of the heaviest tanks in service at nearly 73.6 short tons. It introduced several modern technologies to the United States armored forces, including a multifuel turbine engine, Chobham composite armor, a computer fire control system, ",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/M1A2_SEP_v3.jpg/330px-M1A2_SEP_v3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/M1_Abrams",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "4 (commander, gunner, loader, driver)"
+      },
+      {
+        "label": "Armor",
+        "value": "Composite armor"
+      },
+      {
+        "label": "Engine",
+        "value": "Honeywell AGT1500 multi-fuel turbine engine"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: M1 Abrams",
+        "url": "https://en.wikipedia.org/wiki/M1_Abrams"
+      }
+    ]
+  },
+  {
+    "id": "bradley",
+    "name": "M2 Bradley",
+    "category": "Infantry fighting vehicle",
+    "operators": "Ukraine (supplied); designed in the United States",
+    "aliases": [
+      "M2A2",
+      "Bradley",
+      "M2 Bradley"
+    ],
+    "summary": "The M2 Bradley, or Bradley IFV, is an American infantry fighting vehicle that is a member of the Bradley Fighting Vehicle family. It is manufactured by BAE Systems Land & Armaments and entered service in 1981, with fielding beginning in 1983.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/US_M2A1_Bradley_deployed_to_Saudi_Arabia_during_Operation_Desert_Shield.jpg/330px-US_M2A1_Bradley_deployed_to_Saudi_Arabia_during_Operation_Desert_Shield.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/M2_Bradley",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "3 (commander, gunner, driver)"
+      },
+      {
+        "label": "Armor",
+        "value": "Spaced laminate armor offering 14.5 mm all around protection. Hull base is 7017 aluminum"
+      },
+      {
+        "label": "Secondary armament",
+        "value": "7.62 mm coaxial M240C machine gun (2,200 rounds)"
+      },
+      {
+        "label": "Engine",
+        "value": "Cummins VTA-903T 8-cylinder diesel"
+      },
+      {
+        "label": "Speed",
+        "value": "; 40 km/h off-road; 7.2 km/h in water"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "$3,166,000 in 1998."
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: M2 Bradley",
+        "url": "https://en.wikipedia.org/wiki/M2_Bradley"
+      }
+    ]
+  },
+  {
+    "id": "himars",
+    "name": "M142 HIMARS",
+    "category": "Rocket artillery",
+    "operators": "Ukraine (supplied); designed in the United States",
+    "aliases": [
+      "HIMARS",
+      "M142"
+    ],
+    "summary": "The M142 High Mobility Artillery Rocket System is a light multiple rocket launcher developed in the late 1990s for the United States Army and mounted on a standard U.S. Army Family of Medium Tactical Vehicles (FMTV) M1140 truck frame.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/HIMARS_-_missile_launched.jpg/330px-HIMARS_-_missile_launched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/M142_HIMARS",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "3 (commander, second in command, driver)"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Caterpillar 3116 ATAAC 6.6-litre diesel"
+      },
+      {
+        "label": "Range",
+        "value": "M26: M26A1 ER / A2 ER: AT2: M30: M31: M32: ER GMLRS: GLSDB: M39: M39A1: M48: M57: PrSM:"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "Domestic cost: $3.5 million per one launcher+carrier (FY 2014); $4,901,857 per one launcher (FY 2024), $168,000 per one M31 GMLRS (FY 2023) Export cost: $19–20 million per one launcher+carrier (FY 2022); $434,0"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: M142 HIMARS",
+        "url": "https://en.wikipedia.org/wiki/M142_HIMARS"
+      }
+    ]
+  },
+  {
+    "id": "m777",
+    "name": "M777",
+    "category": "Towed howitzer",
+    "operators": "Ukraine (supplied)",
+    "aliases": [
+      "M777"
+    ],
+    "summary": "The M777 howitzer is a British towed 155 mm artillery piece in the howitzer class. It is used by the ground forces of Australia, Canada, Colombia, India, Saudi Arabia, Ukraine, and the United States. It was first used in combat during the War in Afghanistan.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/M777_howitzer_rear.jpg/330px-M777_howitzer_rear.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/M777_howitzer",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "7+1"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: M777 howitzer",
+        "url": "https://en.wikipedia.org/wiki/M777_howitzer"
+      }
+    ]
+  },
+  {
+    "id": "javelin",
+    "name": "FGM-148 Javelin",
+    "category": "Anti-tank missile",
+    "operators": "Ukraine (supplied)",
+    "aliases": [
+      "Javelin",
+      "FGM-148"
+    ],
+    "summary": "The FGM-148 Javelin, or Advanced Anti-Tank Weapon System-Medium (AAWS-M), is an American-made man-portable anti-tank system in service since 1996 and continuously upgraded. It replaced the M47 Dragon anti-tank missile in US service. Its fire-and-forget design features automatic infrared guidance, allowing the user to seek cover immediately after launch, in contrast to wire-guided systems like the system used by the D",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Javelin_with_checkout_equipment.jpg/330px-Javelin_with_checkout_equipment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/FGM-148_Javelin",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "1 or 2 | caliber ="
+      },
+      {
+        "label": "Length",
+        "value": "Unknown"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "US$216,717 (G-model missile only, FY2021) US$240,000 (missile only, export cost, FY2019) US$249,700 (Lightweight CLU only, FY2021)"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: FGM-148 Javelin",
+        "url": "https://en.wikipedia.org/wiki/FGM-148_Javelin"
+      }
+    ]
+  },
+  {
+    "id": "nlaw",
+    "name": "NLAW",
+    "category": "Anti-tank weapon",
+    "operators": "Ukraine (supplied)",
+    "aliases": [
+      "NLAW"
+    ],
+    "summary": "The Saab Bofors Dynamics NLAW, also known as the MBT LAW or RB 57, is a fire-and-forget, lightweight shoulder-fired, and disposable (single-use) line of sight (LOS) missile system, designed for infantry use. The missile uses a soft-launch system and is guided by predicted line of sight (PLOS). It can carry out an overfly top attack (OTA) on an armoured vehicle, or a direct attack (DA) on structures, non-armoured vehi",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/NLAW_Kokonaisturvallisuus_2015_01_%28cropped%29.JPG/330px-NLAW_Kokonaisturvallisuus_2015_01_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/NLAW",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "1 | caliber ="
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "US$30,000–40,000 (domestic cost, FY 2008)"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: NLAW",
+        "url": "https://en.wikipedia.org/wiki/NLAW"
+      }
+    ]
+  },
+  {
+    "id": "tb2",
+    "name": "Bayraktar TB2",
+    "category": "Armed drone",
+    "operators": "Ukraine",
+    "aliases": [
+      "Bayraktar TB2",
+      "TB2",
+      "Bayraktar"
+    ],
+    "summary": "Bayraktar TB2 is a family of medium-altitude long-endurance (MALE) unmanned combat aerial vehicles (UCAV) capable of remotely controlled or autonomous flight operations. It is manufactured by the Turkish company Baykar for the Turkish Armed Forces and export markets. The aircraft are monitored and controlled by an aircrew in a ground control station, including weapons employment. The development of the UAV has been l",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Bayraktar_TB2_Runway.jpg/330px-Bayraktar_TB2_Runway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: Baykar Bayraktar TB2",
+        "url": "https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2"
+      }
+    ]
+  },
+  {
+    "id": "storm-shadow",
+    "name": "Storm Shadow",
+    "category": "Air-launched cruise missile",
+    "operators": "Ukraine (supplied)",
+    "aliases": [
+      "Storm Shadow",
+      "SCALP-EG",
+      "SCALP"
+    ],
+    "summary": "The Storm Shadow is a Franco–British low-observable, long-range air-launched cruise missile developed since 1994 by Matra and British Aerospace, and now manufactured by MBDA. \"Storm Shadow\" is the weapon's British name; in France it is called SCALP-EG. The missile is based on the French-developed Apache anti-runway cruise missile, but differs in that it carries a unitary warhead instead of cluster munitions.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/RAF_Museum%2C_Colindale%2C_London_-_DSC06025.JPG/330px-RAF_Museum%2C_Colindale%2C_London_-_DSC06025.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/Storm_Shadow",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Engine",
+        "value": "Microturbo TRI 60-30 turbojet"
+      },
+      {
+        "label": "Guidance",
+        "value": "GPS, INS, IIR & TERPROM"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "(FY2023) ( )"
+      },
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: Storm Shadow",
+        "url": "https://en.wikipedia.org/wiki/Storm_Shadow"
+      }
+    ]
+  },
+  {
+    "id": "atacms",
+    "name": "ATACMS",
+    "category": "Tactical ballistic missile",
+    "operators": "Ukraine (supplied)",
+    "aliases": [
+      "ATACMS",
+      "MGM-140"
+    ],
+    "summary": "The MGM-140 Army Tactical Missile System is an American short-range tactical ballistic missile. It is launched from the M270 Multiple Launch Rocket System (MLRS), the M142 High Mobility Artillery Rocket System (HIMARS), and the GMARS. Depending on the variant, it has a maximum range of up to 190 miles (300 km).",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/M57A1_Army_Tactical_Missile_System_missile.jpg/330px-M57A1_Army_Tactical_Missile_System_missile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/ATACMS",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Speed",
+        "value": "Supersonic, in excess of"
+      },
+      {
+        "label": "Guidance",
+        "value": "GPS-aided inertial navigation guidance"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "M39: $820,000 (FY1998) (or ~$1,476,000 FY2022) M57: ~$1,700,000 (FY2021)"
+      },
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: ATACMS",
+        "url": "https://en.wikipedia.org/wiki/ATACMS"
+      }
+    ]
+  },
+  {
+    "id": "patriot",
+    "name": "MIM-104 Patriot",
+    "category": "Air-defense system",
+    "operators": "Ukraine (supplied)",
+    "aliases": [
+      "Patriot",
+      "MIM-104"
+    ],
+    "summary": "The MIM-104 Patriot is a mobile interceptor missile surface-to-air missile (SAM) system, the primary such system used by the United States Army and several allied states. It is manufactured by the U.S. defense contractor Raytheon and derives its name from the radar component of the weapon system. The AN/MPQ-53 at the heart of the system is known as the \"Phased Array Tracking Radar to Intercept on Target\", which is a ",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg/330px-U-s-service-members-stand-by-a-patriot-missile-battery-in-gaziantep-turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/MIM-104_Patriot",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Speed",
+        "value": "PAC-2 GEM+: PAC-3:"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "Domestic cost: About US$1.09 billion (FY 2022) for a battery; US$4 million for a single PAC-3 MSE missile Export cost: About US$2.37–2.5 billion for a battery; US$6–10 million (FY"
+      },
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: MIM-104 Patriot",
+        "url": "https://en.wikipedia.org/wiki/MIM-104_Patriot"
+      }
+    ]
+  },
+  {
+    "id": "caesar",
+    "name": "CAESAR",
+    "category": "Truck-mounted howitzer",
+    "operators": "Ukraine (supplied); designed in France",
+    "aliases": [
+      "CAESAR"
+    ],
+    "summary": "The Camion Équipé d'un Système d'Artillerie or CAESAR is a French 155 mm, 52-caliber self-propelled gun that can fire 39/52 caliber NATO-standard shells. It is installed on a 6×6 or 8×8 truck chassis. Equipped with an autonomous weapon network incorporating an inertial navigation system and ballistic computer, the CAESAR can accurately strike targets more than 40 kilometres (25 mi) away using \"Extended Range, Full Bo",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/French_Caesar_self-propelled_howitzer_in_Iraq.jpg/330px-French_Caesar_self-propelled_howitzer_in_Iraq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/CAESAR_self-propelled_howitzer",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "5–6 (3, emergency)"
+      },
+      {
+        "label": "Weight",
+        "value": "Mk1 (Sherpa 5 6×6): Mk1 (Tatra 815-7 8×8):"
+      },
+      {
+        "label": "Length",
+        "value": "Mk1 (Sherpa 5 6×6): Mk1 (Tatra 817 8×8): Mk2 (6×6):"
+      },
+      {
+        "label": "Main armament",
+        "value": "155 mm, L/52 calibre"
+      },
+      {
+        "label": "Secondary armament",
+        "value": "None"
+      },
+      {
+        "label": "Engine",
+        "value": "Diesel"
+      },
+      {
+        "label": "Range",
+        "value": "ERFB: Rocket assisted shell: Excalibur shell:"
+      },
+      {
+        "label": "Speed",
+        "value": "On-road: Off-road:"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: CAESAR self-propelled howitzer",
+        "url": "https://en.wikipedia.org/wiki/CAESAR_self-propelled_howitzer"
+      }
+    ]
+  },
+  {
+    "id": "f-16",
+    "name": "F-16",
+    "category": "Multirole fighter",
+    "operators": "Ukraine (supplied)",
+    "aliases": [
+      "F-16",
+      "Fighting Falcon"
+    ],
+    "summary": "The General Dynamics F-16 Fighting Falcon is an American single-engine supersonic multirole fourth-generation fighter aircraft developed by General Dynamics and produced by multiple companies, including General Dynamics until 1993 and Lockheed Martin since. Designed as an air superiority day fighter, it evolved into a successful all-weather multirole aircraft with over 4,600 built since 1976.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/F-16_June_2008.jpg/330px-F-16_June_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "Unknown"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Main armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armor",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Engine",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: General Dynamics F-16 Fighting Falcon",
+        "url": "https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon"
+      }
+    ]
+  },
+  {
+    "id": "challenger-2",
+    "name": "Challenger 2",
+    "category": "Main battle tank",
+    "operators": "Ukraine (supplied); designed in the United Kingdom",
+    "aliases": [
+      "Challenger 2"
+    ],
+    "summary": "The FV4034 Challenger 2 is a third generation British main battle tank (MBT) in service with the armies of the United Kingdom, Oman, and Ukraine.",
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Challenger_2_Main_Battle_Tank_patrolling_outside_Basra%2C_Iraq_MOD_45148325.jpg/330px-Challenger_2_Main_Battle_Tank_patrolling_outside_Basra%2C_Iraq_MOD_45148325.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "page": "https://en.wikipedia.org/wiki/Challenger_2",
+      "attribution": "Thumbnail from the Wikipedia summary. The file’s author and exact license are on the article’s image file page. Article text is CC BY-SA 4.0."
+    },
+    "specs": [
+      {
+        "label": "Crew",
+        "value": "4 (commander, gunner, loader–operator, driver)"
+      },
+      {
+        "label": "Armor",
+        "value": "Chobham Dorchester Level 2 (classified)"
+      },
+      {
+        "label": "Main armament",
+        "value": "L30A1 120 mm rifled gun"
+      },
+      {
+        "label": "Engine",
+        "value": "Perkins CV12-6A V12 diesel"
+      },
+      {
+        "label": "Reported unit cost",
+        "value": "£4,217,000 (FY 1999)"
+      },
+      {
+        "label": "Weight",
+        "value": "Unknown"
+      },
+      {
+        "label": "Armament",
+        "value": "Unknown"
+      },
+      {
+        "label": "Speed",
+        "value": "Unknown"
+      },
+      {
+        "label": "Range",
+        "value": "Unknown"
+      },
+      {
+        "label": "Guidance",
+        "value": "Unknown"
+      },
+      {
+        "label": "Warhead",
+        "value": "Unknown"
+      },
+      {
+        "label": "Wingspan",
+        "value": "Unknown"
+      },
+      {
+        "label": "Payload",
+        "value": "Unknown"
+      }
+    ],
+    "sources": [
+      {
+        "name": "Wikipedia: Challenger 2",
+        "url": "https://en.wikipedia.org/wiki/Challenger_2"
+      }
+    ]
+  }
+]

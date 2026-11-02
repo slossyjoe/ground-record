@@ -1,0 +1,112 @@
+{
+  "conflictId": "afghanistan-pakistan",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Insurgency in Khyber Pakhtunkhwa",
+    "description": "Armed conflict involving Pakistan and armed militant groups",
+    "extract": "Since 2004, an insurgency has been fought in the Pakistani province of Khyber Pakhtunkhwa by Islamist militant groups such as the Tehrik-i-Taliban Pakistan (TTP), Jundallah, Lashkar-e-Islam (LeI), the Tehreek-e-Nafaz-e-Shariat-e-Mohammadi (TNSM), Al-Qaeda, and their Central Asian allies such as the Islamic State – Khorasan Province (ISKP), Islamic Movement of Uzbekistan, East Turkistan Movement, Jamaat-ul-Ahrar, Ittihad-ul-Mujahideen Pakistan, and elements of organised crime. Before being transformed into an insurgency in 2017, the conflict was a war.",
+    "url": "https://en.wikipedia.org/wiki/Insurgency_in_Khyber_Pakhtunkhwa",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T13:24:39.041Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [],
+  "outletCounts": [],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "No sample movement was written. A card appears here only when a headline describes movement.",
+      "casualties": "No sample casualty range was written. Figures appear only when a headline or a Wikipedia infobox states them.",
+      "units": "No fictional unit was written. A name appears only if a headline or a Wikipedia base entry states it.",
+      "territory": "No sample territory change was written.",
+      "weapons": "No sample weapon was written. A weapon line appears only when a headline names one."
+    },
+    "movements": [],
+    "casualtyGroups": [],
+    "units": [],
+    "territory": [],
+    "weapons": [],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "ref-afghanistan-pakistan-Kabul",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 34.52527778,
+        "lng": 69.17833333,
+        "title": "Kabul",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Kabul",
+            "url": "https://en.wikipedia.org/wiki/Kabul",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-afghanistan-pakistan-Kandahar",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 31.62,
+        "lng": 65.71583333,
+        "title": "Kandahar",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Kandahar",
+            "url": "https://en.wikipedia.org/wiki/Kandahar",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-afghanistan-pakistan-Peshawar",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 34.01444444,
+        "lng": 71.5675,
+        "title": "Peshawar",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Peshawar",
+            "url": "https://en.wikipedia.org/wiki/Peshawar",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": []
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 0,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "ok",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 0 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

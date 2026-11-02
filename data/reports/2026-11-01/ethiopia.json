@@ -1,0 +1,432 @@
+{
+  "conflictId": "ethiopia",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Ethiopian civil conflict (2018–present)",
+    "description": "Period of civil conflict and unrest in Ethiopia during Abiy Ahmed's tenure",
+    "extract": "The Ethiopian civil conflict is a series of armed conflicts in Ethiopia that have been ongoing since 2018. In November 2019, three of the four constituent parties of the ruling Ethiopian People's Revolutionary Democratic Front (EPRDF) approved a merger into the Prosperity Party, while the Tigray People's Liberation Front (TPLF) opposed the move. After the 20-year border conflict between Ethiopia and Eritrea, a decade of internal tensions, two years of protests, and a state of emergency, Hailemariam Desalegn resigned on 15 February 2018 as prime minister and EPRDF chairman, and there were hopes of peace under his successor Abiy Ahmed. However, war broke out in the Tigray Region, with resurgent regional and ethnic factional attacks throughout Ethiopia. The civil wars caused substantial human rights violations, war crimes, and extrajudicial killings.",
+    "url": "https://en.wikipedia.org/wiki/Ethiopian_civil_conflict_(2018%E2%80%93present)",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:16:12.405Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "Ethiopian PM puts ministers through military training",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T14:28:15.000Z",
+      "excerpt": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "outlet": "BBC News",
+      "outletType": "Public broadcaster",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h60e2865f"
+    },
+    {
+      "title": "Drone strikes in Ethiopia kill at least 25: witnesses",
+      "url": "http://www.africanews.com/2026/10/31/drone-strikes-in-ethiopia-kill-at-least-25-witnesses/",
+      "publishedAt": "2026-10-31T09:11:48.000Z",
+      "excerpt": "Multiple drone strikes have hit northern regions of Ethiopia since Thursday, killing at least 25 civilians, including children, witnesses and a medical source said on Friday",
+      "outlet": "Africanews",
+      "outletType": "Private broadcaster",
+      "country": "Pan-African",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h2eae9fdb"
+    },
+    {
+      "title": "Gunfire heard across Ethiopia border as growing numbers flee into Kenya",
+      "url": "http://www.africanews.com/2026/10/30/gunfire-heard-across-ethiopia-border-as-growing-numbers-flee-into-kenya/",
+      "publishedAt": "2026-10-30T16:00:54.000Z",
+      "excerpt": "Gunfire echoes across the Ethiopia-Kenya border in Moyale, as violence drives thousands to flee into Kenya. The clashes stem from a territorial dispute between Ethiopia’s Oromia and Somali regions.",
+      "outlet": "Africanews",
+      "outletType": "Private broadcaster",
+      "country": "Pan-African",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h74c3d150"
+    },
+    {
+      "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168643",
+      "publishedAt": "2026-10-21T12:00:00.000Z",
+      "excerpt": "The World Health Organization (WHO) is&nbsp;scaling up emergency health response operations across Afar, Amhara and Tigray in Ethiopia to address growing humanitarian and health needs resulting from ongoing hostilities.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h9d581c49"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "Africanews",
+      "outletType": "Private broadcaster",
+      "count": 2
+    },
+    {
+      "name": "BBC News",
+      "outletType": "Public broadcaster",
+      "count": 1
+    },
+    {
+      "name": "UN News",
+      "outletType": "International organization",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+      "casualties": "Reference lines are quoted from a Wikipedia infobox. Live lines are headlines. A number is shown only when that source wrote it. Sample ranges are left off this page because a sourced line was found.",
+      "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+      "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+      "weapons": "Weapon counts are numbers written next to a weapon word in a headline. Nothing was added."
+    },
+    "movements": [
+      {
+        "id": "et-mv-1",
+        "text": "Sample statement: a column moved inside the illustrated Amhara box.",
+        "claimedBy": "Sample: federal statement",
+        "partyId": "federal",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated Amhara box"
+      },
+      {
+        "id": "et-mv-2",
+        "text": "Sample statement: a local force moved inside the illustrated Oromia box.",
+        "claimedBy": "Sample: Oromo Liberation Army statement",
+        "partyId": "ola",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated Oromia box"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "grp-0-place not named",
+        "topic": "Figures written in headlines: place not named",
+        "summary": "Each line is a headline from this pull. The figure, if shown, is a number written in that headline.",
+        "claims": [
+          {
+            "id": "live-ethiopia-1",
+            "text": "“Drone strikes in Ethiopia kill at least 25: witnesses”",
+            "claimedBy": "Africanews",
+            "partyId": null,
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "Africanews",
+                "url": "http://www.africanews.com/2026/10/31/drone-strikes-in-ethiopia-kill-at-least-25-witnesses/",
+                "publishedAt": "2026-10-31T09:11:48.000Z",
+                "note": "Private broadcaster",
+                "kind": "article"
+              }
+            ],
+            "area": null,
+            "low": null,
+            "high": null,
+            "unit": null
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "et-u-1",
+        "name": "Sample unit E-1",
+        "partyId": "federal",
+        "area": "Illustrated Amhara box",
+        "text": "Fictional unit.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "et-u-2",
+        "name": "Sample unit E-2",
+        "partyId": "fano",
+        "area": "Illustrated Amhara box",
+        "text": "Fictional unit.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "et-u-3",
+        "name": "Sample unit E-3",
+        "partyId": "ola",
+        "area": "Illustrated Oromia box",
+        "text": "Fictional unit, a different region from the Amhara pins.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "et-ter-1",
+        "topic": "Illustrated district edge",
+        "summary": "Entered, in one sample. Not held, in the other.",
+        "claims": [
+          {
+            "id": "et-ter-a",
+            "text": "The illustrated edge is described as entered.",
+            "claimedBy": "Sample: Fano statement",
+            "partyId": "fano",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          },
+          {
+            "id": "et-ter-b",
+            "text": "The same edge is described as not held.",
+            "claimedBy": "Sample: federal statement",
+            "partyId": "federal",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "live-ethiopia-2",
+        "text": "“Gunfire heard across Ethiopia border as growing numbers flee into Kenya”",
+        "claimedBy": "Africanews",
+        "partyId": null,
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "Africanews",
+            "url": "http://www.africanews.com/2026/10/30/gunfire-heard-across-ethiopia-border-as-growing-numbers-flee-into-kenya/",
+            "publishedAt": "2026-10-30T16:00:54.000Z",
+            "note": "Private broadcaster",
+            "kind": "article"
+          }
+        ],
+        "area": null,
+        "weaponType": "other",
+        "name": "Strike named in a headline",
+        "low": null,
+        "high": null
+      }
+    ],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "ref-ethiopia-Addis Ababa",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 9.03583333,
+        "lng": 38.7525,
+        "title": "Addis Ababa",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Addis Ababa",
+            "url": "https://en.wikipedia.org/wiki/Addis_Ababa",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-ethiopia-Amhara",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 11.6608,
+        "lng": 37.9578,
+        "title": "Amhara",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Amhara",
+            "url": "https://en.wikipedia.org/wiki/Amhara_Region",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-ethiopia-Oromia",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 7.9890616,
+        "lng": 39.3811798,
+        "title": "Oromia",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Oromia",
+            "url": "https://en.wikipedia.org/wiki/Oromia",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "et-ref-bahir",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 11.59,
+        "lng": 37.39,
+        "title": "Bahir Dar",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "et-ref-mekelle",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 13.5,
+        "lng": 39.47,
+        "title": "Mekelle",
+        "detail": "City marker for orientation. Not a claim that the Tigray war has resumed.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": []
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 4,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 1 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}

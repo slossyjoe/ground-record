@@ -1,0 +1,1282 @@
+{
+  "conflictId": "russia-ukraine",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Russo-Ukrainian war",
+    "description": "Ongoing conflict since 2014",
+    "extract": "The Russo-Ukrainian war began in February 2014 and is ongoing. Following Ukraine's Revolution of Dignity, Russia occupied Crimea and annexed it from Ukraine. It then supported Russian separatist armed groups who started a war in the eastern Donbas region against Ukraine's military. In 2018, Ukraine declared the region to be occupied by Russia. The first eight years of conflict also involved naval incidents and cyberwarfare. In February 2022, Russia launched a full-scale invasion of Ukraine and began occupying more of the country, starting the current phase of the war, the largest conflict in Europe since World War II. The war has resulted in a refugee crisis and hundreds of thousands of deaths.",
+    "url": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:09:38.666Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "Zelensky’s failure to comply with US demands to have dire consequences — politician",
+      "url": "https://tass.com/world/2211537",
+      "publishedAt": "2026-11-01T13:05:31.000Z",
+      "excerpt": "Armando Mema clarified that by continuing attacks on Russia, Vladimir Zelensky is \"openly challenging Trump,\" and that the US leader could \"become furious over rising oil prices\"",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "he93a7b6f"
+    },
+    {
+      "title": "Drones violate Moldovan airspace twice during massive Russian attack on Ukraine",
+      "url": "https://www.ukrinform.net/rubric-ato/4180243-drones-violate-moldovan-airspace-twice-during-massive-russian-attack-on-ukraine.html",
+      "publishedAt": "2026-11-01T11:48:00.000Z",
+      "excerpt": "Two drones were detected in Moldovan airspace on Saturday, October 31, amid a massive Russian attack on Ukraine.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h745a9600"
+    },
+    {
+      "title": "Four Ukrainian regions see damaged energy facilities — authorities",
+      "url": "https://tass.com/emergencies/2211529",
+      "publishedAt": "2026-11-01T11:42:47.000Z",
+      "excerpt": "Hundreds of thousands of customers were left without electricity, Vladimir Zelensky said",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h5a0e30c7"
+    },
+    {
+      "title": "Zelensky reports strikes on Russian defense industry plant, air defense assets worth $70 million",
+      "url": "https://www.ukrinform.net/rubric-ato/4180240-zelensky-reports-strikes-on-russian-defense-industry-plant-air-defense-assets-worth-70-million.html",
+      "publishedAt": "2026-11-01T11:27:00.000Z",
+      "excerpt": "Ukraine’s Defense Forces struck the Kamensky chemical plant in Russia’s Rostov region, which is involved in missile production, as well as a Pantsir-S2 air defense system and a command-and-staff vehicle of the S-400 Triumf system. The total value of the air defense assets hit is…",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h60931460"
+    },
+    {
+      "title": "First rounds of Ukraine talks should take place in trilateral format — Kremlin aide",
+      "url": "https://tass.com/politics/2211521",
+      "publishedAt": "2026-11-01T10:53:08.000Z",
+      "excerpt": "Representatives from Europe may also be present at the negotiating table, but the process must begin in a trilateral format, Yury Ushakov said",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hc2c0174c"
+    },
+    {
+      "title": "Europe must change in approach to Russia to be part of Ukraine talks — Kremlin",
+      "url": "https://tass.com/politics/2211519",
+      "publishedAt": "2026-11-01T10:49:38.000Z",
+      "excerpt": "Europe’s current stance, which calls for defeating Russia, makes dialogue with Russia impossible, Dmitry Peskov said",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "ha891507d"
+    },
+    {
+      "title": "Russia launches nearly 2,000 attack drones, over 1,500 guided bombs, 44 missiles at Ukraine in one week – Zelensky",
+      "url": "https://www.ukrinform.net/rubric-ato/4180226-russia-launches-nearly-2000-attack-drones-over-1500-guided-bombs-44-missiles-at-ukraine-in-one-week-zelensky.html",
+      "publishedAt": "2026-11-01T10:45:00.000Z",
+      "excerpt": "Russia launched 1,940 attack drones, more than 1,580 guided aerial bombs and 44 missiles of various types, including 36 ballistic missiles, at Ukraine over the past week.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "he88f504f"
+    },
+    {
+      "title": "Putin never refused to talk with Zelensky, who is free to come to Moscow — Kremlin aide",
+      "url": "https://tass.com/politics/2211517",
+      "publishedAt": "2026-11-01T10:15:11.000Z",
+      "excerpt": "Yury Ushakov emphasized that if Vladimir Zelensky wants to speak with the Russian leader in person, he is welcome to visit Moscow",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h13b133c2"
+    },
+    {
+      "title": "Ukraine loses up to 1,175 servicemen in special op zone over past 24 hours — top brass",
+      "url": "https://tass.com/defense/2211515",
+      "publishedAt": "2026-11-01T10:07:53.000Z",
+      "excerpt": "Russian servicemen struck transport and energy infrastructure facilities used by the Ukrainian military, as well as drone storage and launch sites, the Defense Ministry said",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "ha0d09b2a"
+    },
+    {
+      "title": "Russian forces stepping up efforts to expand control in northern Kharkiv region, border guards say",
+      "url": "https://www.ukrinform.net/rubric-ato/4180212-russian-forces-stepping-up-efforts-to-expand-control-in-northern-kharkiv-region-border-guards-say.html",
+      "publishedAt": "2026-11-01T10:00:00.000Z",
+      "excerpt": "Russian troops are making the strongest efforts to expand their area of control in the northern Kharkiv region. In the Chernihiv region, however, they currently lack sufficient forces to launch such attacks.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Kharkiv",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hc65cfac2"
+    },
+    {
+      "title": "Russian drone attacks damage energy facilities in Kyiv region, injure woman",
+      "url": "https://www.ukrinform.net/rubric-ato/4180200-russian-drone-attacks-damage-energy-facilities-in-kyiv-region-injure-woman.html",
+      "publishedAt": "2026-11-01T09:15:00.000Z",
+      "excerpt": "Russian drones attacked the Kyiv region over the course of the day, with damage reported in six districts and a woman injured.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Kyiv",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hf1e2794d"
+    },
+    {
+      "title": "Denmark involved in Ukraine conflict, serving as its ‘logistical base’ — ambassador",
+      "url": "https://tass.com/politics/2211499",
+      "publishedAt": "2026-11-01T08:41:16.000Z",
+      "excerpt": "Vladimir Barbin stressed that Copenhagen is providing \"a substantial amount of grant-based military aid to the Kiev regime,\" which has already exceeded 10.5 billion euros",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h1a906d7b"
+    },
+    {
+      "title": "Kiev forced to introduce emergency power outages",
+      "url": "https://tass.com/emergencies/2211489",
+      "publishedAt": "2026-11-01T06:52:48.000Z",
+      "excerpt": "The cause is damage to the capital’s power grid, the DTEK energy company said",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Kiev",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hb5a3dbcf"
+    },
+    {
+      "title": "Ukraine loses 1.9% of its GDP since beginning of year due to explosions",
+      "url": "https://tass.com/economy/2211485",
+      "publishedAt": "2026-11-01T06:45:18.000Z",
+      "excerpt": "Over the past few months, explosions have occurred in warehouses and at facilities in the military-industrial and energy sectors, as well as at port infrastructure sites and data centers serving the Ukrainian armed forces",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h15d745fa"
+    },
+    {
+      "title": "Russia's war casualty toll in Ukraine up by 2,100 over past day",
+      "url": "https://www.ukrinform.net/rubric-ato/4180167-russias-war-casualty-toll-in-ukraine-up-by-2100-over-past-day.html",
+      "publishedAt": "2026-11-01T06:45:00.000Z",
+      "excerpt": "The total combat losses of Russian forces in the war against Ukraine from February 24, 2022, to November 1, 2026, have reached approximately 1,590,270 personnel, including 2,100 troops killed or wounded over the past 24 hours.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h55e5f117"
+    },
+    {
+      "title": "Air defense neutralizes 371 of 433 Russian drones launched against Ukraine overnight",
+      "url": "https://www.ukrinform.net/rubric-ato/4180165-air-defense-neutralizes-371-of-433-russian-drones-launched-against-ukraine-overnight.html",
+      "publishedAt": "2026-11-01T06:23:00.000Z",
+      "excerpt": "Ukraine's air defense forces neutralized 371 out of the 433 drones used by Russian troops to attack Ukraine since the evening of October 31.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hffcf2d8a"
+    },
+    {
+      "title": "Russian forces strike Zaporizhzhia region 699 times in past 24 hours, six injured",
+      "url": "https://www.ukrinform.net/rubric-ato/4180161-russian-forces-strike-zaporizhzhia-region-699-times-in-past-24-hours-six-injured.html",
+      "publishedAt": "2026-11-01T05:58:00.000Z",
+      "excerpt": "Russian troops launched 699 attacks on 55 settlements in the Zaporizhzhia region over the past 24 hours. Six people were injured in enemy attacks on the Zaporizhzhia district.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Zaporizhzhia",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h6a43a351"
+    },
+    {
+      "title": "Trump says he will invite Zelensky to G20 summit",
+      "url": "https://www.ukrinform.net/rubric-polytics/4180160-trump-says-he-will-invite-zelensky-to-g20-summit.html",
+      "publishedAt": "2026-11-01T05:45:00.000Z",
+      "excerpt": "U.S. President Donald Trump has said that he will invite Ukrainian President Volodymyr Zelensky to the G20 summit, which will be held in Miami in mid-December.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hb726eaef"
+    },
+    {
+      "title": "Zelensky thanks Melania Trump for mediation in securing ceasefire in Oleshky",
+      "url": "https://www.ukrinform.net/rubric-polytics/4180158-zelensky-thanks-melania-trump-for-mediation-in-securing-ceasefire-in-oleshky.html",
+      "publishedAt": "2026-11-01T05:22:00.000Z",
+      "excerpt": "Ukrainian President Volodymyr Zelensky has thanked U.S. First Lady Melania Trump for her mediation in arranging a ceasefire in the temporarily occupied city of Oleshky and said Ukraine would support the continuation of the initiative.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Oleshky",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "haaac088c"
+    },
+    {
+      "title": "Trump says peace deal between Ukraine and Russia getting closer",
+      "url": "https://www.ukrinform.net/rubric-polytics/4180157-trump-says-peace-deal-between-ukraine-and-russia-getting-closer.html",
+      "publishedAt": "2026-11-01T05:00:00.000Z",
+      "excerpt": "U.S. President Donald Trump has once again said that the United States is bringing an agreement to end the war in Ukraine closer.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hf99ac858"
+    },
+    {
+      "title": "Zelensky meets with Ecumenical Patriarch Bartholomew",
+      "url": "https://www.ukrinform.net/rubric-polytics/4180156-zelensky-meets-with-ecumenical-patriarch-bartholomew.html",
+      "publishedAt": "2026-11-01T04:41:00.000Z",
+      "excerpt": "Ukrainian President Volodymyr Zelensky, during a meeting with Ecumenical Patriarch Bartholomew, congratulated him on the 35th anniversary of his enthronement, which will be marked on November 2.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h735fc5f5"
+    },
+    {
+      "title": "Zelensky awards 733 service members, including 255 posthumously",
+      "url": "https://www.ukrinform.net/rubric-ato/4180023-zelensky-awards-733-service-members-including-255-posthumously.html",
+      "publishedAt": "2026-11-01T01:24:00.000Z",
+      "excerpt": "Ukrainian President Volodymyr Zelensky has awarded state honors to 733 service members, including 255 posthumously.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hb1b2835"
+    },
+    {
+      "title": "Heroin and cocaine not produced in Ukraine – police",
+      "url": "https://www.ukrinform.net/rubric-crime/4179951-heroin-and-cocaine-not-produced-in-ukraine-police.html",
+      "publishedAt": "2026-10-31T23:35:00.000Z",
+      "excerpt": "Heroin and cocaine are not manufactured in Ukraine, the National Police of Ukraine has said.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h3504b7fc"
+    },
+    {
+      "title": "Ukraine and NATO to deepen cooperation on innovative technologies",
+      "url": "https://www.ukrinform.net/rubric-polytics/4179942-ukraine-and-nato-to-deepen-cooperation-on-innovative-technologies.html",
+      "publishedAt": "2026-10-31T22:40:00.000Z",
+      "excerpt": "Deputy Minister of Defense of Ukraine Sergiy Boyev and representatives of NATO’s Defense Innovation Accelerator for the North Atlantic (DIANA) signed a memorandum of understanding to deepen cooperation in the joint development, testing and adoption of innovative technologies.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h7c56c991"
+    },
+    {
+      "title": "Zelensky outlines possible dates for trilateral meeting between Ukraine, US, Russia",
+      "url": "https://www.ukrinform.net/rubric-polytics/4180138-zelensky-outlines-possible-dates-for-trilateral-meeting-between-ukraine-us-russia.html",
+      "publishedAt": "2026-10-31T21:55:00.000Z",
+      "excerpt": "Technical-level trilateral talks between Ukraine, the United States and Russia could take place in Abu Dhabi on November 6-10, although the exact date and venue have not yet been finalized.",
+      "outlet": "Ukrinform",
+      "outletType": "State news agency",
+      "country": "Ukraine",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h6dc25ccc"
+    },
+    {
+      "title": "US not claiming negotiated Ukraine settlement anywhere close — Rubio",
+      "url": "https://tass.com/world/2211405",
+      "publishedAt": "2026-10-31T18:17:22.000Z",
+      "excerpt": "US Secretary of State said that at a press conference following the G20 foreign ministers’ meeting in Atlanta, Georgia",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hbfe0ad6f"
+    },
+    {
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T17:53:35.000Z",
+      "excerpt": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "outlet": "BBC News",
+      "outletType": "Public broadcaster",
+      "country": "United Kingdom",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h407a4cc4"
+    },
+    {
+      "title": "Finnish president says he, Norwegian PM called Putin at Kiev’s request",
+      "url": "https://tass.com/world/2211391",
+      "publishedAt": "2026-10-31T16:14:29.000Z",
+      "excerpt": "Alexander Stubb also noted, that other European countries \"were aware of the contents\" of the conversation",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Kiev",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h2b4a2531"
+    },
+    {
+      "title": "Ukraine faces complicated situation with power supplies, says Zelensky",
+      "url": "https://tass.com/economy/2211361",
+      "publishedAt": "2026-10-31T13:20:23.000Z",
+      "excerpt": "He reported about strikes delivered against thermal power plants in Kiev, Dnepropetrovsk and Kharkov",
+      "outlet": "TASS",
+      "outletType": "State news agency",
+      "country": "Russia",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h58638960"
+    },
+    {
+      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "excerpt": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Oleshky",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "he8e833f2"
+    },
+    {
+      "title": "Cameroon families demand return of relatives from Ukraine",
+      "url": "http://www.africanews.com/2026/10/29/cameroon-families-demand-return-of-relatives-from-ukraine/",
+      "publishedAt": "2026-10-30T09:10:34.000Z",
+      "excerpt": "In Cameroon, the “Bring Back Our Sons and Brothers” collective organised a peaceful march on Wednesday, 28 October, to the Russian embassy. They are calling on Russia and the Cameroonian government to work together to dismantle networks recruiting Cameroonians clandestinely into…",
+      "outlet": "Africanews",
+      "outletType": "Private broadcaster",
+      "country": "Pan-African",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h8394d785"
+    },
+    {
+      "title": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
+      "url": "http://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/",
+      "publishedAt": "2026-10-29T23:15:11.000Z",
+      "excerpt": "A Russian strike on Chernihiv killed two 15-year-old girls and injured 25 people, local officials say. Meanwhile, a US-brokered ceasefire in southern Ukraine is allowing demining work aimed at opening humanitarian routes.",
+      "outlet": "Africanews",
+      "outletType": "Private broadcaster",
+      "country": "Pan-African",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "Chernihiv",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h1bf8e89a"
+    },
+    {
+      "title": "Russia drone strike on Ukrainian railway station kills 13",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168702",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "excerpt": "The UN’s top humanitarian official in Ukraine on Thursday condemned a Russian drone attack on the city of Dnipro that killed at least 13 civilians and injured 10 others at its main railway station.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h9df9e915"
+    },
+    {
+      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+      "publishedAt": "2026-10-27T12:00:00.000Z",
+      "excerpt": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of another bitterly cold winter.",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h76ce0b5"
+    },
+    {
+      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
+      "excerpt": "Top human rights experts investigating Russia’s full-scale invasion of Ukraine&nbsp;said on Monday that the Russian authorities had committed war crimes and crimes against humanity by attacking civilians and vital energy infrastructure, among other violations of international…",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h52b2920b"
+    },
+    {
+      "title": "Will Trump Help Putin Win in Ukraine?",
+      "url": "https://www.crisisgroup.org/pod/europe/ukraine/will-trump-help-putin-win-ukraine",
+      "publishedAt": "2026-10-23T16:13:23.000Z",
+      "excerpt": "Will Trump Help Putin Win in Ukraine? hschaub Fri, 10/23/2026 - 18:13 Latest Updates Africa Asia-Pacific Europe Latin America & Caribbean Middle East & North Africa United States Global Issues & Institutions My Reading List Podcast / Europe 23 October 2026 1 minute Will Trump…",
+      "outlet": "International Crisis Group",
+      "outletType": "Research organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hcf36a887"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "Ukrinform",
+      "outletType": "State news agency",
+      "count": 16
+    },
+    {
+      "name": "TASS",
+      "outletType": "State news agency",
+      "count": 12
+    },
+    {
+      "name": "UN News",
+      "outletType": "International organization",
+      "count": 4
+    },
+    {
+      "name": "Africanews",
+      "outletType": "Private broadcaster",
+      "count": 2
+    },
+    {
+      "name": "BBC News",
+      "outletType": "Public broadcaster",
+      "count": 1
+    },
+    {
+      "name": "International Crisis Group",
+      "outletType": "Research organization",
+      "count": 1
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+      "casualties": "Reference lines are quoted from a Wikipedia infobox. Live lines are headlines. A number is shown only when that source wrote it. Sample ranges are left off this page because a sourced line was found.",
+      "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+      "territory": "Headlines that use words such as seized, captured, or control. The headline is the claim.",
+      "weapons": "Weapon counts are numbers written next to a weapon word in a headline. Nothing was added."
+    },
+    "movements": [
+      {
+        "id": "ua-mv-1",
+        "text": "Sample statement: a unit moved a short distance west of the illustrated front during the layout day.",
+        "claimedBy": "Sample: Ukrainian General Staff",
+        "partyId": "ua",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated Donetsk sector"
+      },
+      {
+        "id": "ru-mv-1",
+        "text": "Sample statement: a unit moved a short distance east of the same illustrated front during the layout day.",
+        "claimedBy": "Sample: Russian Ministry of Defence",
+        "partyId": "ru",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated Donetsk sector"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "wiki-infobox",
+        "topic": "Wikipedia infobox",
+        "summary": "Quoted from the Wikipedia infobox. If the infobox gives more than one side’s figure, each field is kept. This page does not turn them into one number.",
+        "claims": [
+          {
+            "id": "wiki-russia-ukraine-casualties3",
+            "text": "Hundreds of thousands, reports vary widely. See Casualties of the Russo-Ukrainian war for details.",
+            "claimedBy": "Wikipedia infobox, field casualties3",
+            "partyId": null,
+            "verification": "single-source",
+            "origin": "reference",
+            "sources": [
+              {
+                "name": "Wikipedia: Russo-Ukrainian war",
+                "url": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+                "note": "Quoted from the infobox. Wikipedia text is CC BY-SA 4.0. This is not a figure calculated by this app.",
+                "kind": "reference"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "grp-0-place not named",
+        "topic": "Figures written in headlines: place not named",
+        "summary": "These headlines give different figures for the same named place. Both stay. This page does not pick one.",
+        "claims": [
+          {
+            "id": "live-russia-ukraine-8",
+            "text": "“Ukraine loses up to 1,175 servicemen in special op zone over past 24 hours — top brass”",
+            "claimedBy": "top brass",
+            "partyId": "ua",
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "TASS",
+                "url": "https://tass.com/defense/2211515",
+                "publishedAt": "2026-11-01T10:07:53.000Z",
+                "note": "State news agency",
+                "kind": "article"
+              }
+            ],
+            "area": null,
+            "low": 1175,
+            "high": 1175,
+            "unit": "people; the headline says up to this"
+          },
+          {
+            "id": "live-russia-ukraine-14",
+            "text": "“Russia's war casualty toll in Ukraine up by 2,100 over past day”",
+            "claimedBy": "Ukrinform",
+            "partyId": "ua",
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "Ukrinform",
+                "url": "https://www.ukrinform.net/rubric-ato/4180167-russias-war-casualty-toll-in-ukraine-up-by-2100-over-past-day.html",
+                "publishedAt": "2026-11-01T06:45:00.000Z",
+                "note": "State news agency",
+                "kind": "article"
+              }
+            ],
+            "area": null,
+            "low": 2100,
+            "high": 2100,
+            "unit": "people; as written in the headline"
+          },
+          {
+            "id": "live-russia-ukraine-32",
+            "text": "“Russia drone strike on Ukrainian railway station kills 13”",
+            "claimedBy": "UN News",
+            "partyId": "ru",
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "UN News",
+                "url": "https://news.un.org/feed/view/en/story/2026/10/1168702",
+                "publishedAt": "2026-10-29T12:00:00.000Z",
+                "note": "International organization",
+                "kind": "article"
+              }
+            ],
+            "area": null,
+            "low": 13,
+            "high": 13,
+            "unit": "people; as written in the headline"
+          }
+        ]
+      },
+      {
+        "id": "grp-1-Zaporizhzhia",
+        "topic": "Figures written in headlines: Zaporizhzhia",
+        "summary": "Each line is a headline from this pull. The figure, if shown, is a number written in that headline.",
+        "claims": [
+          {
+            "id": "live-russia-ukraine-16",
+            "text": "“Russian forces strike Zaporizhzhia region 699 times in past 24 hours, six injured”",
+            "claimedBy": "Ukrinform",
+            "partyId": "ru",
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "Ukrinform",
+                "url": "https://www.ukrinform.net/rubric-ato/4180161-russian-forces-strike-zaporizhzhia-region-699-times-in-past-24-hours-six-injured.html",
+                "publishedAt": "2026-11-01T05:58:00.000Z",
+                "note": "State news agency",
+                "kind": "article"
+              }
+            ],
+            "area": "Zaporizhzhia",
+            "low": 6,
+            "high": 6,
+            "unit": "people; as written in the headline"
+          }
+        ]
+      },
+      {
+        "id": "grp-2-Chernihiv",
+        "topic": "Figures written in headlines: Chernihiv",
+        "summary": "Each line is a headline from this pull. The figure, if shown, is a number written in that headline.",
+        "claims": [
+          {
+            "id": "live-russia-ukraine-31",
+            "text": "“Ukraine: Russian strike kills two teenage girls in Chernihiv”",
+            "claimedBy": "Africanews",
+            "partyId": "ua",
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "Africanews",
+                "url": "http://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/",
+                "publishedAt": "2026-10-29T23:15:11.000Z",
+                "note": "Private broadcaster",
+                "kind": "article"
+              }
+            ],
+            "area": "Chernihiv",
+            "low": 2,
+            "high": 2,
+            "unit": "people; as written in the headline"
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "ua-u-1",
+        "name": "Sample unit U-1",
+        "partyId": "ua",
+        "area": "West of the illustrated front",
+        "text": "Fictional unit placed so a Ukrainian marker has a home on the map.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "ru-u-1",
+        "name": "Sample unit R-1",
+        "partyId": "ru",
+        "area": "East of the illustrated front",
+        "text": "Fictional unit placed so a Russian marker has a home on the map.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "grp-0-Kharkiv",
+        "topic": "Territory language in headlines: Kharkiv",
+        "summary": "Each line is a headline from this pull. The figure, if shown, is a number written in that headline.",
+        "claims": [
+          {
+            "id": "live-russia-ukraine-9",
+            "text": "“Russian forces stepping up efforts to expand control in northern Kharkiv region, border guards say”",
+            "claimedBy": "border guards",
+            "partyId": "ru",
+            "verification": "single-source",
+            "origin": "live",
+            "sources": [
+              {
+                "name": "Ukrinform",
+                "url": "https://www.ukrinform.net/rubric-ato/4180212-russian-forces-stepping-up-efforts-to-expand-control-in-northern-kharkiv-region-border-guards-say.html",
+                "publishedAt": "2026-11-01T10:00:00.000Z",
+                "note": "State news agency",
+                "kind": "article"
+              }
+            ],
+            "area": "Kharkiv"
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "live-russia-ukraine-1",
+        "text": "“Drones violate Moldovan airspace twice during massive Russian attack on Ukraine”",
+        "claimedBy": "Ukrinform",
+        "partyId": "ua",
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "Ukrinform",
+            "url": "https://www.ukrinform.net/rubric-ato/4180243-drones-violate-moldovan-airspace-twice-during-massive-russian-attack-on-ukraine.html",
+            "publishedAt": "2026-11-01T11:48:00.000Z",
+            "note": "State news agency",
+            "kind": "article"
+          }
+        ],
+        "area": null,
+        "weaponType": "drone",
+        "name": "drone mentioned in a headline",
+        "low": null,
+        "high": null
+      },
+      {
+        "id": "live-russia-ukraine-6",
+        "text": "“Russia launches nearly 2,000 attack drones, over 1,500 guided bombs, 44 missiles at Ukraine in one week – Zelensky”",
+        "claimedBy": "Zelensky",
+        "partyId": "ua",
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "Ukrinform",
+            "url": "https://www.ukrinform.net/rubric-ato/4180226-russia-launches-nearly-2000-attack-drones-over-1500-guided-bombs-44-missiles-at-ukraine-in-one-week-zelensky.html",
+            "publishedAt": "2026-11-01T10:45:00.000Z",
+            "note": "State news agency",
+            "kind": "article"
+          }
+        ],
+        "area": null,
+        "weaponType": "drone",
+        "name": "2,000 drones written in the headline",
+        "low": 2000,
+        "high": 2000
+      },
+      {
+        "id": "live-russia-ukraine-10",
+        "text": "“Russian drone attacks damage energy facilities in Kyiv region, injure woman”",
+        "claimedBy": "Ukrinform",
+        "partyId": "ru",
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "Ukrinform",
+            "url": "https://www.ukrinform.net/rubric-ato/4180200-russian-drone-attacks-damage-energy-facilities-in-kyiv-region-injure-woman.html",
+            "publishedAt": "2026-11-01T09:15:00.000Z",
+            "note": "State news agency",
+            "kind": "article"
+          }
+        ],
+        "area": "Kyiv",
+        "weaponType": "drone",
+        "name": "drone mentioned in a headline",
+        "low": null,
+        "high": null
+      },
+      {
+        "id": "live-russia-ukraine-15",
+        "text": "“Air defense neutralizes 371 of 433 Russian drones launched against Ukraine overnight”",
+        "claimedBy": "Ukrinform",
+        "partyId": "ua",
+        "verification": "single-source",
+        "origin": "live",
+        "sources": [
+          {
+            "name": "Ukrinform",
+            "url": "https://www.ukrinform.net/rubric-ato/4180165-air-defense-neutralizes-371-of-433-russian-drones-launched-against-ukraine-overnight.html",
+            "publishedAt": "2026-11-01T06:23:00.000Z",
+            "note": "State news agency",
+            "kind": "article"
+          }
+        ],
+        "area": null,
+        "weaponType": "drone",
+        "name": "371 drones written in the headline",
+        "low": 371,
+        "high": 433
+      }
+    ],
+    "casualtyTrend": null,
+    "markers": [
+      {
+        "id": "pin-russia-ukraine-9",
+        "kind": "clash",
+        "origin": "live",
+        "lat": 49.9925,
+        "lng": 36.23111111,
+        "title": "Kharkiv",
+        "detail": "Russian forces stepping up efforts to expand control in northern Kharkiv region, border guards say",
+        "partyId": "ru",
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "border guards",
+        "sources": [
+          {
+            "name": "Ukrinform",
+            "url": "https://www.ukrinform.net/rubric-ato/4180212-russian-forces-stepping-up-efforts-to-expand-control-in-northern-kharkiv-region-border-guards-say.html",
+            "publishedAt": "2026-11-01T10:00:00.000Z",
+            "note": "State news agency",
+            "kind": "article"
+          }
+        ]
+      },
+      {
+        "id": "pin-russia-ukraine-10",
+        "kind": "weapon",
+        "origin": "live",
+        "lat": 50.45,
+        "lng": 30.52333333,
+        "title": "Kyiv",
+        "detail": "Russian drone attacks damage energy facilities in Kyiv region, injure woman",
+        "partyId": "ru",
+        "weaponType": "drone",
+        "verification": "single-source",
+        "claimedBy": "Ukrinform",
+        "sources": [
+          {
+            "name": "Ukrinform",
+            "url": "https://www.ukrinform.net/rubric-ato/4180200-russian-drone-attacks-damage-energy-facilities-in-kyiv-region-injure-woman.html",
+            "publishedAt": "2026-11-01T09:15:00.000Z",
+            "note": "State news agency",
+            "kind": "article"
+          }
+        ]
+      },
+      {
+        "id": "pin-russia-ukraine-16",
+        "kind": "event",
+        "origin": "live",
+        "lat": 47.85,
+        "lng": 35.1175,
+        "title": "Zaporizhzhia",
+        "detail": "Russian forces strike Zaporizhzhia region 699 times in past 24 hours, six injured",
+        "partyId": "ru",
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Ukrinform",
+        "sources": [
+          {
+            "name": "Ukrinform",
+            "url": "https://www.ukrinform.net/rubric-ato/4180161-russian-forces-strike-zaporizhzhia-region-699-times-in-past-24-hours-six-injured.html",
+            "publishedAt": "2026-11-01T05:58:00.000Z",
+            "note": "State news agency",
+            "kind": "article"
+          }
+        ]
+      },
+      {
+        "id": "pin-russia-ukraine-31",
+        "kind": "event",
+        "origin": "live",
+        "lat": 51.49388889,
+        "lng": 31.29472222,
+        "title": "Chernihiv",
+        "detail": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
+        "partyId": "ua",
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Africanews",
+        "sources": [
+          {
+            "name": "Africanews",
+            "url": "http://www.africanews.com/2026/10/30/ukraine-russian-strike-kills-two-teenage-girls-in-chernihiv/",
+            "publishedAt": "2026-10-29T23:15:11.000Z",
+            "note": "Private broadcaster",
+            "kind": "article"
+          }
+        ]
+      },
+      {
+        "id": "ref-russia-ukraine-Kyiv",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 50.45,
+        "lng": 30.52333333,
+        "title": "Kyiv",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Kyiv",
+            "url": "https://en.wikipedia.org/wiki/Kyiv",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-russia-ukraine-Kharkiv",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 49.9925,
+        "lng": 36.23111111,
+        "title": "Kharkiv",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Kharkiv",
+            "url": "https://en.wikipedia.org/wiki/Kharkiv",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-russia-ukraine-Zaporizhzhia",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 47.85,
+        "lng": 35.1175,
+        "title": "Zaporizhzhia",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Zaporizhzhia",
+            "url": "https://en.wikipedia.org/wiki/Zaporizhzhia",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-russia-ukraine-Chernihiv",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 51.49388889,
+        "lng": 31.29472222,
+        "title": "Chernihiv",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Chernihiv",
+            "url": "https://en.wikipedia.org/wiki/Chernihiv",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-russia-ukraine-Oleshky",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 46.61666667,
+        "lng": 32.71666667,
+        "title": "Oleshky",
+        "detail": "A place named in a headline in this pull. The coordinate is the Wikipedia summary coordinate, for orientation. It is not a damage assessment.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Oleshky",
+            "url": "https://en.wikipedia.org/wiki/Oleshky",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ua-ref-donetsk",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 48.02,
+        "lng": 37.8,
+        "title": "Donetsk",
+        "detail": "City marker for orientation. Not a statement of who holds it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": []
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 36,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 3 casualty groups, 4 weapon lines, 1 territory lines, 0 movement lines, 4 mapped places."
+    ]
+  }
+}

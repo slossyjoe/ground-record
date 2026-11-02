@@ -1,0 +1,561 @@
+{
+  "notes": {
+    "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+    "casualties": "Sample illustration. The ranges were invented so two competing claims can sit side by side. This page does not adopt either number.",
+    "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+    "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+    "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+  },
+  "movements": [
+    {
+      "id": "et-mv-1",
+      "text": "Sample statement: a column moved inside the illustrated Amhara box.",
+      "claimedBy": "Sample: federal statement",
+      "partyId": "federal",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated Amhara box"
+    },
+    {
+      "id": "et-mv-2",
+      "text": "Sample statement: a local force moved inside the illustrated Oromia box.",
+      "claimedBy": "Sample: Oromo Liberation Army statement",
+      "partyId": "ola",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "low": null,
+      "high": null,
+      "unit": null,
+      "area": "Illustrated Oromia box"
+    }
+  ],
+  "casualtyGroups": [
+    {
+      "id": "et-cas-1",
+      "topic": "Deaths for the illustrated day",
+      "summary": "These sample figures are for separate illustrated boxes. They are not a national total.",
+      "claims": [
+        {
+          "id": "et-cas-a",
+          "text": "Deaths in the illustrated Amhara box.",
+          "claimedBy": "Sample: medical statement",
+          "partyId": "fano",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 10,
+          "high": 25,
+          "unit": "people",
+          "area": null
+        },
+        {
+          "id": "et-cas-b",
+          "text": "Deaths described as opposing fighters in that box.",
+          "claimedBy": "Sample: federal statement",
+          "partyId": "federal",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": 4,
+          "high": 12,
+          "unit": "fighters",
+          "area": null
+        }
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "et-u-1",
+      "name": "Sample unit E-1",
+      "partyId": "federal",
+      "area": "Illustrated Amhara box",
+      "text": "Fictional unit.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "et-u-2",
+      "name": "Sample unit E-2",
+      "partyId": "fano",
+      "area": "Illustrated Amhara box",
+      "text": "Fictional unit.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "et-u-3",
+      "name": "Sample unit E-3",
+      "partyId": "ola",
+      "area": "Illustrated Oromia box",
+      "text": "Fictional unit, a different region from the Amhara pins.",
+      "claimedBy": "Sample dataset — not a real unit",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "territory": [
+    {
+      "id": "et-ter-1",
+      "topic": "Illustrated district edge",
+      "summary": "Entered, in one sample. Not held, in the other.",
+      "claims": [
+        {
+          "id": "et-ter-a",
+          "text": "The illustrated edge is described as entered.",
+          "claimedBy": "Sample: Fano statement",
+          "partyId": "fano",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        },
+        {
+          "id": "et-ter-b",
+          "text": "The same edge is described as not held.",
+          "claimedBy": "Sample: federal statement",
+          "partyId": "federal",
+          "verification": "unverified",
+          "origin": "sample",
+          "sources": [
+            {
+              "name": "Sample dataset",
+              "note": "Written so the page has a shape. Not a published report and not a measurement.",
+              "kind": "placeholder"
+            }
+          ],
+          "low": null,
+          "high": null,
+          "unit": null,
+          "area": null
+        }
+      ]
+    }
+  ],
+  "weapons": [
+    {
+      "id": "et-w-1",
+      "weaponType": "drone",
+      "name": "Sample drone mention",
+      "partyId": "federal",
+      "area": "Illustrated Amhara box",
+      "text": "Fictional drone card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "et-w-2",
+      "weaponType": "artillery",
+      "name": "Sample artillery mention",
+      "partyId": "federal",
+      "area": "Illustrated Oromia box",
+      "text": "Fictional artillery card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "et-w-3",
+      "weaponType": "small-arms",
+      "name": "Sample small-arms mention",
+      "partyId": "fano",
+      "area": "Illustrated Amhara box",
+      "text": "Fictional small-arms card.",
+      "claimedBy": "Sample dataset — not a sighting",
+      "verification": "unverified",
+      "origin": "sample",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "casualtyTrend": {
+    "origin": "sample",
+    "unit": "people, claimed range",
+    "caption": "Illustrative ranges for one box only. Not an Ethiopia-wide toll.",
+    "points": [
+      {
+        "date": "2026-10-29",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "fano",
+            "low": 8,
+            "high": 18
+          },
+          {
+            "id": "by-fed",
+            "label": "Sample federal statement, opposing fighters",
+            "partyId": "federal",
+            "low": 3,
+            "high": 8
+          }
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "fano",
+            "low": 9,
+            "high": 22
+          },
+          {
+            "id": "by-fed",
+            "label": "Sample federal statement, opposing fighters",
+            "partyId": "federal",
+            "low": 4,
+            "high": 10
+          }
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "values": [
+          {
+            "id": "by-med",
+            "label": "Sample medical statement, people killed",
+            "partyId": "fano",
+            "low": 10,
+            "high": 25
+          },
+          {
+            "id": "by-fed",
+            "label": "Sample federal statement, opposing fighters",
+            "partyId": "federal",
+            "low": 4,
+            "high": 12
+          }
+        ]
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "et-ref-addis",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 9.03,
+      "lng": 38.74,
+      "title": "Addis Ababa",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "et-ref-bahir",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 11.59,
+      "lng": 37.39,
+      "title": "Bahir Dar",
+      "detail": "City marker for orientation.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "et-ref-mekelle",
+      "kind": "reference",
+      "origin": "reference",
+      "lat": 13.5,
+      "lng": 39.47,
+      "title": "Mekelle",
+      "detail": "City marker for orientation. Not a claim that the Tigray war has resumed.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "single-source",
+      "claimedBy": "Reference geography",
+      "sources": [
+        {
+          "name": "Open map orientation",
+          "url": null,
+          "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "et-unit-f",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 11.4,
+      "lng": 37.8,
+      "title": "SAMPLE — unit E-1",
+      "detail": "Fictional federal unit in the Amhara box.",
+      "partyId": "federal",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "et-unit-n",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 11.7,
+      "lng": 38.2,
+      "title": "SAMPLE — unit E-2",
+      "detail": "Fictional Fano unit.",
+      "partyId": "fano",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "et-unit-o",
+      "kind": "unit",
+      "origin": "sample",
+      "lat": 8.4,
+      "lng": 40.2,
+      "title": "SAMPLE — unit E-3",
+      "detail": "Fictional unit in the Oromia box.",
+      "partyId": "ola",
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "et-clash",
+      "kind": "clash",
+      "origin": "sample",
+      "lat": 11.5,
+      "lng": 38.0,
+      "title": "SAMPLE — clash",
+      "detail": "Fictional clash marker.",
+      "partyId": null,
+      "weaponType": null,
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    },
+    {
+      "id": "et-weapon",
+      "kind": "weapon",
+      "origin": "sample",
+      "lat": 11.3,
+      "lng": 37.6,
+      "title": "SAMPLE — drone",
+      "detail": "Fictional weapon marker.",
+      "partyId": "federal",
+      "weaponType": "drone",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ]
+    }
+  ],
+  "shapes": [
+    {
+      "id": "et-ctrl-a",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "fano",
+      "title": "SAMPLE — illustrated Amhara box",
+      "detail": "Small sample polygon.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          37.5,
+          11.2
+        ],
+        [
+          38.4,
+          11.2
+        ],
+        [
+          38.4,
+          11.9
+        ],
+        [
+          37.5,
+          11.9
+        ],
+        [
+          37.5,
+          11.2
+        ]
+      ]
+    },
+    {
+      "id": "et-ctrl-b",
+      "kind": "control",
+      "origin": "sample",
+      "partyId": "ola",
+      "title": "SAMPLE — illustrated Oromia box",
+      "detail": "Small sample polygon, a different region.",
+      "verification": "unverified",
+      "claimedBy": "Sample dataset",
+      "sources": [
+        {
+          "name": "Sample dataset",
+          "note": "Written so the page has a shape. Not a published report and not a measurement.",
+          "kind": "placeholder"
+        }
+      ],
+      "coordinates": [
+        [
+          39.8,
+          8.1
+        ],
+        [
+          40.6,
+          8.1
+        ],
+        [
+          40.6,
+          8.8
+        ],
+        [
+          39.8,
+          8.8
+        ],
+        [
+          39.8,
+          8.1
+        ]
+      ]
+    }
+  ]
+}

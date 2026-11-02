@@ -1,0 +1,610 @@
+{
+  "conflictId": "somalia",
+  "date": "2026-11-01",
+  "background": {
+    "origin": "live",
+    "title": "Somali Civil War",
+    "description": "Ongoing civil war in East Africa",
+    "extract": "The Somali Civil War is an ongoing civil war that is taking place in Somalia. It grew out of resistance to the military junta led by Siad Barre during the 1980s.",
+    "url": "https://en.wikipedia.org/wiki/Somali_Civil_War",
+    "license": "Wikipedia text is available under CC BY-SA 4.0",
+    "fetchedAt": "2026-11-01T12:15:35.673Z",
+    "verification": "single-source",
+    "claimedBy": "Wikipedia contributors"
+  },
+  "headlines": [
+    {
+      "title": "Somalia looks to the future as the UN's political mission closes",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168714",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "excerpt": "“The story of the UN's political engagement in Somalia has been one of persistence, partnership and adaptation,”&nbsp;Raisedon Zenenga, the UN Secretary-General's Deputy Special Representative for Somalia has said, as three decades of UN political missions in the Horn of Africa…",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "hc94c5d4b"
+    },
+    {
+      "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168674",
+      "publishedAt": "2026-10-26T12:00:00.000Z",
+      "excerpt": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.&nbsp;",
+      "outlet": "UN News",
+      "outletType": "International organization",
+      "country": "International",
+      "via": "RSS",
+      "tokenSet": {},
+      "place": "",
+      "nums": {},
+      "verification": "single-source",
+      "origin": "live",
+      "alsoReportedBy": [],
+      "related": [],
+      "id": "h841b669e"
+    }
+  ],
+  "outletCounts": [
+    {
+      "name": "UN News",
+      "outletType": "International organization",
+      "count": 2
+    }
+  ],
+  "datasetEvents": [],
+  "baseline": {
+    "notes": {
+      "movements": "Sample illustration. These cards were written for the layout. They are not a field report.",
+      "casualties": "Sample illustration. The ranges were invented so two competing claims can sit side by side. This page does not adopt either number.",
+      "units": "Sample illustration. Unit names are fictional. The pins sit in the right country so the map is recognizable.",
+      "territory": "Sample illustration. A gain claimed by one side and denied by the other. Neither version is chosen.",
+      "weapons": "Sample illustration. Weapon cards show how a sighting would be labeled. They are not sightings."
+    },
+    "movements": [
+      {
+        "id": "so-mv-1",
+        "text": "Sample statement: a patrol moved out from the illustrated capital box.",
+        "claimedBy": "Sample: federal statement",
+        "partyId": "fgs",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated capital box"
+      },
+      {
+        "id": "so-mv-2",
+        "text": "Sample statement: a group moved on the illustrated southern road.",
+        "claimedBy": "Sample: al-Shabaab statement",
+        "partyId": "shabaab",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "low": null,
+        "high": null,
+        "unit": null,
+        "area": "Illustrated southern road"
+      }
+    ],
+    "casualtyGroups": [
+      {
+        "id": "so-cas-1",
+        "topic": "Deaths for the illustrated day",
+        "summary": "Two sample statements. Not reconciled.",
+        "claims": [
+          {
+            "id": "so-cas-a",
+            "text": "Deaths described as soldiers and civilians.",
+            "claimedBy": "Sample: federal statement",
+            "partyId": "fgs",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": 8,
+            "high": 20,
+            "unit": "people",
+            "area": null
+          },
+          {
+            "id": "so-cas-b",
+            "text": "Deaths described as soldiers only.",
+            "claimedBy": "Sample: al-Shabaab statement",
+            "partyId": "shabaab",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": 4,
+            "high": 12,
+            "unit": "soldiers",
+            "area": null
+          }
+        ]
+      }
+    ],
+    "units": [
+      {
+        "id": "so-u-1",
+        "name": "Sample unit F-1",
+        "partyId": "fgs",
+        "area": "Illustrated capital box",
+        "text": "Fictional unit.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "so-u-2",
+        "name": "Sample unit A-1",
+        "partyId": "shabaab",
+        "area": "Illustrated southern road",
+        "text": "Fictional unit.",
+        "claimedBy": "Sample dataset — not a real unit",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "territory": [
+      {
+        "id": "so-ter-1",
+        "topic": "Illustrated town",
+        "summary": "Cleared, in one sample. Still entered at night, in the other.",
+        "claims": [
+          {
+            "id": "so-ter-a",
+            "text": "The illustrated town is described as cleared.",
+            "claimedBy": "Sample: federal statement",
+            "partyId": "fgs",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          },
+          {
+            "id": "so-ter-b",
+            "text": "The same town is described as still entered at night.",
+            "claimedBy": "Sample: al-Shabaab statement",
+            "partyId": "shabaab",
+            "verification": "unverified",
+            "origin": "sample",
+            "sources": [
+              {
+                "name": "Sample dataset",
+                "note": "Written so the page has a shape. Not a published report and not a measurement.",
+                "kind": "placeholder"
+              }
+            ],
+            "low": null,
+            "high": null,
+            "unit": null,
+            "area": null
+          }
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "id": "so-w-1",
+        "weaponType": "armor",
+        "name": "Sample vehicle mention",
+        "partyId": "fgs",
+        "area": "Illustrated capital box",
+        "text": "Fictional vehicle card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "so-w-2",
+        "weaponType": "drone",
+        "name": "Sample drone mention",
+        "partyId": "fgs",
+        "area": "Illustrated southern road",
+        "text": "Fictional drone card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "so-w-3",
+        "weaponType": "small-arms",
+        "name": "Sample small-arms mention",
+        "partyId": "shabaab",
+        "area": "Illustrated southern road",
+        "text": "Fictional small-arms card.",
+        "claimedBy": "Sample dataset — not a sighting",
+        "verification": "unverified",
+        "origin": "sample",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      }
+    ],
+    "casualtyTrend": {
+      "origin": "sample",
+      "unit": "people, claimed range",
+      "caption": "Illustrative ranges. Not a Somalia death toll.",
+      "points": [
+        {
+          "date": "2026-10-29",
+          "values": [
+            {
+              "id": "by-fgs",
+              "label": "Sample federal statement, people killed",
+              "partyId": "fgs",
+              "low": 6,
+              "high": 14
+            },
+            {
+              "id": "by-as",
+              "label": "Sample al-Shabaab statement, soldiers killed",
+              "partyId": "shabaab",
+              "low": 3,
+              "high": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-10-30",
+          "values": [
+            {
+              "id": "by-fgs",
+              "label": "Sample federal statement, people killed",
+              "partyId": "fgs",
+              "low": 7,
+              "high": 16
+            },
+            {
+              "id": "by-as",
+              "label": "Sample al-Shabaab statement, soldiers killed",
+              "partyId": "shabaab",
+              "low": 4,
+              "high": 10
+            }
+          ]
+        },
+        {
+          "date": "2026-10-31",
+          "values": [
+            {
+              "id": "by-fgs",
+              "label": "Sample federal statement, people killed",
+              "partyId": "fgs",
+              "low": 8,
+              "high": 20
+            },
+            {
+              "id": "by-as",
+              "label": "Sample al-Shabaab statement, soldiers killed",
+              "partyId": "shabaab",
+              "low": 4,
+              "high": 12
+            }
+          ]
+        }
+      ]
+    },
+    "markers": [
+      {
+        "id": "ref-somalia-Mogadishu",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 2.03916667,
+        "lng": 45.34194444,
+        "title": "Mogadishu",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Mogadishu",
+            "url": "https://en.wikipedia.org/wiki/Mogadishu",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "ref-somalia-Kismayo",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": -0.35805556,
+        "lng": 42.54527778,
+        "title": "Kismayo",
+        "detail": "A reference city so the map has a landmark. No headline in this pull named it.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Wikipedia place summary",
+        "sources": [
+          {
+            "name": "Wikipedia: Kismayo",
+            "url": "https://en.wikipedia.org/wiki/Kismayo",
+            "note": "Coordinate from the Wikipedia REST summary. Wikipedia text is CC BY-SA 4.0. The coordinate itself is a gazetteer point.",
+            "kind": "reference"
+          }
+        ]
+      },
+      {
+        "id": "so-unit-f",
+        "kind": "unit",
+        "origin": "sample",
+        "lat": 2.2,
+        "lng": 45.2,
+        "title": "SAMPLE — unit F-1",
+        "detail": "Fictional unit outside the city center.",
+        "partyId": "fgs",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "so-unit-a",
+        "kind": "unit",
+        "origin": "sample",
+        "lat": 1.4,
+        "lng": 44.4,
+        "title": "SAMPLE — unit A-1",
+        "detail": "Fictional unit on a southern road.",
+        "partyId": "shabaab",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "so-clash",
+        "kind": "clash",
+        "origin": "sample",
+        "lat": 1.7,
+        "lng": 44.8,
+        "title": "SAMPLE — clash",
+        "detail": "Fictional clash marker.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "so-strike",
+        "kind": "strike",
+        "origin": "sample",
+        "lat": 1.2,
+        "lng": 44.1,
+        "title": "SAMPLE — strike",
+        "detail": "Fictional strike marker.",
+        "partyId": "fgs",
+        "weaponType": null,
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "so-weapon",
+        "kind": "weapon",
+        "origin": "sample",
+        "lat": 2,
+        "lng": 45,
+        "title": "SAMPLE — drone",
+        "detail": "Fictional weapon marker.",
+        "partyId": "fgs",
+        "weaponType": "drone",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ]
+      },
+      {
+        "id": "so-ref-garowe",
+        "kind": "reference",
+        "origin": "reference",
+        "lat": 8.41,
+        "lng": 48.48,
+        "title": "Garowe",
+        "detail": "City marker for orientation.",
+        "partyId": null,
+        "weaponType": null,
+        "verification": "single-source",
+        "claimedBy": "Reference geography",
+        "sources": [
+          {
+            "name": "Open map orientation",
+            "url": null,
+            "note": "Orientation or background only. Not a claim about who controls the place, and not a report of fighting today.",
+            "kind": "reference"
+          }
+        ]
+      }
+    ],
+    "shapes": [
+      {
+        "id": "so-ctrl",
+        "kind": "control",
+        "origin": "sample",
+        "partyId": "shabaab",
+        "title": "SAMPLE — illustrated southern box",
+        "detail": "Small sample polygon.",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "coordinates": [
+          [
+            44.2,
+            1.2
+          ],
+          [
+            45,
+            1.2
+          ],
+          [
+            45,
+            1.9
+          ],
+          [
+            44.2,
+            1.9
+          ],
+          [
+            44.2,
+            1.2
+          ]
+        ]
+      },
+      {
+        "id": "so-front",
+        "kind": "front",
+        "origin": "sample",
+        "partyId": null,
+        "title": "SAMPLE — illustrated line",
+        "detail": "Short sample line.",
+        "verification": "unverified",
+        "claimedBy": "Sample dataset",
+        "sources": [
+          {
+            "name": "Sample dataset",
+            "note": "Written so the page has a shape. Not a published report and not a measurement.",
+            "kind": "placeholder"
+          }
+        ],
+        "coordinates": [
+          [
+            44.6,
+            1.2
+          ],
+          [
+            44.7,
+            1.55
+          ],
+          [
+            44.5,
+            1.9
+          ]
+        ]
+      }
+    ]
+  },
+  "pull": {
+    "generatedAt": "2026-11-01T13:11:52.435Z",
+    "date": "2026-11-01",
+    "matchedArticles": 2,
+    "gdelt": "429 Too Many Requests: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the-new-web-ngrams-dataset-to-find-relevant",
+    "wikipedia": "cached",
+    "acled": "not configured",
+    "reliefweb": "not configured",
+    "ucdp": "not configured",
+    "feedNotes": [
+      "Extracted from headlines: 0 casualty groups, 0 weapon lines, 0 territory lines, 0 movement lines, 0 mapped places."
+    ]
+  }
+}
